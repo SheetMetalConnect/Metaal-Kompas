@@ -2,9 +2,6 @@
 title: Traceerbaarheid & Productidentificatie
 tags: [kaart, moc, traceerbaarheid-en-productidentificatie]
 ---
-
-# Traceerbaarheid & Productidentificatie
-
 Deze kaart biedt een overzicht van alle begrippen binnen **traceerbaarheid & productidentificatie**.
 
 ## Begrippen (10 items)

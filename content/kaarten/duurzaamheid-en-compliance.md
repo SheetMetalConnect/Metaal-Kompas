@@ -2,9 +2,6 @@
 title: Duurzaamheid & Compliance
 tags: [kaart, moc, duurzaamheid-en-compliance]
 ---
-
-# Duurzaamheid & Compliance
-
 Deze kaart biedt een overzicht van alle begrippen binnen **duurzaamheid & compliance**.
 
 ## Begrippen (20 items)

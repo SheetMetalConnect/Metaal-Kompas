@@ -2,9 +2,6 @@
 title: Innovatie & toekomsttrends
 tags: [kaart, moc, innovatie-en-toekomsttrends]
 ---
-
-# Innovatie & toekomsttrends
-
 Deze kaart biedt een overzicht van alle begrippen binnen **innovatie & toekomsttrends**.
 
 ## Begrippen (20 items)

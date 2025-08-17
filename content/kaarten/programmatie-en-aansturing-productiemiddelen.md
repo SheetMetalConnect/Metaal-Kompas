@@ -2,9 +2,6 @@
 title: Programmatie & Aansturing Productiemiddelen
 tags: [kaart, moc, programmatie-en-aansturing-productiemiddelen]
 ---
-
-# Programmatie & Aansturing Productiemiddelen
-
 Deze kaart biedt een overzicht van alle begrippen binnen **programmatie & aansturing productiemiddelen**.
 
 ## Begrippen (16 items)

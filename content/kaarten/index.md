@@ -2,9 +2,6 @@
 title: Overzicht van alle kaarten
 tags: [kaarten, overzicht, navigatie]
 ---
-
-# Overzicht van alle kaarten
-
 Deze pagina biedt toegang tot alle kaarten die de begrippen uit Kompas ordenen per vakgebied.
 
 ## Digitale transformatie & technologie

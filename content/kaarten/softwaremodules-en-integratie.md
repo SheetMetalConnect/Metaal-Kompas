@@ -2,9 +2,6 @@
 title: Softwaremodules & Integratie
 tags: [kaart, moc, softwaremodules-en-integratie]
 ---
-
-# Softwaremodules & Integratie
-
 Deze kaart biedt een overzicht van alle begrippen binnen **softwaremodules & integratie**.
 
 ## Begrippen (29 items)

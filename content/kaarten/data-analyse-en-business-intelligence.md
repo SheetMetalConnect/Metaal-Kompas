@@ -2,9 +2,6 @@
 title: Data, Analyse & Business Intelligence
 tags: [kaart, moc, data-analyse-en-business-intelligence]
 ---
-
-# Data, Analyse & Business Intelligence
-
 Deze kaart biedt een overzicht van alle begrippen binnen **data, analyse & business intelligence**.
 
 ## Begrippen (20 items)

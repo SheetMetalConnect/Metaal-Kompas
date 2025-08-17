@@ -2,9 +2,6 @@
 title: Industriële communicatieprotocollen
 tags: [kaart, moc, industriële-communicatieprotocollen]
 ---
-
-# Industriële communicatieprotocollen
-
 Deze kaart biedt een overzicht van alle begrippen binnen **industriële communicatieprotocollen**.
 
 ## Begrippen (20 items)

@@ -2,9 +2,6 @@
 title: Event streaming, messaging & integratie
 tags: [kaart, moc, event-streaming-messaging-en-integratie]
 ---
-
-# Event streaming, messaging & integratie
-
 Deze kaart biedt een overzicht van alle begrippen binnen **event streaming, messaging & integratie**.
 
 ## Begrippen (20 items)

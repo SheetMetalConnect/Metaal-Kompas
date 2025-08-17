@@ -2,9 +2,6 @@
 title: Data‑collectie & Industrial Data Platforms
 tags: [kaart, moc, data-collectie-en-industrial-data-platforms]
 ---
-
-# Data‑collectie & Industrial Data Platforms
-
 Deze kaart biedt een overzicht van alle begrippen binnen **data‑collectie & industrial data platforms**.
 
 ## Begrippen (21 items)
