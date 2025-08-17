@@ -9,17 +9,11 @@ tags: [industrie, digitalisering, digitale-transformatie-en-industrie-40-50]
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
-
-## Kenmerken
-
-[PLACEHOLDER - Kenmerken worden later toegevoegd]
-
-## Toepassing
-
-[PLACEHOLDER - Toepassingen worden later toegevoegd]
+Enterprise Resource Planning (ERP) is een softwareplatform dat bedrijfsprocessen integreert en beheert, waaronder financiën, HR, productie, supply chain en klantrelaties. Het doel is om een centrale, gedeelde database te creëren die de informatiestroom binnen een organisatie stroomlijnt.
 
 ## Gerelateerde begrippen
+
+- [[erp-vs-historian|ERP vs. Historian]]
 
 **UNS & System Integration:**
 - [[unified-namespace|Unified Namespace (UNS)]] - ERP data integration via UNS

@@ -54,6 +54,26 @@ Ignition is een server-gebaseerd platform voor het creëren en beheren van SCADA
 - **Cloud Integration** - Hybrid on-premises/cloud architectures
 - **Mobile Accessibility** - Perspective module voor mobile-friendly interfaces
 
+## Benodigde basiskennis
+
+- **Web-gebaseerd systeem:** Bekendheid met webinterfaces is vereist om de Gateway te benaderen en projecten te beheren.
+- **Apparaatintegratie:** Een basiskennis van industriële protocollen (bijv. OPC UA, MQTT) is belangrijk voor het verbinden van apparaten.
+- **Database-interactie:** Kennis van SQL-databases helpt bij het beheren van dataopslag, -opvraging en -analyse.
+- **Python-scripting:** Basisvaardigheden in Python zijn nuttig voor het scripten van automatiseringstaken en aangepaste workflows.
+
+## Ignition Maker Edition
+
+Voor niet-commercieel gebruik is de **Ignition Maker Edition** gratis beschikbaar. Deze editie bevat veel van de kernmodules van de volledige editie en is bedoeld voor persoonlijke of educatieve projecten.
+
+- **10.000 tags**
+- **Tot 10 gelijktijdige sessies**
+- Geschikt voor domotica, persoonlijke projecten of het leren van het platform
+
+## Kosten
+
+- **Ignition basislicentie:** Vanaf **$3.018 USD**, biedt de kernfunctionaliteit om Ignition op een server te draaien en met apparaten te communiceren.
+- **Perspective Module:** Maakt mobielvriendelijke, op HTML5 gebaseerde webapplicaties mogelijk. Inbegrepen in het **Basispakket** vanaf **$14.690 USD**, met onbeperkte clients en SQL-integratie.
+
 ## Gerelateerde begrippen
 
 **SCADA & HMI:**

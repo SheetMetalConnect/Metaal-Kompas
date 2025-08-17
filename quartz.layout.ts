@@ -24,7 +24,7 @@ export const sharedPageComponents: SharedLayout = {
   }),
 }
 
-// layout voor losse notitiepagina’s
+// layout voor losse notitiepagina’s (docs/defaults + Graph rechts)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ConditionalRender({
@@ -32,19 +32,21 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
-    Component.ContentMeta(),   // publicatiedatum e.d. (optioneel)
+    Component.ContentMeta(),
     Component.TagList(),
   ],
   left: [
-    Component.Explorer(),      // vertrouwde boomstructuur links
+    Component.Explorer(),
   ],
   right: [
-    Component.DesktopOnly(Component.TableOfContents()),  // inhoudsopgave (alleen desktop)
-    Component.Backlinks(),                               // gerelateerde notities
+    Component.DesktopOnly(Component.TableOfContents()),
+    Component.Backlinks(),
+    // ► Minimal, docs-consistent addition:
+    Component.DesktopOnly(Component.Graph()),
   ],
 }
 
-// layout voor lijsten (tags/folders)
+// layout voor lijsten (tags/folders) — optioneel ook Graph rechts
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
@@ -54,5 +56,8 @@ export const defaultListPageLayout: PageLayout = {
   left: [
     Component.Explorer(),
   ],
-  right: [],
+  right: [
+    // ► Optional but safe default: small graph aids orientation
+    Component.DesktopOnly(Component.Graph()),
+  ],
 }
