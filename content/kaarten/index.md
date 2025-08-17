@@ -39,9 +39,10 @@ Deze pagina biedt toegang tot alle kaarten die de begrippen uit Kompas ordenen p
 - [[duurzaamheid-en-compliance|Duurzaamheid & regelgeving]]
 - [[extra-industrie-en-security-topics|Beveiliging & IT/OT]]
 
-## Innovatie
+## Innovatie & methodologie
 
 - [[innovatie-en-toekomsttrends|Innovatie & toekomsttrends]]
+- [[methodologie-en-werkwijzen|Methodologie & werkwijzen]]
 
 ---
 
