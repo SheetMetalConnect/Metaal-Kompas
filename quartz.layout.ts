@@ -1,20 +1,30 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
-// components shared across all pages
+// gedeelde componenten (voor alle pagina's)
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [],
+  header: [
+    Component.Flex({
+      components: [
+        { Component: Component.PageTitle() },              // Site titel "Kompas"
+        { Component: Component.Spacer() },
+        { Component: Component.Search(), grow: true },     // Grote zoekbalk, altijd zichtbaar
+        { Component: Component.Darkmode() },               // Donker/licht schakelaar
+        { Component: Component.ReaderMode() },             // Rustige leesstand
+      ],
+    }),
+  ],
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "vanenkhuizen.com": "https://vanenkhuizen.com",
+      "Sheet Metal Connect": "https://sheetmetalconnect.com",
     },
   }),
 }
 
-// components for pages that display a single page (e.g. a single note)
+// layout voor losse notitiepagina’s
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ConditionalRender({
@@ -22,46 +32,26 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
+    Component.ContentMeta(),   // publicatiedatum e.d. (optioneel)
     Component.TagList(),
   ],
   left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Flex({
-      components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
-        { Component: Component.Darkmode() },
-        { Component: Component.ReaderMode() },
-      ],
-    }),
-    Component.Explorer(),
+    Component.Explorer(),      // vertrouwde boomstructuur links
   ],
   right: [
-    Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    Component.DesktopOnly(Component.TableOfContents()),  // inhoudsopgave (alleen desktop)
+    Component.Backlinks(),                               // gerelateerde notities
   ],
 }
 
-// components for pages that display lists of pages  (e.g. tags or folders)
+// layout voor lijsten (tags/folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [
+    Component.Breadcrumbs(),
+    Component.ArticleTitle(),
+    Component.ContentMeta(),
+  ],
   left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Flex({
-      components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
-        { Component: Component.Darkmode() },
-      ],
-    }),
     Component.Explorer(),
   ],
   right: [],

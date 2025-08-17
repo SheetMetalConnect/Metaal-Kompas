@@ -7,8 +7,9 @@ tags: [kaart, moc, digitale-transformatie-en-industrie-40-50]
 
 Deze kaart biedt een overzicht van alle begrippen binnen **digitale transformatie & industrie 4.0/5.0**.
 
-## Begrippen (30 items)
+## Begrippen (31 items)
 
+**Foundational Concepts:**
 - [[digitale-transformatie|Digitale transformatie]]
 - [[smart-industry|Smart Industry]]
 - [[industrie-40|Industrie 4.0]]
@@ -20,6 +21,7 @@ Deze kaart biedt een overzicht van alle begrippen binnen **digitale transformati
 - [[manufacturing-execution-system|Manufacturing Execution System (MES)]]
 - [[enterprise-resource-planning|Enterprise Resource Planning (ERP)]]
 
+**Connectivity & Data:**
 - [[internet-of-things|Internet of Things (IoT)]]
 - [[industrial-internet-of-things|Industrial Internet of Things (IIoT)]]
 - [[cloud-computing|Cloud computing]]
@@ -28,9 +30,10 @@ Deze kaart biedt een overzicht van alle begrippen binnen **digitale transformati
 - [[data-analyse|Data‑analyse]]
 - [[digitale-tweeling|Digitale tweeling (digital twin)]]
 - [[application-programming-interface|Application Programming Interface (API)]]
+
+**AI & Advanced Technologies:**
 - [[kunstmatige-intelligentie|Kunstmatige intelligentie (AI)]]
 - [[machine-learning|Machine learning]]
-
 - [[deep-learning|Deep learning]]
 - [[computervisie|Computervisie (computer vision)]]
 - [[natural-language-processing|Natural Language Processing (NLP)]]
@@ -38,9 +41,14 @@ Deze kaart biedt een overzicht van alle begrippen binnen **digitale transformati
 - [[virtual-reality|Virtual Reality (VR)]]
 - [[mixed-reality|Mixed Reality (MR)]]
 - [[extended-reality|Extended Reality (XR)]]
+
+**Advanced Manufacturing:**
 - [[mens-robot-samenwerking|Mens‑robot samenwerking (HRC)]]
 - [[autonome-productie|Autonome productie]]
 - [[lights-out-manufacturing|Lights‑out manufacturing]]
+
+**Assessment & Strategy:**
+- [[digitale-transformatie-volwassenheidsanalyse|Digitale Transformatie Volwassenheidsanalyse (DTMA)]] - Maturity assessment
 
 
 ## UNS & Digital Thread

@@ -1,57 +1,66 @@
 ---
-title: Kompas
-tags: [index, start, naslag, industrie, digitalisering]
+title: Kaarten – Navigeer door de kenniswereld
+tags: [kaarten, overzicht, navigatie, kompas]
 ---
 
-# Kompas – Wegwijzer voor digitale transformatie
+# Kaarten – Navigeer door de kenniswereld
 
-**Kompas** is een digitale kennisbron over de wereld van **Industrie 4.0/5.0, smart factories en digitale transformatie in de maak- en metaalindustrie**.  
-Het is opgezet door [vanenkhuizen.com](https://vanenkhuizen.com) als **naslagwerk en open kluis**: een plek waar begrippen, standaarden, protocollen en trends helder worden uitgelegd.  
+**Kompas** is jouw interactieve kenniskluis voor de **metaal- en maakindustrie**. Met deze kaarten navigeer je door de complexe wereld van digitale transformatie en vind je precies wat je zoekt.
 
-Kompas ondersteunt:
-- **Professionals in de industrie** die snel een definitie of uitleg nodig hebben  
-- **Seminars en trainingen** als naslagmateriaal  
-- **Video’s en publicaties** waar begrippen worden gekoppeld  
-- **Organisaties** die grip willen krijgen op digitale transformatie  
+> 🧭 **Kompas-principe:** Net zoals een kompas je helpt de weg te vinden, helpen deze kaarten je de juiste begrippen en verbanden te ontdekken in de industriële digitalisering.
 
----
+## Digitale Transformatie & Technologie
 
-## Doel van Kompas
-- Begrippen helder en eenduidig maken in het Nederlands  
-- Verbanden laten zien tussen concepten (via interne links)  
-- Een levend naslagwerk bieden dat meegroeit met de industrie  
-- Onderdeel zijn van het bredere werk van Vanenkhuizen: advies, seminars en publicaties  
+- [[digitale-transformatie-en-industrie-40-50|Digitale transformatie & Industrie 4.0/5.0]] – De fundamenten van de slimme industrie
+- [[softwaremodules-en-integratie|Softwaremodules & Integratie]] – Systemen die samenwerken  
+- [[softwaredeployment-en-architectuur|Softwaredeployment & Architectuur]] – Van code naar productie
+- [[data-collectie-en-industrial-data-platforms|Data‑collectie & Industrial Data Platforms]] – De basis van data-gedreven fabrieken
 
----
+## Procesoptimalisatie & Organisatie
 
-## Hoe gebruik je Kompas?
-- **Zoek een begrip** in de zoekfunctie (bijv. *MES*, *CSRD*, *Digital Twin*)  
-- **Volg de links** naar verwante begrippen om verbanden te ontdekken  
-- **Blader per categorie** (data, software, duurzaamheid, kwaliteit, protocollen, enz.)  
-- **Gebruik als naslag bij events, video’s of trainingen**  
+- [[procesoptimalisatie-en-organisatie|Procesoptimalisatie & Organisatie]] – Lean, efficiënt en slim produceren
+- [[productstructuur-en-documentatie|Productstructuur & Documentatie]] – Van ontwerp tot documentatie
+- [[traceerbaarheid-en-productidentificatie|Traceerbaarheid & Productidentificatie]] – Weten waar alles vandaan komt
+- [[programmatie-en-aansturing-productiemiddelen|Programmatie & Aansturing Productiemiddelen]] – Machines intelligent besturen
 
----
+## Data & Kwaliteit
 
-## Navigatie
+- [[data-analyse-en-business-intelligence|Data, Analyse & Business Intelligence]] – Van data naar inzichten
+- [[kwaliteitsmanagement-en-software|Kwaliteitsmanagement & Software]] – Kwaliteit borgen met technologie
+- [[lasnormen-en-certificering|Lasnormen & Certificering]] – Standaarden in de metaalbewerking
 
-**[[kaarten/index|📋 Overzicht van alle kaarten]]** – Blader door alle 16 thematische kaarten met 320 begrippen
+## Communicatie & Integratie
 
-**Populaire thema's:**
-- [[kaarten/digitale-transformatie-en-industrie-40-50|Digitale transformatie & Industrie 4.0/5.0]] (30 begrippen)
-- [[kaarten/softwaremodules-en-integratie|Softwaremodules & Integratie]] (25 begrippen)  
-- [[kaarten/procesoptimalisatie-en-organisatie|Procesoptimalisatie & Organisatie]] (20 begrippen)
-- [[kaarten/data-analyse-en-business-intelligence|Data & Business Intelligence]] (20 begrippen)
-- [[kaarten/duurzaamheid-en-compliance|Duurzaamheid & Compliance]] (20 begrippen)
+- [[industriële-communicatieprotocollen|Industriële communicatieprotocollen]] – Hoe machines met elkaar praten
+- [[event-streaming-messaging-en-integratie|Event streaming, messaging & integratie]] – Real-time datastromen
 
-**Bekijk alle thema's:** [[kaarten/index|Volledige kaartenoverzicht →]]  
+## Duurzaamheid & Security
 
----
+- [[duurzaamheid-en-compliance|Duurzaamheid & Compliance]] – Groen en regelgeving-proof
+- [[extra-industrie-en-security-topics|Security & IT/OT]] – Veiligheid in de slimme fabriek
 
-## Meer weten?
-- [vanenkhuizen.com](https://vanenkhuizen.com) – hoofdsite  
-- [Wegwijzer digitale transformatie](wegwijzer.md) – gratis leidraad en lead magnet  
-- Contact: info@vanenkhuizen.com  
+## Innovatie
+
+- [[innovatie-en-toekomsttrends|Innovatie & toekomsttrends]] – De toekomst van de industrie
 
 ---
 
-> ✦ *Kompas is geen statisch woordenboek, maar een **levend naslagwerk**. De industrie verandert continu – en dit kompas helpt de koers te houden.*
+## Over deze kenniskluis
+
+**Kompas** is een **levende ontwikkeling** – begrippen worden continu toegevoegd en verbeterd. Deze interactieve vault groeit mee met de snelle veranderingen in de metaal- en maakindustrie.
+
+### Waarom Kompas?
+Een kompas helpt je de weg te vinden. Deze kenniskluis doet hetzelfde voor industriële digitalisering: je vindt snel begrippen, ontdekt verbanden en houdt overzicht in een complexe wereld.
+
+---
+
+## Contact & Meer informatie
+
+**Kompas** is ontwikkeld door **Luke van Enkhuizen**
+
+- 🌐 [vanenkhuizen.com](https://vanenkhuizen.com) – hoofdsite
+- 📧 [info@vanenkhuizen.com](mailto:info@vanenkhuizen.com) – contact
+
+---
+
+← Terug naar [[../index|Kompas hoofdpagina]]

@@ -1,49 +1,46 @@
 ---
 title: Overzicht van alle kaarten
-tags: [kaarten, overzicht, moc]
+tags: [kaarten, overzicht, navigatie]
 ---
 
 # Overzicht van alle kaarten
 
-Deze pagina biedt toegang tot alle **Map of Content (MOC) kaarten** die de 320 begrippen uit Kompas ordenen per themagebied.
+Deze pagina biedt toegang tot alle kaarten die de begrippen uit Kompas ordenen per vakgebied.
 
-## Digitale Transformatie & Technologie
+## Digitale transformatie & technologie
 
-- [[digitale-transformatie-en-industrie-40-50|Digitale transformatie & Industrie 4.0/5.0]] (30 begrippen)
-- [[softwaremodules-en-integratie|Softwaremodules & Integratie]] (25 begrippen)  
-- [[softwaredeployment-en-architectuur|Softwaredeployment & Architectuur]] (19 begrippen)
-- [[data-collectie-en-industrial-data-platforms|Data‑collectie & Industrial Data Platforms]] (20 begrippen)
+- [[digitale-transformatie-en-industrie-40-50|Digitale transformatie & Industrie 4.0/5.0]]
+- [[softwaremodules-en-integratie|Softwaremodules & integratie]]  
+- [[softwaredeployment-en-architectuur|Software-uitrol & architectuur]]
+- [[data-collectie-en-industrial-data-platforms|Dataverzameling & industriële dataplatforms]]
 
-## Procesoptimalisatie & Organisatie
+## Procesverbetering & organisatie
 
-- [[procesoptimalisatie-en-organisatie|Procesoptimalisatie & Organisatie]] (20 begrippen)
-- [[productstructuur-en-documentatie|Productstructuur & Documentatie]] (20 begrippen)
-- [[traceerbaarheid-en-productidentificatie|Traceerbaarheid & Productidentificatie]] (10 begrippen)
-- [[programmatie-en-aansturing-productiemiddelen|Programmatie & Aansturing Productiemiddelen]] (16 begrippen)
+- [[procesoptimalisatie-en-organisatie|Procesverbetering & organisatie]]
+- [[productstructuur-en-documentatie|Productstructuur & documentatie]]
+- [[traceerbaarheid-en-productidentificatie|Traceerbaarheid & productidentificatie]]
+- [[programmatie-en-aansturing-productiemiddelen|Programmering & aansturing productiemiddelen]]
 
-## Data & Kwaliteit
+## Data & kwaliteit
 
-- [[data-analyse-en-business-intelligence|Data, Analyse & Business Intelligence]] (20 begrippen)
-- [[kwaliteitsmanagement-en-software|Kwaliteitsmanagement & Software]] (20 begrippen)
-- [[lasnormen-en-certificering|Lasnormen & Certificering]] (20 begrippen)
+- [[data-analyse-en-business-intelligence|Data-analyse & bedrijfsinformatie]]
+- [[kwaliteitsmanagement-en-software|Kwaliteitsbeheer & software]]
+- [[lasnormen-en-certificering|Lasnormen & certificering]]
 
-## Communicatie & Integratie
+## Communicatie & integratie
 
-- [[industriële-communicatieprotocollen|Industriële communicatieprotocollen]] (20 begrippen)
-- [[event-streaming-messaging-en-integratie|Event streaming, messaging & integratie]] (20 begrippen)
+- [[industriële-communicatieprotocollen|Industriële communicatieprotocollen]]
+- [[event-streaming-messaging-en-integratie|Gebeurtenisstromen, berichten & integratie]]
 
-## Duurzaamheid & Security
+## Duurzaamheid & beveiliging
 
-- [[duurzaamheid-en-compliance|Duurzaamheid & Compliance]] (20 begrippen)
-- [[extra-industrie-en-security-topics|Extra industrie & security topics]] (20 begrippen)
+- [[duurzaamheid-en-compliance|Duurzaamheid & regelgeving]]
+- [[extra-industrie-en-security-topics|Beveiliging & IT/OT]]
 
 ## Innovatie
 
-- [[innovatie-en-toekomsttrends|Innovatie & toekomsttrends]] (20 begrippen)
+- [[innovatie-en-toekomsttrends|Innovatie & toekomsttrends]]
 
 ---
 
-**Totaal: 16 kaarten met 320 begrippen**
-
----
 ← Terug naar [[../index|Kompas hoofdpagina]]

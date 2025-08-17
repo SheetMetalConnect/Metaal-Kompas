@@ -7,8 +7,9 @@ tags: [kaart, moc, softwaremodules-en-integratie]
 
 Deze kaart biedt een overzicht van alle begrippen binnen **softwaremodules & integratie**.
 
-## Begrippen (25 items)
+## Begrippen (29 items)
 
+**Enterprise Systems:**
 - [[computer-aided-design|Computer‑Aided Design (CAD)]]
 - [[computer-aided-manufacturing|Computer‑Aided Manufacturing (CAM)]]
 - [[product-lifecycle-management|Product Lifecycle Management (PLM)]]
@@ -20,6 +21,7 @@ Deze kaart biedt een overzicht van alle begrippen binnen **softwaremodules & int
 - [[warehouse-management-system|Warehouse Management System (WMS)]]
 - [[material-requirements-planning|Material Requirements Planning (MRP)]]
 
+**Operations & Integration:**
 - [[electronic-data-interchange|Electronic Data Interchange (EDI)]]
 - [[manufacturing-operations-management|Manufacturing Operations Management (MOM)]]
 - [[advanced-planning-and-scheduling|Advanced Planning and Scheduling (APS)]]
@@ -31,11 +33,18 @@ Deze kaart biedt een overzicht van alle begrippen binnen **softwaremodules & int
 - [[document-management-system|Document Management System (DMS)]]
 - [[enterprise-content-management|Enterprise Content Management (ECM)]]
 
+**Development & Platforms:**
 - [[api-gateway|API‑gateway]]
 - [[versiebeheer|Versiebeheer (Git)]]
 - [[continuous-integration-continuous-deployment|Continuous Integration / Continuous Deployment (CI/CD)]]
 - [[gitops|GitOps]]
 - [[zelf-gehoste-software|Zelf gehoste software (self‑hosted)]]
+
+**Low-Code & SCADA:**
+- [[appsmith|Appsmith]] - Open-source low-code platform
+- [[ignition-inductive-automation|Ignition (Inductive Automation)]] - SCADA/HMI platform
+- [[retool|Retool]] - Internal tools development
+- [[tulip-software|Tulip Software]] - Manufacturing apps platform
 
 
 ## Gerelateerde kaarten
