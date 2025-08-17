@@ -1,8 +1,9 @@
+---
 title: Heijunka (productie‑egalering)
 tags: [industrie, digitalisering, procesoptimalisatie-en-organisatie]
 ---
 
-# Heijunka (productie‑egalering)
+
 
 *Heijunka (productie‑egalering)* is een begrip binnen de industriële digitalisering en procesoptimalisatie & organisatie.
 

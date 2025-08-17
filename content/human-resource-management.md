@@ -1,8 +1,9 @@
+---
 title: Human Resource Management (HRM)
 tags: [industrie, digitalisering, softwaremodules-en-integratie]
 ---
 
-# Human Resource Management (HRM)
+
 
 *Human Resource Management (HRM)* is een begrip binnen de industriële digitalisering en softwaremodules & integratie.
 

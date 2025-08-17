@@ -1,8 +1,9 @@
+---
 title: Welder Performance Qualification (WPQ)
 tags: [industrie, digitalisering, lasnormen-en-certificering]
 ---
 
-# Welder Performance Qualification (WPQ)
+
 
 *Welder Performance Qualification (WPQ)* is een begrip binnen de industriële digitalisering en lasnormen & certificering.
 

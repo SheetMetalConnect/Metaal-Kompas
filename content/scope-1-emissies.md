@@ -1,8 +1,9 @@
+---
 title: Scope 1‑emissies
 tags: [industrie, digitalisering, duurzaamheid-en-compliance]
 ---
 
-# Scope 1‑emissies
+
 
 *Scope 1‑emissies* is een begrip binnen de industriële digitalisering en duurzaamheid & compliance.
 

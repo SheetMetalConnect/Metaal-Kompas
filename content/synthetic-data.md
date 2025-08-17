@@ -1,8 +1,9 @@
+---
 title: Synthetic data (synthetische data)
 tags: [industrie, digitalisering, innovatie-en-toekomsttrends]
 ---
 
-# Synthetic data (synthetische data)
+
 
 *Synthetic data (synthetische data)* is een begrip binnen de industriële digitalisering en innovatie & toekomsttrends.
 

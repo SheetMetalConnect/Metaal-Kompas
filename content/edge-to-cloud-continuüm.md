@@ -1,8 +1,9 @@
+---
 title: Edge‑to‑cloud‑continuüm
 tags: [industrie, digitalisering, innovatie-en-toekomsttrends]
 ---
 
-# Edge‑to‑cloud‑continuüm
+
 
 *Edge‑to‑cloud‑continuüm* is een begrip binnen de industriële digitalisering en innovatie & toekomsttrends.
 

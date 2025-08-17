@@ -1,8 +1,9 @@
+---
 title: Historian‑database (proceshistorian)
 tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
 ---
 
-# Historian‑database (proceshistorian)
+
 
 *Historian‑database (proceshistorian)* is een begrip binnen de industriële digitalisering en data, analyse & business intelligence.
 

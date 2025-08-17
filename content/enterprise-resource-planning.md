@@ -1,8 +1,9 @@
+---
 title: Enterprise Resource Planning (ERP)
 tags: [industrie, digitalisering, digitale-transformatie-en-industrie-40-50]
 ---
 
-# Enterprise Resource Planning (ERP)
+
 
 *Enterprise Resource Planning (ERP)* is een begrip binnen de industriële digitalisering en digitale transformatie & industrie 4.0/5.0.
 

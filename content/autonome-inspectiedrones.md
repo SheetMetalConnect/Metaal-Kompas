@@ -1,8 +1,9 @@
+---
 title: Autonome inspectiedrones
 tags: [industrie, digitalisering, innovatie-en-toekomsttrends]
 ---
 
-# Autonome inspectiedrones
+
 
 *Autonome inspectiedrones* is een begrip binnen de industriële digitalisering en innovatie & toekomsttrends.
 

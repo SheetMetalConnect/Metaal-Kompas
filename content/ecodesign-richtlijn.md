@@ -1,8 +1,9 @@
+---
 title: Ecodesign‑richtlijn (EcoDesign Directive)
 tags: [industrie, digitalisering, duurzaamheid-en-compliance]
 ---
 
-# Ecodesign‑richtlijn (EcoDesign Directive)
+
 
 *Ecodesign‑richtlijn (EcoDesign Directive)* is een begrip binnen de industriële digitalisering en duurzaamheid & compliance.
 

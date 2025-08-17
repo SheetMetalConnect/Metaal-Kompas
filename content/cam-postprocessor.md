@@ -1,8 +1,9 @@
+---
 title: CAM‑postprocessor
 tags: [industrie, digitalisering, programmatie-en-aansturing-productiemiddelen]
 ---
 
-# CAM‑postprocessor
+
 
 *CAM‑postprocessor* is een begrip binnen de industriële digitalisering en programmatie & aansturing productiemiddelen.
 

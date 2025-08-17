@@ -1,8 +1,9 @@
+---
 title: Lasnaadvoorbereiding
 tags: [industrie, digitalisering, lasnormen-en-certificering]
 ---
 
-# Lasnaadvoorbereiding
+
 
 *Lasnaadvoorbereiding* is een begrip binnen de industriële digitalisering en lasnormen & certificering.
 

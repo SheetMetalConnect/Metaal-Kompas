@@ -1,8 +1,9 @@
+---
 title: Incidentrespons
 tags: [industrie, digitalisering, extra-industrie-en-security-topics]
 ---
 
-# Incidentrespons
+
 
 *Incidentrespons* is een begrip binnen de industriële digitalisering en extra industrie & security topics.
 

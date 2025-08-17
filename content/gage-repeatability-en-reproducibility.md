@@ -1,8 +1,9 @@
+---
 title: Gage Repeatability & Reproducibility (Gage R&R)
 tags: [industrie, digitalisering, kwaliteitsmanagement-en-software]
 ---
 
-# Gage Repeatability & Reproducibility (Gage R&R)
+
 
 *Gage Repeatability & Reproducibility (Gage R&R)* is een begrip binnen de industriële digitalisering en kwaliteitsmanagement & software.
 

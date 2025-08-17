@@ -1,8 +1,9 @@
+---
 title: Offline programmeren (OLP)
 tags: [industrie, digitalisering, programmatie-en-aansturing-productiemiddelen]
 ---
 
-# Offline programmeren (OLP)
+
 
 *Offline programmeren (OLP)* is een begrip binnen de industriële digitalisering en programmatie & aansturing productiemiddelen.
 

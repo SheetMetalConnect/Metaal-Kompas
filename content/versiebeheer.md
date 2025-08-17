@@ -1,8 +1,9 @@
+---
 title: Versiebeheer (Git)
 tags: [industrie, digitalisering, softwaremodules-en-integratie]
 ---
 
-# Versiebeheer (Git)
+
 
 *Versiebeheer (Git)* is een begrip binnen de industriële digitalisering en softwaremodules & integratie.
 

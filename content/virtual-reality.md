@@ -1,8 +1,9 @@
+---
 title: Virtual Reality (VR)
 tags: [industrie, digitalisering, digitale-transformatie-en-industrie-40-50]
 ---
 
-# Virtual Reality (VR)
+
 
 *Virtual Reality (VR)* is een begrip binnen de industriële digitalisering en digitale transformatie & industrie 4.0/5.0.
 

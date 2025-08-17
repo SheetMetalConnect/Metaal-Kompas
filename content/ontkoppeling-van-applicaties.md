@@ -1,8 +1,9 @@
+---
 title: Ontkoppeling van applicaties
 tags: [industrie, digitalisering, softwaredeployment-en-architectuur]
 ---
 
-# Ontkoppeling van applicaties
+
 
 *Ontkoppeling van applicaties* is een architectuurprincipe waarbij systemen en applicaties worden ontworpen om zo min mogelijk directe afhankelijkheden van elkaar te hebben, waardoor flexibiliteit, onderhoudsbaarheid en schaalbaarheid worden vergroot.
 

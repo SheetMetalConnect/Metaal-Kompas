@@ -1,8 +1,9 @@
+---
 title: Technische specificatie
 tags: [industrie, digitalisering, productstructuur-en-documentatie]
 ---
 
-# Technische specificatie
+
 
 *Technische specificatie* is een begrip binnen de industriële digitalisering en productstructuur & documentatie.
 

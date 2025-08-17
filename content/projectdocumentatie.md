@@ -1,8 +1,9 @@
+---
 title: Projectdocumentatie
 tags: [industrie, digitalisering, productstructuur-en-documentatie]
 ---
 
-# Projectdocumentatie
+
 
 *Projectdocumentatie* is een begrip binnen de industriële digitalisering en productstructuur & documentatie.
 

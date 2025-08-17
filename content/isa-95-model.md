@@ -1,8 +1,9 @@
+---
 title: ISA-95 model
 tags: [industrie, digitalisering, softwaredeployment-en-architectuur, standaarden]
 ---
 
-# ISA-95 model
+
 
 *ISA-95 model* is een internationale standaard die een referentiemodel biedt voor de integratie van enterprise- en control systemen, met als doel de communicatie tussen business en manufacturing systemen te verbeteren.
 

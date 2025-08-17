@@ -1,8 +1,9 @@
+---
 title: Enterprise Content Management (ECM)
 tags: [industrie, digitalisering, softwaremodules-en-integratie]
 ---
 
-# Enterprise Content Management (ECM)
+
 
 *Enterprise Content Management (ECM)* is een begrip binnen de industriële digitalisering en softwaremodules & integratie.
 

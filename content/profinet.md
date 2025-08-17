@@ -1,8 +1,9 @@
+---
 title: Profinet
 tags: [industrie, digitalisering, industriële-communicatieprotocollen]
 ---
 
-# Profinet
+
 
 *Profinet* is een begrip binnen de industriële digitalisering en industriële communicatieprotocollen.
 

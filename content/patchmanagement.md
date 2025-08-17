@@ -1,8 +1,9 @@
+---
 title: Patchmanagement
 tags: [industrie, digitalisering, extra-industrie-en-security-topics]
 ---
 
-# Patchmanagement
+
 
 *Patchmanagement* is een begrip binnen de industriële digitalisering en extra industrie & security topics.
 

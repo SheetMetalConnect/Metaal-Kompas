@@ -2,6 +2,8 @@
 title: Kwaliteitsmanagement & Software
 tags: [kaart, moc, kwaliteitsmanagement-en-software]
 ---
+
+
 Deze kaart biedt een overzicht van alle begrippen binnen **kwaliteitsmanagement & software**.
 
 ## Begrippen (20 items)

@@ -1,6 +1,8 @@
+---
 title: Energie‑audit
 tags: [industrie, digitalisering, duurzaamheid-en-compliance]
 ---
+
 
 *Energie‑audit* is een begrip binnen de industriële digitalisering en duurzaamheid & compliance.
 

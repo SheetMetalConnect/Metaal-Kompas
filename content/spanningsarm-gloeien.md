@@ -1,8 +1,9 @@
+---
 title: Spanningsarm gloeien
 tags: [industrie, digitalisering, lasnormen-en-certificering]
 ---
 
-# Spanningsarm gloeien
+
 
 *Spanningsarm gloeien* is een begrip binnen de industriële digitalisering en lasnormen & certificering.
 

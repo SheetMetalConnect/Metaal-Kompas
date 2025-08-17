@@ -1,8 +1,9 @@
+---
 title: Lasrobot‑programmering
 tags: [industrie, digitalisering, programmatie-en-aansturing-productiemiddelen]
 ---
 
-# Lasrobot‑programmering
+
 
 *Lasrobot‑programmering* is een begrip binnen de industriële digitalisering en programmatie & aansturing productiemiddelen.
 

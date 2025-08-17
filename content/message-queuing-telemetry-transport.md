@@ -1,8 +1,9 @@
+---
 title: Message Queuing Telemetry Transport (MQTT)
 tags: [industrie, digitalisering, industriële-communicatieprotocollen]
 ---
 
-# Message Queuing Telemetry Transport (MQTT)
+
 
 *Message Queuing Telemetry Transport (MQTT)* is een lightweight messaging protocol dat speciaal is ontworpen voor machine-to-machine communicatie in omgevingen met beperkte bandbreedte en onbetrouwbare netwerkverbindingen.
 

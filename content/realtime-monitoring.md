@@ -1,8 +1,9 @@
+---
 title: Realtime monitoring
 tags: [industrie, digitalisering, data-collectie-en-industrial-data-platforms]
 ---
 
-# Realtime monitoring
+
 
 *Realtime monitoring* is een begrip binnen de industriële digitalisering en data‑collectie & industrial data platforms.
 

@@ -1,8 +1,9 @@
+---
 title: Extended Reality (XR)
 tags: [industrie, digitalisering, digitale-transformatie-en-industrie-40-50]
 ---
 
-# Extended Reality (XR)
+
 
 *Extended Reality (XR)* is een begrip binnen de industriële digitalisering en digitale transformatie & industrie 4.0/5.0.
 

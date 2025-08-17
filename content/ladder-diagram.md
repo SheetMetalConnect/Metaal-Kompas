@@ -1,8 +1,9 @@
+---
 title: Ladder Diagram (LD)
 tags: [industrie, digitalisering, programmatie-en-aansturing-productiemiddelen]
 ---
 
-# Ladder Diagram (LD)
+
 
 *Ladder Diagram (LD)* is een begrip binnen de industriële digitalisering en programmatie & aansturing productiemiddelen.
 

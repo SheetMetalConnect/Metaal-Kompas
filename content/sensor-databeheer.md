@@ -1,8 +1,9 @@
+---
 title: Sensor‑databeheer
 tags: [industrie, digitalisering, data-collectie-en-industrial-data-platforms]
 ---
 
-# Sensor‑databeheer
+
 
 *Sensor‑databeheer* is een begrip binnen de industriële digitalisering en data‑collectie & industrial data platforms.
 

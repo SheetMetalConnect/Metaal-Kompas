@@ -1,8 +1,9 @@
+---
 title: KNX‑protocol
 tags: [industrie, digitalisering, industriële-communicatieprotocollen]
 ---
 
-# KNX‑protocol
+
 
 *KNX‑protocol* is een begrip binnen de industriële digitalisering en industriële communicatieprotocollen.
 

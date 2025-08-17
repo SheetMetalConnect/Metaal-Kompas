@@ -1,8 +1,9 @@
+---
 title: Hardheidsmeting
 tags: [industrie, digitalisering, lasnormen-en-certificering]
 ---
 
-# Hardheidsmeting
+
 
 *Hardheidsmeting* is een begrip binnen de industriële digitalisering en lasnormen & certificering.
 

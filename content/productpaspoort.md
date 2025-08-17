@@ -1,8 +1,9 @@
+---
 title: Productpaspoort
 tags: [industrie, digitalisering, duurzaamheid-en-compliance]
 ---
 
-# Productpaspoort
+
 
 *Productpaspoort* is een begrip binnen de industriële digitalisering en duurzaamheid & compliance.
 

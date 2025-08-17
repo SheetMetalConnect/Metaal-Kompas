@@ -1,8 +1,9 @@
+---
 title: Java Message Service (JMS)
 tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
 ---
 
-# Java Message Service (JMS)
+
 
 *Java Message Service (JMS)* is een begrip binnen de industriële digitalisering en event streaming, messaging & integratie.
 

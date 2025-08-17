@@ -1,8 +1,9 @@
+---
 title: Mens‑robot samenwerking (HRC)
 tags: [industrie, digitalisering, digitale-transformatie-en-industrie-40-50]
 ---
 
-# Mens‑robot samenwerking (HRC)
+
 
 *Mens‑robot samenwerking (HRC)* is een begrip binnen de industriële digitalisering en digitale transformatie & industrie 4.0/5.0.
 

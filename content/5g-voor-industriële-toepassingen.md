@@ -1,8 +1,9 @@
+---
 title: 5G voor industriële toepassingen
 tags: [industrie, digitalisering, industriële-communicatieprotocollen]
 ---
 
-# 5G voor industriële toepassingen
+
 
 *5G voor industriële toepassingen* is een begrip binnen de industriële digitalisering en industriële communicatieprotocollen.
 

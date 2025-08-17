@@ -1,8 +1,9 @@
+---
 title: Bluetooth Low Energy (BLE)
 tags: [industrie, digitalisering, industriële-communicatieprotocollen]
 ---
 
-# Bluetooth Low Energy (BLE)
+
 
 *Bluetooth Low Energy (BLE)* is een begrip binnen de industriële digitalisering en industriële communicatieprotocollen.
 

@@ -1,8 +1,9 @@
+---
 title: Digitale tweeling (digital twin)
 tags: [industrie, digitalisering, digitale-transformatie-en-industrie-40-50]
 ---
 
-# Digitale tweeling (digital twin)
+
 
 *Digitale tweeling (digital twin)* is een begrip binnen de industriële digitalisering en digitale transformatie & industrie 4.0/5.0.
 

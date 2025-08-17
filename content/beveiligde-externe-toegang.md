@@ -1,8 +1,9 @@
+---
 title: Beveiligde externe toegang (remote access security)
 tags: [industrie, digitalisering, extra-industrie-en-security-topics]
 ---
 
-# Beveiligde externe toegang (remote access security)
+
 
 *Beveiligde externe toegang (remote access security)* is een begrip binnen de industriële digitalisering en extra industrie & security topics.
 

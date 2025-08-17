@@ -1,8 +1,9 @@
+---
 title: Self‑healing materials (zelfherstellende materialen)
 tags: [industrie, digitalisering, innovatie-en-toekomsttrends]
 ---
 
-# Self‑healing materials (zelfherstellende materialen)
+
 
 *Self‑healing materials (zelfherstellende materialen)* is een begrip binnen de industriële digitalisering en innovatie & toekomsttrends.
 

@@ -1,8 +1,9 @@
+---
 title: Message broker
 tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
 ---
 
-# Message broker
+
 
 *Message broker* is een begrip binnen de industriële digitalisering en event streaming, messaging & integratie.
 

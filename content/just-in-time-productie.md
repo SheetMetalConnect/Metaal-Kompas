@@ -1,8 +1,9 @@
+---
 title: Just‑in‑time productie (JIT)
 tags: [industrie, digitalisering, procesoptimalisatie-en-organisatie]
 ---
 
-# Just‑in‑time productie (JIT)
+
 
 *Just‑in‑time productie (JIT)* is een begrip binnen de industriële digitalisering en procesoptimalisatie & organisatie.
 

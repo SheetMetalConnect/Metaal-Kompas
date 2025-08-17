@@ -1,8 +1,9 @@
+---
 title: Fieldbus‑logging
 tags: [industrie, digitalisering, data-collectie-en-industrial-data-platforms]
 ---
 
-# Fieldbus‑logging
+
 
 *Fieldbus‑logging* is een begrip binnen de industriële digitalisering en data‑collectie & industrial data platforms.
 

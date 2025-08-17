@@ -1,8 +1,9 @@
+---
 title: Operational Technology‑security (OT‑security)
 tags: [industrie, digitalisering, extra-industrie-en-security-topics]
 ---
 
-# Operational Technology‑security (OT‑security)
+
 
 *Operational Technology‑security (OT‑security)* is een begrip binnen de industriële digitalisering en extra industrie & security topics.
 

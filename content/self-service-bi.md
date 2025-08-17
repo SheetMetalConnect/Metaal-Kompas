@@ -1,8 +1,9 @@
+---
 title: Self‑service BI
 tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
 ---
 
-# Self‑service BI
+
 
 *Self‑service BI* is een begrip binnen de industriële digitalisering en data, analyse & business intelligence.
 

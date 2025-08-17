@@ -1,8 +1,9 @@
+---
 title: Extract‑Load‑Transform (ELT)
 tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
 ---
 
-# Extract‑Load‑Transform (ELT)
+
 
 *Extract‑Load‑Transform (ELT)* is een begrip binnen de industriële digitalisering en data, analyse & business intelligence.
 

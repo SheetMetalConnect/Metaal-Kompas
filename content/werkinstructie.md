@@ -1,8 +1,9 @@
+---
 title: Werkinstructie
 tags: [industrie, digitalisering, productstructuur-en-documentatie]
 ---
 
-# Werkinstructie
+
 
 *Werkinstructie* is een begrip binnen de industriële digitalisering en productstructuur & documentatie.
 

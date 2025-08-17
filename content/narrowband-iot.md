@@ -1,8 +1,9 @@
+---
 title: Narrowband‑IoT (NB‑IoT)
 tags: [industrie, digitalisering, industriële-communicatieprotocollen]
 ---
 
-# Narrowband‑IoT (NB‑IoT)
+
 
 *Narrowband‑IoT (NB‑IoT)* is een begrip binnen de industriële digitalisering en industriële communicatieprotocollen.
 

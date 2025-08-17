@@ -1,8 +1,9 @@
+---
 title: Levenscyclusanalyse (LCA)
 tags: [industrie, digitalisering, duurzaamheid-en-compliance]
 ---
 
-# Levenscyclusanalyse (LCA)
+
 
 *Levenscyclusanalyse (LCA)* is een begrip binnen de industriële digitalisering en duurzaamheid & compliance.
 

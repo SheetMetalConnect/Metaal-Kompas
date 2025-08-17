@@ -1,8 +1,9 @@
+---
 title: Warehouse Management System (WMS)
 tags: [industrie, digitalisering, softwaremodules-en-integratie]
 ---
 
-# Warehouse Management System (WMS)
+
 
 *Warehouse Management System (WMS)* is een begrip binnen de industriële digitalisering en softwaremodules & integratie.
 

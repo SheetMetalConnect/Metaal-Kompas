@@ -1,8 +1,9 @@
+---
 title: Datacleaning
 tags: [industrie, digitalisering, data-collectie-en-industrial-data-platforms]
 ---
 
-# Datacleaning
+
 
 *Datacleaning* is een begrip binnen de industriële digitalisering en data‑collectie & industrial data platforms.
 

@@ -1,8 +1,9 @@
+---
 title: Data‑kwaliteitsbeheer
 tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
 ---
 
-# Data‑kwaliteitsbeheer
+
 
 *Data‑kwaliteitsbeheer* is een begrip binnen de industriële digitalisering en data, analyse & business intelligence.
 

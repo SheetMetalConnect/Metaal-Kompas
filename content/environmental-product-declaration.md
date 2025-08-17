@@ -1,8 +1,9 @@
+---
 title: Environmental Product Declaration (EPD)
 tags: [industrie, digitalisering, duurzaamheid-en-compliance]
 ---
 
-# Environmental Product Declaration (EPD)
+
 
 *Environmental Product Declaration (EPD)* is een begrip binnen de industriële digitalisering en duurzaamheid & compliance.
 

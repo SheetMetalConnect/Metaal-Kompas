@@ -1,8 +1,9 @@
+---
 title: Quantumcomputing in productie
 tags: [industrie, digitalisering, innovatie-en-toekomsttrends]
 ---
 
-# Quantumcomputing in productie
+
 
 *Quantumcomputing in productie* is een begrip binnen de industriële digitalisering en innovatie & toekomsttrends.
 

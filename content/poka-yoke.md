@@ -1,8 +1,9 @@
+---
 title: Poka‑Yoke (foutpreventie)
 tags: [industrie, digitalisering, kwaliteitsmanagement-en-software]
 ---
 
-# Poka‑Yoke (foutpreventie)
+
 
 *Poka‑Yoke (foutpreventie)* is een begrip binnen de industriële digitalisering en kwaliteitsmanagement & software.
 

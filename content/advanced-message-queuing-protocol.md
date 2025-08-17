@@ -1,8 +1,9 @@
+---
 title: Advanced Message Queuing Protocol (AMQP)
 tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
 ---
 
-# Advanced Message Queuing Protocol (AMQP)
+
 
 *Advanced Message Queuing Protocol (AMQP)* is een begrip binnen de industriële digitalisering en event streaming, messaging & integratie.
 

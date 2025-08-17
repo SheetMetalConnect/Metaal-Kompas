@@ -1,8 +1,9 @@
+---
 title: IoT‑gateway
 tags: [industrie, digitalisering, data-collectie-en-industrial-data-platforms]
 ---
 
-# IoT‑gateway
+
 
 *IoT‑gateway* is een begrip binnen de industriële digitalisering en data‑collectie & industrial data platforms.
 

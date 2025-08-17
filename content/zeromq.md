@@ -1,8 +1,9 @@
+---
 title: ZeroMQ
 tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
 ---
 
-# ZeroMQ
+
 
 *ZeroMQ* is een begrip binnen de industriële digitalisering en event streaming, messaging & integratie.
 

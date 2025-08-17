@@ -1,8 +1,9 @@
+---
 title: KPI‑dashboard
 tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
 ---
 
-# KPI‑dashboard
+
 
 *KPI‑dashboard* is een begrip binnen de industriële digitalisering en data, analyse & business intelligence.
 

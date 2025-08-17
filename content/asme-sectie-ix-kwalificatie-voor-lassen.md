@@ -1,8 +1,9 @@
+---
 title: ASME Sectie IX – kwalificatie voor lassen
 tags: [industrie, digitalisering, lasnormen-en-certificering]
 ---
 
-# ASME Sectie IX – kwalificatie voor lassen
+
 
 *ASME Sectie IX – kwalificatie voor lassen* is een begrip binnen de industriële digitalisering en lasnormen & certificering.
 

@@ -1,8 +1,9 @@
+---
 title: WebSocket
 tags: [industrie, digitalisering, industriële-communicatieprotocollen]
 ---
 
-# WebSocket
+
 
 *WebSocket* is een begrip binnen de industriële digitalisering en industriële communicatieprotocollen.
 

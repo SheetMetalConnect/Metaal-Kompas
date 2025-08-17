@@ -1,8 +1,9 @@
+---
 title: Datalake
 tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
 ---
 
-# Datalake
+
 
 *Datalake* is een begrip binnen de industriële digitalisering en data, analyse & business intelligence.
 

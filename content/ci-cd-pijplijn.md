@@ -1,8 +1,9 @@
+---
 title: CI/CD‑pijplijn
 tags: [industrie, digitalisering, softwaredeployment-en-architectuur]
 ---
 
-# CI/CD‑pijplijn
+
 
 *CI/CD‑pijplijn* is een begrip binnen de industriële digitalisering en softwaredeployment & architectuur.
 

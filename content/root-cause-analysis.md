@@ -1,8 +1,9 @@
+---
 title: Root Cause Analysis (RCA)
 tags: [industrie, digitalisering, kwaliteitsmanagement-en-software]
 ---
 
-# Root Cause Analysis (RCA)
+
 
 *Root Cause Analysis (RCA)* is een begrip binnen de industriële digitalisering en kwaliteitsmanagement & software.
 

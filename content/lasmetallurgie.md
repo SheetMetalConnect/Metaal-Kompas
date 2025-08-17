@@ -1,8 +1,9 @@
+---
 title: Lasmetallurgie
 tags: [industrie, digitalisering, lasnormen-en-certificering]
 ---
 
-# Lasmetallurgie
+
 
 *Lasmetallurgie* is een begrip binnen de industriële digitalisering en lasnormen & certificering.
 

@@ -1,8 +1,9 @@
+---
 title: Technisch dossier
 tags: [industrie, digitalisering, productstructuur-en-documentatie]
 ---
 
-# Technisch dossier
+
 
 *Technisch dossier* is een begrip binnen de industriële digitalisering en productstructuur & documentatie.
 

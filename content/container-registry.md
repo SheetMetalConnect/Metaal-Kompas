@@ -1,8 +1,9 @@
+---
 title: Container‑registry
 tags: [industrie, digitalisering, softwaredeployment-en-architectuur]
 ---
 
-# Container‑registry
+
 
 *Container‑registry* is een begrip binnen de industriële digitalisering en softwaredeployment & architectuur.
 

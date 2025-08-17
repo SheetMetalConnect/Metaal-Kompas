@@ -1,8 +1,9 @@
+---
 title: Modbus
 tags: [industrie, digitalisering, industriële-communicatieprotocollen]
 ---
 
-# Modbus
+
 
 *Modbus* is een begrip binnen de industriële digitalisering en industriële communicatieprotocollen.
 

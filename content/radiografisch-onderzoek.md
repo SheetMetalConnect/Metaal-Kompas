@@ -1,8 +1,9 @@
+---
 title: Radiografisch onderzoek (RT)
 tags: [industrie, digitalisering, lasnormen-en-certificering]
 ---
 
-# Radiografisch onderzoek (RT)
+
 
 *Radiografisch onderzoek (RT)* is een begrip binnen de industriële digitalisering en lasnormen & certificering.
 

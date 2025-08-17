@@ -1,8 +1,9 @@
+---
 title: Digitale ethiek in de industrie
 tags: [industrie, digitalisering, innovatie-en-toekomsttrends]
 ---
 
-# Digitale ethiek in de industrie
+
 
 *Digitale ethiek in de industrie* is een begrip binnen de industriële digitalisering en innovatie & toekomsttrends.
 

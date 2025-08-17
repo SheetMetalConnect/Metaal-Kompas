@@ -1,8 +1,9 @@
+---
 title: CNC‑programmatie
 tags: [industrie, digitalisering, programmatie-en-aansturing-productiemiddelen]
 ---
 
-# CNC‑programmatie
+
 
 *CNC‑programmatie* is een begrip binnen de industriële digitalisering en programmatie & aansturing productiemiddelen.
 

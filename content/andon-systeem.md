@@ -1,8 +1,9 @@
+---
 title: Andon‑systeem
 tags: [industrie, digitalisering, procesoptimalisatie-en-organisatie]
 ---
 
-# Andon‑systeem
+
 
 *Andon‑systeem* is een begrip binnen de industriële digitalisering en procesoptimalisatie & organisatie.
 

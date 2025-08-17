@@ -1,8 +1,9 @@
+---
 title: Penetrantonderzoek (PT)
 tags: [industrie, digitalisering, lasnormen-en-certificering]
 ---
 
-# Penetrantonderzoek (PT)
+
 
 *Penetrantonderzoek (PT)* is een begrip binnen de industriële digitalisering en lasnormen & certificering.
 

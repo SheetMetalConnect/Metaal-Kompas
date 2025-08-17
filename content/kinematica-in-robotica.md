@@ -1,8 +1,9 @@
+---
 title: Kinematica in robotica
 tags: [industrie, digitalisering, programmatie-en-aansturing-productiemiddelen]
 ---
 
-# Kinematica in robotica
+
 
 *Kinematica in robotica* is een begrip binnen de industriële digitalisering en programmatie & aansturing productiemiddelen.
 

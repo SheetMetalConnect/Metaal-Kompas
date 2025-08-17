@@ -1,8 +1,9 @@
+---
 title: Formulierenbeheer
 tags: [industrie, digitalisering, productstructuur-en-documentatie]
 ---
 
-# Formulierenbeheer
+
 
 *Formulierenbeheer* is een begrip binnen de industriële digitalisering en productstructuur & documentatie.
 

@@ -1,8 +1,9 @@
+---
 title: Public Key Infrastructure (PKI)
 tags: [industrie, digitalisering, extra-industrie-en-security-topics]
 ---
 
-# Public Key Infrastructure (PKI)
+
 
 *Public Key Infrastructure (PKI)* is een begrip binnen de industriële digitalisering en extra industrie & security topics.
 

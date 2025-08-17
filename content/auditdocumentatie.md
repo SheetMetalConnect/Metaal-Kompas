@@ -1,8 +1,9 @@
+---
 title: Auditdocumentatie
 tags: [industrie, digitalisering, productstructuur-en-documentatie]
 ---
 
-# Auditdocumentatie
+
 
 *Auditdocumentatie* is een begrip binnen de industriële digitalisering en productstructuur & documentatie.
 

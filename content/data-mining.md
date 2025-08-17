@@ -1,8 +1,9 @@
+---
 title: Data‑mining
 tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
 ---
 
-# Data‑mining
+
 
 *Data‑mining* is een begrip binnen de industriële digitalisering en data, analyse & business intelligence.
 

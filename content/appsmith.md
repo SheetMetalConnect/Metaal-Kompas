@@ -1,8 +1,9 @@
+---
 title: Appsmith
 tags: [industrie, digitalisering, softwaremodules-en-integratie]
 ---
 
-# Appsmith
+
 
 *Appsmith* is een begrip binnen de industriële digitalisering en softwaremodules & integratie.
 

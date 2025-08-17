@@ -1,8 +1,9 @@
+---
 title: Digitale Transformatie Volwassenheidsanalyse (DTMA)
 tags: [industrie, digitalisering, digitale-transformatie-en-industrie-40-50]
 ---
 
-# Digitale Transformatie Volwassenheidsanalyse (DTMA)
+
 
 *Digitale Transformatie Volwassenheidsanalyse (DTMA)* is een begrip binnen de industriële digitalisering en digitale transformatie & industrie 4.0/5.0.
 

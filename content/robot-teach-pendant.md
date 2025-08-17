@@ -1,8 +1,9 @@
+---
 title: Robot‑teach pendant
 tags: [industrie, digitalisering, programmatie-en-aansturing-productiemiddelen]
 ---
 
-# Robot‑teach pendant
+
 
 *Robot‑teach pendant* is een begrip binnen de industriële digitalisering en programmatie & aansturing productiemiddelen.
 

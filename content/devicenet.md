@@ -1,8 +1,9 @@
+---
 title: DeviceNet
 tags: [industrie, digitalisering, industriële-communicatieprotocollen]
 ---
 
-# DeviceNet
+
 
 *DeviceNet* is een begrip binnen de industriële digitalisering en industriële communicatieprotocollen.
 

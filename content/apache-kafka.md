@@ -1,8 +1,9 @@
+---
 title: Apache Kafka
 tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
 ---
 
-# Apache Kafka
+
 
 *Apache Kafka* is een high-throughput, distributed event streaming platform dat fungeert als central nervous system voor real-time data pipelines en event-driven applications in moderne industriële architecturen.
 

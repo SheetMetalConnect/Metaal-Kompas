@@ -2,6 +2,8 @@
 title: Procesoptimalisatie & Organisatie
 tags: [kaart, moc, procesoptimalisatie-en-organisatie]
 ---
+
+
 Deze kaart biedt een overzicht van alle begrippen binnen **procesoptimalisatie & organisatie**.
 
 ## Begrippen (20 items)

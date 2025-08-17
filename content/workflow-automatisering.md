@@ -1,8 +1,9 @@
+---
 title: Workflow‑automatisering
 tags: [industrie, digitalisering, softwaremodules-en-integratie]
 ---
 
-# Workflow‑automatisering
+
 
 *Workflow‑automatisering* is een begrip binnen de industriële digitalisering en softwaremodules & integratie.
 

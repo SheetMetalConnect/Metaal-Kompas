@@ -1,8 +1,9 @@
+---
 title: Configuratiebeheer
 tags: [industrie, digitalisering, productstructuur-en-documentatie]
 ---
 
-# Configuratiebeheer
+
 
 *Configuratiebeheer* is een begrip binnen de industriële digitalisering en productstructuur & documentatie.
 

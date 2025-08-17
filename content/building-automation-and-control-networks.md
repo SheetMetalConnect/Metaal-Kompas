@@ -1,8 +1,9 @@
+---
 title: Building Automation and Control networks (BACnet)
 tags: [industrie, digitalisering, industriële-communicatieprotocollen]
 ---
 
-# Building Automation and Control networks (BACnet)
+
 
 *Building Automation and Control networks (BACnet)* is een begrip binnen de industriële digitalisering en industriële communicatieprotocollen.
 

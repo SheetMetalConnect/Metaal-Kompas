@@ -1,8 +1,9 @@
+---
 title: Warmte‑inbreng (heat input)
 tags: [industrie, digitalisering, lasnormen-en-certificering]
 ---
 
-# Warmte‑inbreng (heat input)
+
 
 *Warmte‑inbreng (heat input)* is een begrip binnen de industriële digitalisering en lasnormen & certificering.
 

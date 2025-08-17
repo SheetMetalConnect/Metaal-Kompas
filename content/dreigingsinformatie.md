@@ -1,8 +1,9 @@
+---
 title: Dreigingsinformatie (threat intelligence)
 tags: [industrie, digitalisering, extra-industrie-en-security-topics]
 ---
 
-# Dreigingsinformatie (threat intelligence)
+
 
 *Dreigingsinformatie (threat intelligence)* is een begrip binnen de industriële digitalisering en extra industrie & security topics.
 

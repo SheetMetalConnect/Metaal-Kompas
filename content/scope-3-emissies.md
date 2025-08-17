@@ -1,8 +1,9 @@
+---
 title: Scope 3‑emissies
 tags: [industrie, digitalisering, duurzaamheid-en-compliance]
 ---
 
-# Scope 3‑emissies
+
 
 *Scope 3‑emissies* is een begrip binnen de industriële digitalisering en duurzaamheid & compliance.
 

@@ -1,8 +1,9 @@
+---
 title: Kafka Streams
 tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
 ---
 
-# Kafka Streams
+
 
 *Kafka Streams* is een begrip binnen de industriële digitalisering en event streaming, messaging & integratie.
 

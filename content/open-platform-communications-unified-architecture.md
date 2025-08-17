@@ -1,8 +1,9 @@
+---
 title: Open Platform Communications Unified Architecture (OPC UA)
 tags: [industrie, digitalisering, industriële-communicatieprotocollen]
 ---
 
-# Open Platform Communications Unified Architecture (OPC UA)
+
 
 *Open Platform Communications Unified Architecture (OPC UA)* is een begrip binnen de industriële digitalisering en industriële communicatieprotocollen.
 

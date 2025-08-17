@@ -1,8 +1,9 @@
+---
 title: Zigbee
 tags: [industrie, digitalisering, industriële-communicatieprotocollen]
 ---
 
-# Zigbee
+
 
 *Zigbee* is een begrip binnen de industriële digitalisering en industriële communicatieprotocollen.
 

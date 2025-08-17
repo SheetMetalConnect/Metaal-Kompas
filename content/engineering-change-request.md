@@ -1,8 +1,9 @@
+---
 title: Engineering Change Request (ECR)
 tags: [industrie, digitalisering, productstructuur-en-documentatie]
 ---
 
-# Engineering Change Request (ECR)
+
 
 *Engineering Change Request (ECR)* is een begrip binnen de industriële digitalisering en productstructuur & documentatie.
 

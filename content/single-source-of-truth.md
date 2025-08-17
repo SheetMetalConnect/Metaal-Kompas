@@ -1,8 +1,9 @@
+---
 title: Single Source of Truth (SSOT)
 tags: [industrie, digitalisering, softwaredeployment-en-architectuur, data-governance]
 ---
 
-# Single Source of Truth (SSOT)
+
 
 *Single Source of Truth (SSOT)* is een fundamenteel architectuurprincipe waarbij elke data-element één autoritatieve, betrouwbare bron heeft binnen een organisatie.
 

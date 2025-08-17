@@ -1,8 +1,9 @@
+---
 title: RabbitMQ
 tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
 ---
 
-# RabbitMQ
+
 
 *RabbitMQ* is een begrip binnen de industriële digitalisering en event streaming, messaging & integratie.
 

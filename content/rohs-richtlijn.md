@@ -1,8 +1,9 @@
+---
 title: RoHS‑richtlijn (Restriction of Hazardous Substances)
 tags: [industrie, digitalisering, duurzaamheid-en-compliance]
 ---
 
-# RoHS‑richtlijn (Restriction of Hazardous Substances)
+
 
 *RoHS‑richtlijn (Restriction of Hazardous Substances)* is een begrip binnen de industriële digitalisering en duurzaamheid & compliance.
 

@@ -1,8 +1,9 @@
+---
 title: Profibus
 tags: [industrie, digitalisering, industriële-communicatieprotocollen]
 ---
 
-# Profibus
+
 
 *Profibus* is een begrip binnen de industriële digitalisering en industriële communicatieprotocollen.
 

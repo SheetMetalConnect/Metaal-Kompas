@@ -1,8 +1,9 @@
+---
 title: Biofabrication (biofabricage)
 tags: [industrie, digitalisering, innovatie-en-toekomsttrends]
 ---
 
-# Biofabrication (biofabricage)
+
 
 *Biofabrication (biofabricage)* is een begrip binnen de industriële digitalisering en innovatie & toekomsttrends.
 

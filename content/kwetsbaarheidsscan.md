@@ -1,8 +1,9 @@
+---
 title: Kwetsbaarheidsscan (vulnerability scanning)
 tags: [industrie, digitalisering, extra-industrie-en-security-topics]
 ---
 
-# Kwetsbaarheidsscan (vulnerability scanning)
+
 
 *Kwetsbaarheidsscan (vulnerability scanning)* is een begrip binnen de industriële digitalisering en extra industrie & security topics.
 

@@ -1,8 +1,9 @@
+---
 title: Docker Compose
 tags: [industrie, digitalisering, softwaredeployment-en-architectuur]
 ---
 
-# Docker Compose
+
 
 *Docker Compose* is een begrip binnen de industriële digitalisering en softwaredeployment & architectuur.
 

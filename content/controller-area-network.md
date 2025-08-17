@@ -1,8 +1,9 @@
+---
 title: Controller Area Network (CAN‑bus)
 tags: [industrie, digitalisering, industriële-communicatieprotocollen]
 ---
 
-# Controller Area Network (CAN‑bus)
+
 
 *Controller Area Network (CAN‑bus)* is een begrip binnen de industriële digitalisering en industriële communicatieprotocollen.
 

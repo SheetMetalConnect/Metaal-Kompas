@@ -1,8 +1,9 @@
+---
 title: Platform as a Service (PaaS)
 tags: [industrie, digitalisering, softwaredeployment-en-architectuur]
 ---
 
-# Platform as a Service (PaaS)
+
 
 *Platform as a Service (PaaS)* is een begrip binnen de industriële digitalisering en softwaredeployment & architectuur.
 

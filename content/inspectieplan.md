@@ -1,8 +1,9 @@
+---
 title: Inspectieplan
 tags: [industrie, digitalisering, kwaliteitsmanagement-en-software]
 ---
 
-# Inspectieplan
+
 
 *Inspectieplan* is een begrip binnen de industriële digitalisering en kwaliteitsmanagement & software.
 

@@ -1,8 +1,9 @@
+---
 title: ActiveMQ
 tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
 ---
 
-# ActiveMQ
+
 
 *ActiveMQ* is een begrip binnen de industriële digitalisering en event streaming, messaging & integratie.
 

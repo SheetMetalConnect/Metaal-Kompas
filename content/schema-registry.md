@@ -1,8 +1,9 @@
+---
 title: Schema‑registry
 tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
 ---
 
-# Schema‑registry
+
 
 *Schema‑registry* is een begrip binnen de industriële digitalisering en event streaming, messaging & integratie.
 

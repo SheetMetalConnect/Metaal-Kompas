@@ -1,8 +1,9 @@
+---
 title: Data Loss Prevention (DLP)
 tags: [industrie, digitalisering, extra-industrie-en-security-topics]
 ---
 
-# Data Loss Prevention (DLP)
+
 
 *Data Loss Prevention (DLP)* is een begrip binnen de industriële digitalisering en extra industrie & security topics.
 

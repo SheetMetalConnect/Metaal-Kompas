@@ -1,8 +1,9 @@
+---
 title: Condition‑data capture
 tags: [industrie, digitalisering, data-collectie-en-industrial-data-platforms]
 ---
 
-# Condition‑data capture
+
 
 *Condition‑data capture* is een begrip binnen de industriële digitalisering en data‑collectie & industrial data platforms.
 

@@ -1,8 +1,9 @@
+---
 title: Supply Chain Management (SCM)
 tags: [industrie, digitalisering, softwaremodules-en-integratie]
 ---
 
-# Supply Chain Management (SCM)
+
 
 *Supply Chain Management (SCM)* is een begrip binnen de industriële digitalisering en softwaremodules & integratie.
 

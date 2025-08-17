@@ -1,8 +1,9 @@
+---
 title: Engineering Change Notice (ECN) / Engineering Change Order (ECO)
 tags: [industrie, digitalisering, productstructuur-en-documentatie]
 ---
 
-# Engineering Change Notice (ECN) / Engineering Change Order (ECO)
+
 
 *Engineering Change Notice (ECN) / Engineering Change Order (ECO)* is een begrip binnen de industriële digitalisering en productstructuur & documentatie.
 

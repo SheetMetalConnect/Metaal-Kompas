@@ -1,8 +1,9 @@
+---
 title: Docker‑container
 tags: [industrie, digitalisering, softwaredeployment-en-architectuur]
 ---
 
-# Docker‑container
+
 
 *Docker‑container* is een begrip binnen de industriële digitalisering en softwaredeployment & architectuur.
 

@@ -1,8 +1,9 @@
+---
 title: Dead‑letter queue (DLQ)
 tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
 ---
 
-# Dead‑letter queue (DLQ)
+
 
 *Dead‑letter queue (DLQ)* is een begrip binnen de industriële digitalisering en event streaming, messaging & integratie.
 

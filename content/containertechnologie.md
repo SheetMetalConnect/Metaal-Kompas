@@ -1,8 +1,9 @@
+---
 title: Containertechnologie
 tags: [industrie, digitalisering, softwaredeployment-en-architectuur]
 ---
 
-# Containertechnologie
+
 
 *Containertechnologie* is een begrip binnen de industriële digitalisering en softwaredeployment & architectuur.
 

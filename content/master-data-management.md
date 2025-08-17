@@ -1,8 +1,9 @@
+---
 title: Master Data Management (MDM)
 tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
 ---
 
-# Master Data Management (MDM)
+
 
 *Master Data Management (MDM)* is een begrip binnen de industriële digitalisering en data, analyse & business intelligence.
 

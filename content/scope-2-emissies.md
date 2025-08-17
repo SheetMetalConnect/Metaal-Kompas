@@ -1,8 +1,9 @@
+---
 title: Scope 2‑emissies
 tags: [industrie, digitalisering, duurzaamheid-en-compliance]
 ---
 
-# Scope 2‑emissies
+
 
 *Scope 2‑emissies* is een begrip binnen de industriële digitalisering en duurzaamheid & compliance.
 

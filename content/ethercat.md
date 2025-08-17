@@ -1,8 +1,9 @@
+---
 title: EtherCAT
 tags: [industrie, digitalisering, industriële-communicatieprotocollen]
 ---
 
-# EtherCAT
+
 
 *EtherCAT* is een begrip binnen de industriële digitalisering en industriële communicatieprotocollen.
 

@@ -1,8 +1,9 @@
+---
 title: Visueel management (visual management)
 tags: [industrie, digitalisering, procesoptimalisatie-en-organisatie]
 ---
 
-# Visueel management (visual management)
+
 
 *Visueel management (visual management)* is een begrip binnen de industriële digitalisering en procesoptimalisatie & organisatie.
 

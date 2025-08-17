@@ -1,8 +1,9 @@
+---
 title: AWS D1.1 – Amerikaanse lasnorm
 tags: [industrie, digitalisering, lasnormen-en-certificering]
 ---
 
-# AWS D1.1 – Amerikaanse lasnorm
+
 
 *AWS D1.1 – Amerikaanse lasnorm* is een begrip binnen de industriële digitalisering en lasnormen & certificering.
 

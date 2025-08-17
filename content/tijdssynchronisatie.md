@@ -1,8 +1,9 @@
+---
 title: Tijdssynchronisatie (NTP/PTP)
 tags: [industrie, digitalisering, data-collectie-en-industrial-data-platforms]
 ---
 
-# Tijdssynchronisatie (NTP/PTP)
+
 
 *Tijdssynchronisatie (NTP/PTP)* is een begrip binnen de industriële digitalisering en data‑collectie & industrial data platforms.
 

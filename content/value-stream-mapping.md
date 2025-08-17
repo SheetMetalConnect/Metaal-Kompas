@@ -1,8 +1,9 @@
+---
 title: Value Stream Mapping (VSM)
 tags: [industrie, digitalisering, procesoptimalisatie-en-organisatie]
 ---
 
-# Value Stream Mapping (VSM)
+
 
 *Value Stream Mapping (VSM)* is een begrip binnen de industriële digitalisering en procesoptimalisatie & organisatie.
 

@@ -1,8 +1,9 @@
+---
 title: Firmware‑beheer
 tags: [industrie, digitalisering, extra-industrie-en-security-topics]
 ---
 
-# Firmware‑beheer
+
 
 *Firmware‑beheer* is een begrip binnen de industriële digitalisering en extra industrie & security topics.
 

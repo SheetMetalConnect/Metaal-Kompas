@@ -1,8 +1,9 @@
+---
 title: GitOps
 tags: [industrie, digitalisering, softwaredeployment-en-architectuur]
 ---
 
-# GitOps
+
 
 *GitOps* is een begrip binnen de industriële digitalisering en softwaredeployment & architectuur.
 

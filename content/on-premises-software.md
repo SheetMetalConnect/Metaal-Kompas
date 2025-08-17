@@ -1,8 +1,9 @@
+---
 title: On‑premises software
 tags: [industrie, digitalisering, softwaredeployment-en-architectuur]
 ---
 
-# On‑premises software
+
 
 *On‑premises software* is een begrip binnen de industriële digitalisering en softwaredeployment & architectuur.
 

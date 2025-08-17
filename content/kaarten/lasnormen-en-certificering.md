@@ -2,6 +2,8 @@
 title: Lasnormen & Certificering
 tags: [kaart, moc, lasnormen-en-certificering]
 ---
+
+
 Deze kaart biedt een overzicht van alle begrippen binnen **lasnormen & certificering**.
 
 ## Begrippen (20 items)

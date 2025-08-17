@@ -1,8 +1,9 @@
+---
 title: Kafka Connect
 tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
 ---
 
-# Kafka Connect
+
 
 *Kafka Connect* is een begrip binnen de industriële digitalisering en event streaming, messaging & integratie.
 

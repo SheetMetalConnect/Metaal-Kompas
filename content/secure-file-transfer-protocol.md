@@ -1,8 +1,9 @@
+---
 title: Secure File Transfer Protocol (SFTP)
 tags: [industrie, digitalisering, extra-industrie-en-security-topics]
 ---
 
-# Secure File Transfer Protocol (SFTP)
+
 
 *Secure File Transfer Protocol (SFTP)* is een begrip binnen de industriële digitalisering en extra industrie & security topics.
 

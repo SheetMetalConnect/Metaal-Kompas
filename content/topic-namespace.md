@@ -1,8 +1,9 @@
+---
 title: Topic namespace
 tags: [industrie, digitalisering, industriële-communicatieprotocollen, architectuur]
 ---
 
-# Topic namespace
+
 
 *Topic namespace* is de hiërarchische naamgevingsstructuur die wordt gebruikt om data-onderwerpen te organiseren binnen messaging-systemen en Unified Namespace architecturen.
 

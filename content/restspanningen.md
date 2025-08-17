@@ -1,8 +1,9 @@
+---
 title: Restspanningen
 tags: [industrie, digitalisering, lasnormen-en-certificering]
 ---
 
-# Restspanningen
+
 
 *Restspanningen* is een begrip binnen de industriële digitalisering en lasnormen & certificering.
 

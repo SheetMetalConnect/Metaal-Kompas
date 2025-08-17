@@ -1,8 +1,9 @@
+---
 title: Versiebeheer met Git
 tags: [industrie, digitalisering, softwaredeployment-en-architectuur]
 ---
 
-# Versiebeheer met Git
+
 
 *Versiebeheer met Git* is een begrip binnen de industriële digitalisering en softwaredeployment & architectuur.
 

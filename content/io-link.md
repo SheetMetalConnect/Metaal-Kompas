@@ -1,8 +1,9 @@
+---
 title: IO‑Link
 tags: [industrie, digitalisering, industriële-communicatieprotocollen]
 ---
 
-# IO‑Link
+
 
 *IO‑Link* is een begrip binnen de industriële digitalisering en industriële communicatieprotocollen.
 

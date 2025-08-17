@@ -1,8 +1,9 @@
+---
 title: Ultrasoononderzoek (UT)
 tags: [industrie, digitalisering, lasnormen-en-certificering]
 ---
 
-# Ultrasoononderzoek (UT)
+
 
 *Ultrasoononderzoek (UT)* is een begrip binnen de industriële digitalisering en lasnormen & certificering.
 

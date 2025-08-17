@@ -1,8 +1,9 @@
+---
 title: First Article Inspection (FAI)
 tags: [industrie, digitalisering, kwaliteitsmanagement-en-software]
 ---
 
-# First Article Inspection (FAI)
+
 
 *First Article Inspection (FAI)* is een begrip binnen de industriële digitalisering en kwaliteitsmanagement & software.
 

@@ -1,8 +1,9 @@
+---
 title: Magnetisch onderzoek (MT)
 tags: [industrie, digitalisering, lasnormen-en-certificering]
 ---
 
-# Magnetisch onderzoek (MT)
+
 
 *Magnetisch onderzoek (MT)* is een begrip binnen de industriële digitalisering en lasnormen & certificering.
 

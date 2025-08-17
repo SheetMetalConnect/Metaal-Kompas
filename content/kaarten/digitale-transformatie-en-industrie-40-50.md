@@ -2,6 +2,8 @@
 title: Digitale transformatie & Industrie 4.0/5.0
 tags: [kaart, moc, digitale-transformatie-en-industrie-40-50]
 ---
+
+
 Deze kaart biedt een overzicht van alle begrippen binnen **digitale transformatie & industrie 4.0/5.0**.
 
 ## Begrippen (31 items)

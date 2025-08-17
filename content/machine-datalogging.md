@@ -1,8 +1,9 @@
+---
 title: Machine‑datalogging
 tags: [industrie, digitalisering, data-collectie-en-industrial-data-platforms]
 ---
 
-# Machine‑datalogging
+
 
 *Machine‑datalogging* is een begrip binnen de industriële digitalisering en data‑collectie & industrial data platforms.
 

@@ -1,8 +1,9 @@
+---
 title: Unified Namespace (UNS)
 tags: [industrie, digitalisering, softwaredeployment-en-architectuur, architectuur]
 ---
 
-# Unified Namespace (UNS)
+
 
 *Unified Namespace (UNS)* is een architectuurpatroon dat dient als centrale verbindende laag tussen alle systemen, apparaten en processen binnen de industriële digitalisering.
 
