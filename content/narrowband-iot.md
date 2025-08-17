@@ -1,0 +1,31 @@
+---
+title: Narrowband‑IoT (NB‑IoT)
+tags: [industrie, digitalisering, industriële-communicatieprotocollen]
+---
+
+# Narrowband‑IoT (NB‑IoT)
+
+*Narrowband‑IoT (NB‑IoT)* is een begrip binnen de industriële digitalisering en industriële communicatieprotocollen.
+
+## Definitie
+
+[PLACEHOLDER - Definitie wordt later toegevoegd]
+
+## Kenmerken
+
+[PLACEHOLDER - Kenmerken worden later toegevoegd]
+
+## Toepassing
+
+[PLACEHOLDER - Toepassingen worden later toegevoegd]
+
+## Gerelateerde begrippen
+
+[PLACEHOLDER - Gerelateerde begrippen worden later toegevoegd]
+
+## Bronnen
+
+[PLACEHOLDER - Bronnen worden later toegevoegd]
+
+---
+← Terug naar [[kaarten/industriële-communicatieprotocollen|Industriële communicatieprotocollen kaart]]
