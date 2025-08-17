@@ -1,8 +1,10 @@
 ---
-title: REACH‑verordening (Registration, Evaluation, Authorisation and Restriction of Chemicals)
-tags: [industrie, digitalisering, duurzaamheid-en-compliance]
----
+tags:
+  - 'duurzaamheid-en-compliance'
+  - '🧹draft'
 
+title: REACH‑verordening (Registration, Evaluation, Authorisation and Restriction of Chemicals)
+---
 *REACH‑verordening (Registration, Evaluation, Authorisation and Restriction of Chemicals)* is een begrip binnen de industriële digitalisering en duurzaamheid & compliance.
 
 ## Definitie

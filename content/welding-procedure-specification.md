@@ -1,8 +1,10 @@
 ---
-title: Welding Procedure Specification (WPS)
-tags: [industrie, digitalisering, lasnormen-en-certificering]
----
+tags:
+  - 'lasnormen-en-certificering'
+  - '🧹draft'
 
+title: Welding Procedure Specification (WPS)
+---
 *Welding Procedure Specification (WPS)* is een begrip binnen de industriële digitalisering en lasnormen & certificering.
 
 ## Definitie

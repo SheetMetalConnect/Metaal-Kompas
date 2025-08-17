@@ -1,6 +1,9 @@
 ---
+tags:
+  - event-streaming-messaging-en-integratie
+  - unified-namespace
+  - live
 title: Apache Kafka
-tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
 ---
 ## Definitie
 Apache Kafka is een **open-source, gedistribueerd event streaming platform**. Het combineert messaging, opslag en stream processing in één systeem. Kafka is ontworpen om real-time datastromen met **hoge throughput**, **lage latency** en **betrouwbare opslag** mogelijk te maken.

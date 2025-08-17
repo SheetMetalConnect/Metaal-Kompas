@@ -1,8 +1,10 @@
 ---
-title: QR‑code‑etikettering
-tags: [industrie, digitalisering, traceerbaarheid-en-productidentificatie]
----
+tags:
+  - 'traceerbaarheid-en-productidentificatie'
+  - '🧹draft'
 
+title: QR‑code‑etikettering
+---
 *QR‑code‑etikettering* is een begrip binnen de industriële digitalisering en traceerbaarheid & productidentificatie.
 
 ## Definitie

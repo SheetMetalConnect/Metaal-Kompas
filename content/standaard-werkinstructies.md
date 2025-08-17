@@ -1,8 +1,10 @@
 ---
-title: Standaard werkinstructies (Standard Operating Procedures, SOP)
-tags: [industrie, digitalisering, procesoptimalisatie-en-organisatie]
----
+tags:
+  - 'procesoptimalisatie-en-organisatie'
+  - '🧹draft'
 
+title: Standaard werkinstructies (Standard Operating Procedures, SOP)
+---
 *Standaard werkinstructies (Standard Operating Procedures, SOP)* is een begrip binnen de industriële digitalisering en procesoptimalisatie & organisatie.
 
 ## Definitie

@@ -1,8 +1,10 @@
 ---
-title: Traditionele ontwikkeling
-tags: [industrie, digitalisering, softwaremodules-en-integratie]
----
+tags:
+  - 'softwaremodules-en-integratie'
+  - '🧹draft'
 
+title: Traditionele ontwikkeling
+---
 *Traditionele ontwikkeling* verwijst naar het bouwen van software vanaf de basis met behulp van programmeertalen en frameworks, in tegenstelling tot het gebruik van low-code platforms.
 
 ## Definitie

@@ -1,8 +1,10 @@
 ---
-title: Advanced Planning and Scheduling (APS)
-tags: [industrie, digitalisering, softwaremodules-en-integratie]
----
+tags:
+  - 'softwaremodules-en-integratie'
+  - '🧹draft'
 
+title: Advanced Planning and Scheduling (APS)
+---
 *Advanced Planning and Scheduling (APS)* is een begrip binnen de industriële digitalisering en softwaremodules & integratie.
 
 ## Definitie

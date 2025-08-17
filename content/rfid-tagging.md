@@ -1,8 +1,10 @@
 ---
-title: RFID‑tagging
-tags: [industrie, digitalisering, traceerbaarheid-en-productidentificatie]
----
+tags:
+  - 'traceerbaarheid-en-productidentificatie'
+  - '🧹draft'
 
+title: RFID‑tagging
+---
 *RFID‑tagging* is een begrip binnen de industriële digitalisering en traceerbaarheid & productidentificatie.
 
 ## Definitie

@@ -1,8 +1,10 @@
 ---
-title: Overall Equipment Effectiveness (OEE)
-tags: [industrie, digitalisering, procesoptimalisatie-en-organisatie]
----
+tags:
+  - 'procesoptimalisatie-en-organisatie'
+  - '🧹draft'
 
+title: Overall Equipment Effectiveness (OEE)
+---
 *Overall Equipment Effectiveness (OEE)* is een begrip binnen de industriële digitalisering en procesoptimalisatie & organisatie.
 
 ## Definitie

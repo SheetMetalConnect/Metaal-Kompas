@@ -1,8 +1,10 @@
 ---
-title: Infrastructure as a Service (IaaS)
-tags: [industrie, digitalisering, softwaredeployment-en-architectuur]
----
+tags:
+  - 'softwaredeployment-en-architectuur'
+  - '🧹draft'
 
+title: Infrastructure as a Service (IaaS)
+---
 *Infrastructure as a Service (IaaS)* is een begrip binnen de industriële digitalisering en softwaredeployment & architectuur.
 
 ## Definitie

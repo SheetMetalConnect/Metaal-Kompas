@@ -1,8 +1,10 @@
 ---
-title: Docker‑container
-tags: [industrie, digitalisering, softwaredeployment-en-architectuur]
----
+tags:
+  - 'softwaredeployment-en-architectuur'
+  - '🧹draft'
 
+title: Docker‑container
+---
 *Docker‑container* is een begrip binnen de industriële digitalisering en softwaredeployment & architectuur.
 
 ## Definitie

@@ -1,8 +1,10 @@
 ---
-title: Contextualisatie van data
-tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
----
+tags:
+  - 'data-analyse-en-business-intelligence'
+  - '🧹draft'
 
+title: Contextualisatie van data
+---
 *Contextualisatie van data* is het proces waarbij ruwe industriële data wordt verrijkt met betekenisvolle metadata, relaties en semantische informatie om de data begrijpelijk en bruikbaar te maken voor analyse en besluitvorming.
 
 ## Definitie

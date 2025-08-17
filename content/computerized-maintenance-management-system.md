@@ -1,8 +1,10 @@
 ---
-title: Computerized Maintenance Management System (CMMS)
-tags: [industrie, digitalisering, softwaremodules-en-integratie]
----
+tags:
+  - 'softwaremodules-en-integratie'
+  - '🧹draft'
 
+title: Computerized Maintenance Management System (CMMS)
+---
 *Computerized Maintenance Management System (CMMS)* is een begrip binnen de industriële digitalisering en softwaremodules & integratie.
 
 ## Definitie

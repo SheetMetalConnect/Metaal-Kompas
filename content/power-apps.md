@@ -1,8 +1,10 @@
 ---
-title: Power Apps
-tags: [industrie, digitalisering, softwaremodules-en-integratie]
----
+tags:
+  - 'softwaremodules-en-integratie'
+  - '🧹draft'
 
+title: Power Apps
+---
 *Power Apps* is een low-code platform van Microsoft dat is ontworpen voor het bouwen van zakelijke applicaties.
 
 ## Definitie

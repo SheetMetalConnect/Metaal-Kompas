@@ -1,8 +1,10 @@
 ---
-title: Redpanda Connect
-tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
----
+tags:
+  - 'event-streaming-messaging-en-integratie'
+  - '🧹draft'
 
+title: Redpanda Connect
+---
 *Redpanda Connect* (voorheen Benthos) is een framework voor het opzetten van declaratieve stream processors.
 
 ## Definitie

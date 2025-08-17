@@ -1,8 +1,10 @@
 ---
-title: Autonome toeleveringsketen
-tags: [industrie, digitalisering, innovatie-en-toekomsttrends]
----
+tags:
+  - 'innovatie-en-toekomsttrends'
+  - '🧹draft'
 
+title: Autonome toeleveringsketen
+---
 *Autonome toeleveringsketen* is een begrip binnen de industriële digitalisering en innovatie & toekomsttrends.
 
 ## Definitie

@@ -1,8 +1,10 @@
 ---
-title: Roboticasimulatiesoftware
-tags: [industrie, digitalisering, programmatie-en-aansturing-productiemiddelen]
----
+tags:
+  - 'programmatie-en-aansturing-productiemiddelen'
+  - '🧹draft'
 
+title: Roboticasimulatiesoftware
+---
 *Roboticasimulatiesoftware* is een begrip binnen de industriële digitalisering en programmatie & aansturing productiemiddelen.
 
 ## Definitie

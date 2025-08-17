@@ -1,8 +1,10 @@
 ---
-title: Takt time
-tags: [industrie, digitalisering, procesoptimalisatie-en-organisatie]
----
+tags:
+  - 'procesoptimalisatie-en-organisatie'
+  - '🧹draft'
 
+title: Takt time
+---
 *Takt time* is een begrip binnen de industriële digitalisering en procesoptimalisatie & organisatie.
 
 ## Definitie

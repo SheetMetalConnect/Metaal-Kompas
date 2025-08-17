@@ -1,8 +1,10 @@
 ---
-title: Electronic Data Interchange (EDI)
-tags: [industrie, digitalisering, softwaremodules-en-integratie]
----
+tags:
+  - 'softwaremodules-en-integratie'
+  - '🧹draft'
 
+title: Electronic Data Interchange (EDI)
+---
 *Electronic Data Interchange (EDI)* is een begrip binnen de industriële digitalisering en softwaremodules & integratie.
 
 ## Definitie

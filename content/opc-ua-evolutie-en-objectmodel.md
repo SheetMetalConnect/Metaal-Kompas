@@ -1,8 +1,10 @@
 ---
-title: OPC UA Evolutie en Objectmodel
-tags: [industrie, digitalisering, industriële-communicatieprotocollen]
----
+tags:
+  - 'industriële-communicatieprotocollen'
+  - '🧹draft'
 
+title: OPC UA Evolutie en Objectmodel
+---
 ## OPC Classic Voorbeeld (eind jaren 90)
 
 Stel je een fabriek voor met een temperatuursensor die is aangesloten op een PLC (Programmable Logic Controller).

@@ -1,8 +1,10 @@
 ---
-title: Digital Thread
-tags: [industrie, digitalisering, digitale-transformatie-en-industrie-40-50]
----
+tags:
+  - 'digitale-transformatie-en-industrie-40-50'
+  - '🧹draft'
 
+title: Digital Thread
+---
 *Digital Thread* is een communicatieframework dat een naadloze, bidirectionele flow van data en informatie mogelijk maakt doorheen de gehele product lifecycle - van ontwerp tot productie tot onderhoud.
 
 ## Definitie

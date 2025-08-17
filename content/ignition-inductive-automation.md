@@ -1,8 +1,10 @@
 ---
-title: Ignition (Inductive Automation)
-tags: [industrie, digitalisering, softwaremodules-en-integratie]
----
+tags:
+  - 'softwaremodules-en-integratie'
+  - '🧹draft'
 
+title: Ignition (Inductive Automation)
+---
 *Ignition (Inductive Automation)* is een begrip binnen de industriële digitalisering en softwaremodules & integratie.
 
 ## Definitie

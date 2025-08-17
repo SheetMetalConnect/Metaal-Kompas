@@ -1,8 +1,10 @@
 ---
-title: Failure Mode and Effects Analysis (FMEA)
-tags: [industrie, digitalisering, kwaliteitsmanagement-en-software]
----
+tags:
+  - 'kwaliteitsmanagement-en-software'
+  - '🧹draft'
 
+title: Failure Mode and Effects Analysis (FMEA)
+---
 *Failure Mode and Effects Analysis (FMEA)* is een begrip binnen de industriële digitalisering en kwaliteitsmanagement & software.
 
 ## Definitie

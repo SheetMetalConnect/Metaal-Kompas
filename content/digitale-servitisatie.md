@@ -1,8 +1,10 @@
 ---
-title: Digitale servitisatie (digital servitization)
-tags: [industrie, digitalisering, innovatie-en-toekomsttrends]
----
+tags:
+  - 'innovatie-en-toekomsttrends'
+  - '🧹draft'
 
+title: Digitale servitisatie (digital servitization)
+---
 *Digitale servitisatie (digital servitization)* is een begrip binnen de industriële digitalisering en innovatie & toekomsttrends.
 
 ## Definitie

@@ -1,8 +1,10 @@
 ---
-title: Retool
-tags: [industrie, digitalisering, softwaremodules-en-integratie]
----
+tags:
+  - 'softwaremodules-en-integratie'
+  - '🧹draft'
 
+title: Retool
+---
 *Retool* is een low-code platform gericht op het snel bouwen van interne tools, dashboards en applicaties.
 
 ## Definitie

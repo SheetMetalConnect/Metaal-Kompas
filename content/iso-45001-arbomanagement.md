@@ -1,8 +1,10 @@
 ---
-title: ISO 45001‑arbomanagement
-tags: [industrie, digitalisering, kwaliteitsmanagement-en-software]
----
+tags:
+  - 'kwaliteitsmanagement-en-software'
+  - '🧹draft'
 
+title: ISO 45001‑arbomanagement
+---
 *ISO 45001‑arbomanagement* is een begrip binnen de industriële digitalisering en kwaliteitsmanagement & software.
 
 ## Definitie

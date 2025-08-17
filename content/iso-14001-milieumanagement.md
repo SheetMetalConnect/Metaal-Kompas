@@ -1,8 +1,10 @@
 ---
-title: ISO 14001‑milieumanagement
-tags: [industrie, digitalisering, kwaliteitsmanagement-en-software]
----
+tags:
+  - 'kwaliteitsmanagement-en-software'
+  - '🧹draft'
 
+title: ISO 14001‑milieumanagement
+---
 *ISO 14001‑milieumanagement* is een begrip binnen de industriële digitalisering en kwaliteitsmanagement & software.
 
 ## Definitie

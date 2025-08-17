@@ -1,8 +1,10 @@
 ---
-title: PLC‑programmering
-tags: [industrie, digitalisering, programmatie-en-aansturing-productiemiddelen]
----
+tags:
+  - 'programmatie-en-aansturing-productiemiddelen'
+  - '🧹draft'
 
+title: PLC‑programmering
+---
 *PLC‑programmering* is een begrip binnen de industriële digitalisering en programmatie & aansturing productiemiddelen.
 
 ## Definitie

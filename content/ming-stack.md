@@ -1,8 +1,10 @@
 ---
-title: MING-stack
-tags: [industrie, digitalisering, softwaredeployment-en-architectuur]
----
+tags:
+  - 'softwaredeployment-en-architectuur'
+  - '🧹draft'
 
+title: MING-stack
+---
 *MING* is een acroniem voor een technologie-stack die vaak wordt gebruikt voor IoT-toepassingen.
 
 ## Definitie

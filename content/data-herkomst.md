@@ -1,8 +1,10 @@
 ---
-title: Data‑herkomst (data lineage)
-tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
----
+tags:
+  - 'data-analyse-en-business-intelligence'
+  - '🧹draft'
 
+title: Data‑herkomst (data lineage)
+---
 *Data‑herkomst (data lineage)* is een begrip binnen de industriële digitalisering en data, analyse & business intelligence.
 
 ## Definitie

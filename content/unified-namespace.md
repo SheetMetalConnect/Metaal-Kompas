@@ -1,8 +1,13 @@
 ---
+tags:
+  - softwaredeployment-en-architectuur
+  - architectuur
+  - unified-namespace
+  - live
 title: Unified Namespace (UNS)
-tags: [industrie, digitalisering, softwaredeployment-en-architectuur, architectuur]
 ---
 # Unified Namespace (UNS)
+
 
 ![](https://www.youtube.com/watch?v=5cMqL9oUk_Y)
 

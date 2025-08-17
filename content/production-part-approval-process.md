@@ -1,8 +1,10 @@
 ---
-title: Production Part Approval Process (PPAP)
-tags: [industrie, digitalisering, kwaliteitsmanagement-en-software]
----
+tags:
+  - 'kwaliteitsmanagement-en-software'
+  - '🧹draft'
 
+title: Production Part Approval Process (PPAP)
+---
 *Production Part Approval Process (PPAP)* is een begrip binnen de industriële digitalisering en kwaliteitsmanagement & software.
 
 ## Definitie

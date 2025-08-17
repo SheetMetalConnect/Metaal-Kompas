@@ -1,8 +1,10 @@
 ---
-title: Serienummer
-tags: [industrie, digitalisering, traceerbaarheid-en-productidentificatie]
----
+tags:
+  - 'traceerbaarheid-en-productidentificatie'
+  - '🧹draft'
 
+title: Serienummer
+---
 *Serienummer* is een begrip binnen de industriële digitalisering en traceerbaarheid & productidentificatie.
 
 ## Definitie

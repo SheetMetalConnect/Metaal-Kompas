@@ -1,8 +1,10 @@
 ---
-title: Long Range Wide Area Network (LoRaWAN)
-tags: [industrie, digitalisering, industriële-communicatieprotocollen]
----
+tags:
+  - 'industriële-communicatieprotocollen'
+  - '🧹draft'
 
+title: Long Range Wide Area Network (LoRaWAN)
+---
 *Long Range Wide Area Network (LoRaWAN)* is een begrip binnen de industriële digitalisering en industriële communicatieprotocollen.
 
 ## Definitie

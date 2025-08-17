@@ -1,8 +1,10 @@
 ---
-title: ERP vs. Historian
-tags: [industrie, digitalisering, softwaremodules-en-integratie]
----
+tags:
+  - 'softwaremodules-en-integratie'
+  - '🧹draft'
 
+title: ERP vs. Historian
+---
 Een veelvoorkomende vraag is of historische data in een [[historian-database|Historian]] moet worden vastgelegd voor de ERP-laag.
 
 ## Het Verschil

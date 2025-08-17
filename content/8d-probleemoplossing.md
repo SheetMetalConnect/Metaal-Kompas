@@ -1,10 +1,10 @@
 ---
-title: 8D‑probleemoplossing
 tags:
-  - industrie
-  - kwaliteitsmanagement-en-software
----
+  - '🧹draft'
+  - 'kwaliteitsmanagement-en-software'
 
+title: 8D‑probleemoplossing
+---
 *8D‑probleemoplossing* is een begrip binnen de industriële digitalisering en kwaliteitsmanagement & software.
 
 ## Definitie

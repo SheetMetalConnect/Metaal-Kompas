@@ -1,6 +1,11 @@
 ---
+tags:
+  - 'kaart'
+  - 'moc'
+  - 'extra-industrie-en-security-topics'
+  - '🧹draft'
+
 title: Extra industrie & security topics
-tags: [kaart, moc, extra-industrie-en-security-topics]
 ---
 Deze kaart biedt een overzicht van alle begrippen binnen **extra industrie & security topics**.
 

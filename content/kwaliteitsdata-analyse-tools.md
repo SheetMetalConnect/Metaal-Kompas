@@ -1,8 +1,10 @@
 ---
-title: Kwaliteitsdata‑analyse tools (bijv. Q‑DAS)
-tags: [industrie, digitalisering, softwaremodules-en-integratie]
----
+tags:
+  - 'softwaremodules-en-integratie'
+  - '🧹draft'
 
+title: Kwaliteitsdata‑analyse tools (bijv. Q‑DAS)
+---
 *Kwaliteitsdata‑analyse tools (bijv. Q‑DAS)* is een begrip binnen de industriële digitalisering en softwaremodules & integratie.
 
 ## Definitie

@@ -1,8 +1,10 @@
 ---
-title: Multi‑cloud
-tags: [industrie, digitalisering, softwaredeployment-en-architectuur]
----
+tags:
+  - 'softwaredeployment-en-architectuur'
+  - '🧹draft'
 
+title: Multi‑cloud
+---
 *Multi‑cloud* is een begrip binnen de industriële digitalisering en softwaredeployment & architectuur.
 
 ## Definitie

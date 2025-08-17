@@ -1,8 +1,10 @@
 ---
-title: Transport Management System (TMS)
-tags: [industrie, digitalisering, softwaremodules-en-integratie]
----
+tags:
+  - 'softwaremodules-en-integratie'
+  - '🧹draft'
 
+title: Transport Management System (TMS)
+---
 *Transport Management System (TMS)* is een begrip binnen de industriële digitalisering en softwaremodules & integratie.
 
 ## Definitie

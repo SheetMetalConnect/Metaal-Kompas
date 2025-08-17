@@ -1,6 +1,11 @@
 ---
+tags:
+  - 'kaart'
+  - 'moc'
+  - 'traceerbaarheid-en-productidentificatie'
+  - '🧹draft'
+
 title: Traceerbaarheid & Productidentificatie
-tags: [kaart, moc, traceerbaarheid-en-productidentificatie]
 ---
 Deze kaart biedt een overzicht van alle begrippen binnen **traceerbaarheid & productidentificatie**.
 

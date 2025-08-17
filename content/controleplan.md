@@ -1,8 +1,10 @@
 ---
-title: Controleplan (control plan)
-tags: [industrie, digitalisering, kwaliteitsmanagement-en-software]
----
+tags:
+  - 'kwaliteitsmanagement-en-software'
+  - '🧹draft'
 
+title: Controleplan (control plan)
+---
 *Controleplan (control plan)* is een begrip binnen de industriële digitalisering en kwaliteitsmanagement & software.
 
 ## Definitie

@@ -1,6 +1,11 @@
 ---
+tags:
+  - 'kaart'
+  - 'moc'
+  - 'innovatie-en-toekomsttrends'
+  - '🧹draft'
+
 title: Innovatie & toekomsttrends
-tags: [kaart, moc, innovatie-en-toekomsttrends]
 ---
 Deze kaart biedt een overzicht van alle begrippen binnen **innovatie & toekomsttrends**.
 

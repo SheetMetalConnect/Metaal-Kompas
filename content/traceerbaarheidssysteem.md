@@ -1,8 +1,10 @@
 ---
-title: Traceerbaarheidssysteem
-tags: [industrie, digitalisering, traceerbaarheid-en-productidentificatie]
----
+tags:
+  - 'traceerbaarheid-en-productidentificatie'
+  - '🧹draft'
 
+title: Traceerbaarheidssysteem
+---
 *Traceerbaarheidssysteem* is een begrip binnen de industriële digitalisering en traceerbaarheid & productidentificatie.
 
 ## Definitie

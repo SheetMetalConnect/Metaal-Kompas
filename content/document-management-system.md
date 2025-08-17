@@ -1,8 +1,10 @@
 ---
-title: Document Management System (DMS)
-tags: [industrie, digitalisering, softwaremodules-en-integratie]
----
+tags:
+  - 'softwaremodules-en-integratie'
+  - '🧹draft'
 
+title: Document Management System (DMS)
+---
 *Document Management System (DMS)* is een begrip binnen de industriële digitalisering en softwaremodules & integratie.
 
 ## Definitie

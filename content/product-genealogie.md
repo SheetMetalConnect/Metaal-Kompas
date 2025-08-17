@@ -1,8 +1,10 @@
 ---
-title: Product‑genealogie (productiegeschiedenis)
-tags: [industrie, digitalisering, traceerbaarheid-en-productidentificatie]
----
+tags:
+  - 'traceerbaarheid-en-productidentificatie'
+  - '🧹draft'
 
+title: Product‑genealogie (productiegeschiedenis)
+---
 *Product‑genealogie (productiegeschiedenis)* is een begrip binnen de industriële digitalisering en traceerbaarheid & productidentificatie.
 
 ## Definitie

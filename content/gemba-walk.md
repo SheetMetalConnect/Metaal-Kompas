@@ -1,8 +1,10 @@
 ---
-title: Gemba walk
-tags: [industrie, digitalisering, procesoptimalisatie-en-organisatie]
----
+tags:
+  - 'procesoptimalisatie-en-organisatie'
+  - '🧹draft'
 
+title: Gemba walk
+---
 *Gemba walk* is een begrip binnen de industriële digitalisering en procesoptimalisatie & organisatie.
 
 ## Definitie

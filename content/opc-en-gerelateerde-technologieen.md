@@ -1,8 +1,10 @@
 ---
-title: OPC en Gerelateerde Technologieën
-tags: [industrie, digitalisering, industriële-communicatieprotocollen]
----
+tags:
+  - 'industriële-communicatieprotocollen'
+  - '🧹draft'
 
+title: OPC en Gerelateerde Technologieën
+---
 ## Sleutelbegrippen en Definities
 
 ### OLE (Object Linking and Embedding)

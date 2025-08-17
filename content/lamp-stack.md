@@ -1,8 +1,10 @@
 ---
-title: LAMP-stack
-tags: [industrie, digitalisering, softwaredeployment-en-architectuur]
----
+tags:
+  - 'softwaredeployment-en-architectuur'
+  - '🧹draft'
 
+title: LAMP-stack
+---
 *LAMP* is een acroniem voor een populaire open-source webontwikkelingsstack.
 
 ## Definitie

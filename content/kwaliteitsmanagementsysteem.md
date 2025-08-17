@@ -1,8 +1,10 @@
 ---
-title: Kwaliteitsmanagementsysteem (Quality Management System, QMS)
-tags: [industrie, digitalisering, kwaliteitsmanagement-en-software]
----
+tags:
+  - 'kwaliteitsmanagement-en-software'
+  - '🧹draft'
 
+title: Kwaliteitsmanagementsysteem (Quality Management System, QMS)
+---
 *Kwaliteitsmanagementsysteem (Quality Management System, QMS)* is een begrip binnen de industriële digitalisering en kwaliteitsmanagement & software.
 
 ## Definitie

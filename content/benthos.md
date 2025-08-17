@@ -1,8 +1,10 @@
 ---
-title: Benthos
-tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
----
+tags:
+  - 'event-streaming-messaging-en-integratie'
+  - '🧹draft'
 
+title: Benthos
+---
 > [!note]
 > Benthos is nu [[redpanda-connect|Redpanda Connect]].
 

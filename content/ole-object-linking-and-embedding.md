@@ -1,8 +1,10 @@
 ---
-title: OLE (Object Linking and Embedding)
-tags: [industrie, digitalisering, softwaremodules-en-integratie]
----
+tags:
+  - 'softwaremodules-en-integratie'
+  - '🧹draft'
 
+title: OLE (Object Linking and Embedding)
+---
 *OLE (Object Linking and Embedding)* is een technologie die door Microsoft is ontwikkeld en die het mogelijk maakt om objecten uit de ene applicatie in een andere in te sluiten of te koppelen.
 
 ## Definitie

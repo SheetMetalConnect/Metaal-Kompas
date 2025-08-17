@@ -1,8 +1,10 @@
 ---
-title: Representational State Transfer (REST)‑API
-tags: [industrie, digitalisering, industriële-communicatieprotocollen]
----
+tags:
+  - 'industriële-communicatieprotocollen'
+  - '🧹draft'
 
+title: Representational State Transfer (REST)‑API
+---
 *Representational State Transfer (REST)‑API* is een begrip binnen de industriële digitalisering en industriële communicatieprotocollen.
 
 ## Definitie

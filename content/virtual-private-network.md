@@ -1,8 +1,10 @@
 ---
-title: Virtual Private Network (VPN)
-tags: [industrie, digitalisering, extra-industrie-en-security-topics]
----
+tags:
+  - 'extra-industrie-en-security-topics'
+  - '🧹draft'
 
+title: Virtual Private Network (VPN)
+---
 *Virtual Private Network (VPN)* is een begrip binnen de industriële digitalisering en extra industrie & security topics.
 
 ## Definitie

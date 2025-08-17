@@ -1,8 +1,10 @@
 ---
-title: Event sourcing
-tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
----
+tags:
+  - 'event-streaming-messaging-en-integratie'
+  - '🧹draft'
 
+title: Event sourcing
+---
 *Event sourcing* is een begrip binnen de industriële digitalisering en event streaming, messaging & integratie.
 
 ## Definitie

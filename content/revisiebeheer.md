@@ -1,8 +1,10 @@
 ---
-title: Revisiebeheer
-tags: [industrie, digitalisering, productstructuur-en-documentatie]
----
+tags:
+  - 'productstructuur-en-documentatie'
+  - '🧹draft'
 
+title: Revisiebeheer
+---
 *Revisiebeheer* is een begrip binnen de industriële digitalisering en productstructuur & documentatie.
 
 ## Definitie

@@ -1,8 +1,10 @@
 ---
-title: Axxalon Flow
-tags: [industrie, digitalisering, softwaremodules-en-integratie]
----
+tags:
+  - 'softwaremodules-en-integratie'
+  - '🧹draft'
 
+title: Axxalon Flow
+---
 *Axxalon Flow* is een Manufacturing Execution System (MES) dat is ontworpen om de productie-efficiëntie te verbeteren door middel van real-time data-integratie en procesautomatisering.
 
 ## Functionaliteit

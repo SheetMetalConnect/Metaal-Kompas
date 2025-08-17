@@ -1,8 +1,12 @@
 ---
-title: Wegwijzer digitale transformatie
-tags: [wegwijzer, transformatie, gids]
----
+tags:
+  - 'wegwijzer'
+  - 'transformatie'
+  - 'gids'
+  - '🧹draft'
 
+title: Wegwijzer digitale transformatie
+---
 [PLACEHOLDER - Wegwijzer content wordt handmatig toegevoegd]
 
 ---

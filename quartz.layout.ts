@@ -1,30 +1,20 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
-// gedeelde componenten (voor alle pagina's)
+// components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [
-    Component.Flex({
-      components: [
-        { Component: Component.PageTitle() },              // Site titel "Kompas"
-        { Component: Component.Spacer() },
-        { Component: Component.Search(), grow: true },     // Grote zoekbalk, altijd zichtbaar
-        { Component: Component.Darkmode() },               // Donker/licht schakelaar
-        { Component: Component.ReaderMode() },             // Rustige leesstand
-      ],
-    }),
-  ],
+  header: [],
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "vanenkhuizen.com": "https://vanenkhuizen.com",
-      "Sheet Metal Connect": "https://sheetmetalconnect.com",
+      "© 2025 Luke van Enkhuizen": "https://www.vanenkhuizen.com",
+      "LinkedIn": "https://www.linkedin.com/in/lvanenkhuizen/",
     },
-  }),
+  })
 }
 
-// layout voor losse notitiepagina’s (docs/defaults + Graph rechts)
+// components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ConditionalRender({
@@ -36,28 +26,47 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   left: [
+    Component.PageTitle(),
+    Component.MobileOnly(Component.Spacer()),
+    Component.Flex({
+      components: [
+        { Component: Component.Search(), grow: true },
+        { Component: Component.Darkmode() },
+        { Component: Component.ReaderMode() },
+      ],
+    }),
     Component.Explorer(),
   ],
   right: [
+    // DEFAULT placement, just filter tags:
+    Component.Graph({
+      localGraph: {
+        showTags: true,
+        removeTags: ["🧹draft", "live"],
+      },
+      globalGraph: {
+        showTags: true,
+        removeTags: ["🧹draft", "live"],
+      },
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
-    // ► Minimal, docs-consistent addition:
-    Component.DesktopOnly(Component.Graph()),
   ],
 }
 
-// layout voor lijsten (tags/folders) — optioneel ook Graph rechts
+// components for pages that display lists of pages (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [
-    Component.Breadcrumbs(),
-    Component.ArticleTitle(),
-    Component.ContentMeta(),
-  ],
+  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
+    Component.PageTitle(),
+    Component.MobileOnly(Component.Spacer()),
+    Component.Flex({
+      components: [
+        { Component: Component.Search(), grow: true },
+        { Component: Component.Darkmode() },
+      ],
+    }),
     Component.Explorer(),
   ],
-  right: [
-    // ► Optional but safe default: small graph aids orientation
-    Component.DesktopOnly(Component.Graph()),
-  ],
+  right: [],
 }

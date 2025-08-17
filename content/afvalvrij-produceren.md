@@ -1,8 +1,10 @@
 ---
-title: Afvalvrij produceren (zero‑waste)
-tags: [industrie, digitalisering, duurzaamheid-en-compliance]
----
+tags:
+  - 'duurzaamheid-en-compliance'
+  - '🧹draft'
 
+title: Afvalvrij produceren (zero‑waste)
+---
 *Afvalvrij produceren (zero‑waste)* is een begrip binnen de industriële digitalisering en duurzaamheid & compliance.
 
 ## Definitie

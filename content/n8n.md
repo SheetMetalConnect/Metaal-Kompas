@@ -1,8 +1,10 @@
 ---
-title: N8N
-tags: [industrie, digitalisering, softwaremodules-en-integratie]
----
+tags:
+  - 'softwaremodules-en-integratie'
+  - '🧹draft'
 
+title: N8N
+---
 *N8N* is een open-source workflow-automatiseringstool die gebruikers in staat stelt om complexe workflows te bouwen door verschillende applicaties en services met elkaar te verbinden.
 
 ## Definitie

@@ -1,8 +1,10 @@
 ---
-title: Event‑verrijking (event enrichment)
-tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
----
+tags:
+  - 'event-streaming-messaging-en-integratie'
+  - '🧹draft'
 
+title: Event‑verrijking (event enrichment)
+---
 *Event‑verrijking (event enrichment)* is een begrip binnen de industriële digitalisering en event streaming, messaging & integratie.
 
 ## Definitie

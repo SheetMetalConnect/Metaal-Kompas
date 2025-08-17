@@ -1,8 +1,10 @@
 ---
-title: Appsmith
-tags: [industrie, digitalisering, softwaremodules-en-integratie]
----
+tags:
+  - 'softwaremodules-en-integratie'
+  - '🧹draft'
 
+title: Appsmith
+---
 *Appsmith* is een open-source low-code platform voor het bouwen van interne tools, admin-panelen en dashboards.
 
 ## Definitie

@@ -1,8 +1,10 @@
 ---
-title: Manufacturing BOM (mBOM)
-tags: [industrie, digitalisering, productstructuur-en-documentatie]
----
+tags:
+  - 'productstructuur-en-documentatie'
+  - '🧹draft'
 
+title: Manufacturing BOM (mBOM)
+---
 *Manufacturing BOM (mBOM)* is een begrip binnen de industriële digitalisering en productstructuur & documentatie.
 
 ## Definitie

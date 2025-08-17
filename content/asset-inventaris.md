@@ -1,8 +1,10 @@
 ---
-title: Asset‑inventaris (asset inventory)
-tags: [industrie, digitalisering, extra-industrie-en-security-topics]
----
+tags:
+  - 'extra-industrie-en-security-topics'
+  - '🧹draft'
 
+title: Asset‑inventaris (asset inventory)
+---
 *Asset‑inventaris (asset inventory)* is een begrip binnen de industriële digitalisering en extra industrie & security topics.
 
 ## Definitie

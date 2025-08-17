@@ -1,8 +1,10 @@
 ---
-title: HiveMQ
-tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
----
+tags:
+  - 'event-streaming-messaging-en-integratie'
+  - '🧹draft'
 
+title: HiveMQ
+---
 *HiveMQ* is een MQTT-broker en een platform voor het verplaatsen van data van en naar verbonden apparaten op een snelle, betrouwbare en veilige manier.
 
 ## Definitie

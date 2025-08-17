@@ -1,8 +1,10 @@
 ---
-title: Heat number (materiaalpartijnummer)
-tags: [industrie, digitalisering, traceerbaarheid-en-productidentificatie]
----
+tags:
+  - 'traceerbaarheid-en-productidentificatie'
+  - '🧹draft'
 
+title: Heat number (materiaalpartijnummer)
+---
 *Heat number (materiaalpartijnummer)* is een begrip binnen de industriële digitalisering en traceerbaarheid & productidentificatie.
 
 ## Definitie

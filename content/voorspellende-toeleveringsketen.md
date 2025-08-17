@@ -1,8 +1,10 @@
 ---
-title: Voorspellende toeleveringsketen (predictive supply chain)
-tags: [industrie, digitalisering, innovatie-en-toekomsttrends]
----
+tags:
+  - 'innovatie-en-toekomsttrends'
+  - '🧹draft'
 
+title: Voorspellende toeleveringsketen (predictive supply chain)
+---
 *Voorspellende toeleveringsketen (predictive supply chain)* is een begrip binnen de industriële digitalisering en innovatie & toekomsttrends.
 
 ## Definitie

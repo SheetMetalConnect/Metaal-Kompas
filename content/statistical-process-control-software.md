@@ -1,8 +1,10 @@
 ---
-title: Statistical Process Control‑software (SPC‑software)
-tags: [industrie, digitalisering, kwaliteitsmanagement-en-software]
----
+tags:
+  - 'kwaliteitsmanagement-en-software'
+  - '🧹draft'
 
+title: Statistical Process Control‑software (SPC‑software)
+---
 *Statistical Process Control‑software (SPC‑software)* is een begrip binnen de industriële digitalisering en kwaliteitsmanagement & software.
 
 ## Definitie

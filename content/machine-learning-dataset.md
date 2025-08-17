@@ -1,8 +1,10 @@
 ---
-title: Machine‑learning dataset
-tags: [industrie, digitalisering, data-collectie-en-industrial-data-platforms]
----
+tags:
+  - 'data-collectie-en-industrial-data-platforms'
+  - '🧹draft'
 
+title: Machine‑learning dataset
+---
 *Machine‑learning dataset* is een begrip binnen de industriële digitalisering en data‑collectie & industrial data platforms.
 
 ## Definitie

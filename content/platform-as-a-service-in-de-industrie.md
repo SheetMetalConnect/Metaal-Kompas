@@ -1,8 +1,10 @@
 ---
-title: Platform as a Service in de industrie (PaaS)
-tags: [industrie, digitalisering, innovatie-en-toekomsttrends]
----
+tags:
+  - 'innovatie-en-toekomsttrends'
+  - '🧹draft'
 
+title: Platform as a Service in de industrie (PaaS)
+---
 *Platform as a Service in de industrie (PaaS)* is een begrip binnen de industriële digitalisering en innovatie & toekomsttrends.
 
 ## Definitie

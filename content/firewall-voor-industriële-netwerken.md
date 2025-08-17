@@ -1,8 +1,10 @@
 ---
-title: Firewall voor industriële netwerken
-tags: [industrie, digitalisering, extra-industrie-en-security-topics]
----
+tags:
+  - 'extra-industrie-en-security-topics'
+  - '🧹draft'
 
+title: Firewall voor industriële netwerken
+---
 *Firewall voor industriële netwerken* is een begrip binnen de industriële digitalisering en extra industrie & security topics.
 
 ## Definitie

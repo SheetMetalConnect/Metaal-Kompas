@@ -1,8 +1,10 @@
 ---
-title: United Manufacturing Hub (UMH)
-tags: [industrie, digitalisering, data-collectie-en-industrial-data-platforms]
----
+tags:
+  - 'data-collectie-en-industrial-data-platforms'
+  - '🧹draft'
 
+title: United Manufacturing Hub (UMH)
+---
 *United Manufacturing Hub (UMH)* is een begrip binnen de industriële digitalisering en data-collectie & industrial data platforms.
 
 ## Definitie

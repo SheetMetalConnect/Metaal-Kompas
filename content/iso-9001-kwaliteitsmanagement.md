@@ -1,8 +1,10 @@
 ---
-title: ISO 9001‑kwaliteitsmanagement
-tags: [industrie, digitalisering, kwaliteitsmanagement-en-software]
----
+tags:
+  - 'kwaliteitsmanagement-en-software'
+  - '🧹draft'
 
+title: ISO 9001‑kwaliteitsmanagement
+---
 *ISO 9001‑kwaliteitsmanagement* is een begrip binnen de industriële digitalisering en kwaliteitsmanagement & software.
 
 ## Definitie

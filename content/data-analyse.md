@@ -1,8 +1,10 @@
 ---
-title: Data‑analyse
-tags: [industrie, digitalisering, digitale-transformatie-en-industrie-40-50]
----
+tags:
+  - 'digitale-transformatie-en-industrie-40-50'
+  - '🧹draft'
 
+title: Data‑analyse
+---
 *Data‑analyse* is een begrip binnen de industriële digitalisering en digitale transformatie & industrie 4.0/5.0.
 
 ## Definitie

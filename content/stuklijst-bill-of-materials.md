@@ -1,8 +1,10 @@
 ---
-title: Stuklijst / Bill of Materials (BOM)
-tags: [industrie, digitalisering, productstructuur-en-documentatie]
----
+tags:
+  - 'productstructuur-en-documentatie'
+  - '🧹draft'
 
+title: Stuklijst / Bill of Materials (BOM)
+---
 *Stuklijst / Bill of Materials (BOM)* is een begrip binnen de industriële digitalisering en productstructuur & documentatie.
 
 ## Definitie

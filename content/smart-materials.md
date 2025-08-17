@@ -1,8 +1,10 @@
 ---
-title: Smart materials (slimme materialen)
-tags: [industrie, digitalisering, innovatie-en-toekomsttrends]
----
+tags:
+  - 'innovatie-en-toekomsttrends'
+  - '🧹draft'
 
+title: Smart materials (slimme materialen)
+---
 *Smart materials (slimme materialen)* is een begrip binnen de industriële digitalisering en innovatie & toekomsttrends.
 
 ## Definitie

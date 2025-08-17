@@ -1,8 +1,10 @@
 ---
-title: Online Analytical Processing (OLAP)
-tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
----
+tags:
+  - 'data-analyse-en-business-intelligence'
+  - '🧹draft'
 
+title: Online Analytical Processing (OLAP)
+---
 *Online Analytical Processing (OLAP)* is een begrip binnen de industriële digitalisering en data, analyse & business intelligence.
 
 ## Definitie

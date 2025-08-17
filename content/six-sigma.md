@@ -1,8 +1,10 @@
 ---
-title: Six Sigma
-tags: [industrie, digitalisering, kwaliteitsmanagement-en-software]
----
+tags:
+  - 'kwaliteitsmanagement-en-software'
+  - '🧹draft'
 
+title: Six Sigma
+---
 *Six Sigma* is een begrip binnen de industriële digitalisering en kwaliteitsmanagement & software.
 
 ## Definitie

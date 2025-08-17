@@ -1,8 +1,10 @@
 ---
-title: Tijdreeksdatabase (time‑series database)
-tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
----
+tags:
+  - 'data-analyse-en-business-intelligence'
+  - '🧹draft'
 
+title: Tijdreeksdatabase (time‑series database)
+---
 *Tijdreeksdatabase (time‑series database)* is een begrip binnen de industriële digitalisering en data, analyse & business intelligence.
 
 ## Definitie

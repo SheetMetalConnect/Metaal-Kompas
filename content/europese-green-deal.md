@@ -1,8 +1,10 @@
 ---
-title: Europese Green Deal
-tags: [industrie, digitalisering, duurzaamheid-en-compliance]
----
+tags:
+  - 'duurzaamheid-en-compliance'
+  - '🧹draft'
 
+title: Europese Green Deal
+---
 *Europese Green Deal* is een begrip binnen de industriële digitalisering en duurzaamheid & compliance.
 
 ## Definitie

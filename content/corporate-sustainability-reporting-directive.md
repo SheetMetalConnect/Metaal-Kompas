@@ -1,8 +1,10 @@
 ---
-title: Corporate Sustainability Reporting Directive (CSRD)
-tags: [industrie, digitalisering, duurzaamheid-en-compliance]
----
+tags:
+  - 'duurzaamheid-en-compliance'
+  - '🧹draft'
 
+title: Corporate Sustainability Reporting Directive (CSRD)
+---
 *Corporate Sustainability Reporting Directive (CSRD)* is een begrip binnen de industriële digitalisering en duurzaamheid & compliance.
 
 ## Definitie

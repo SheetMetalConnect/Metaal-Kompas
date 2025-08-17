@@ -1,8 +1,10 @@
 ---
-title: Flutterflow
-tags: [industrie, digitalisering, softwaremodules-en-integratie]
----
+tags:
+  - 'softwaremodules-en-integratie'
+  - '🧹draft'
 
+title: Flutterflow
+---
 *Flutterflow* is een low-code platform voor het bouwen van cross-platform mobiele applicaties.
 
 ## Definitie

@@ -1,6 +1,11 @@
 ---
+tags:
+  - 'kaart'
+  - 'moc'
+  - 'softwaredeployment-en-architectuur'
+  - '🧹draft'
+
 title: Softwaredeployment & Architectuur
-tags: [kaart, moc, softwaredeployment-en-architectuur]
 ---
 Deze kaart biedt een overzicht van alle begrippen binnen **softwaredeployment & architectuur**.
 

@@ -1,8 +1,10 @@
 ---
-title: API‑gateway
-tags: [industrie, digitalisering, softwaredeployment-en-architectuur]
----
+tags:
+  - 'softwaredeployment-en-architectuur'
+  - '🧹draft'
 
+title: API‑gateway
+---
 *API‑gateway* is een begrip binnen de industriële digitalisering en softwaredeployment & architectuur.
 
 ## Definitie

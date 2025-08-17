@@ -1,8 +1,10 @@
 ---
-title: Parametric design (parametrisch ontwerp)
-tags: [industrie, digitalisering, innovatie-en-toekomsttrends]
----
+tags:
+  - 'innovatie-en-toekomsttrends'
+  - '🧹draft'
 
+title: Parametric design (parametrisch ontwerp)
+---
 *Parametric design (parametrisch ontwerp)* is een begrip binnen de industriële digitalisering en innovatie & toekomsttrends.
 
 ## Definitie

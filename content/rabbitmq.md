@@ -1,8 +1,10 @@
 ---
-title: RabbitMQ
-tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
----
+tags:
+  - 'event-streaming-messaging-en-integratie'
+  - '🧹draft'
 
+title: RabbitMQ
+---
 *RabbitMQ* is een begrip binnen de industriële digitalisering en event streaming, messaging & integratie.
 
 ## Definitie

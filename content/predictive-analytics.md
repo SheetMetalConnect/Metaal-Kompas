@@ -1,8 +1,10 @@
 ---
-title: Predictive analytics (voorspellende analyse)
-tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
----
+tags:
+  - 'data-analyse-en-business-intelligence'
+  - '🧹draft'
 
+title: Predictive analytics (voorspellende analyse)
+---
 *Predictive analytics (voorspellende analyse)* is een begrip binnen de industriële digitalisering en data, analyse & business intelligence.
 
 ## Definitie

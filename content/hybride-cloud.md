@@ -1,8 +1,10 @@
 ---
-title: Hybride cloud
-tags: [industrie, digitalisering, softwaredeployment-en-architectuur]
----
+tags:
+  - 'softwaredeployment-en-architectuur'
+  - '🧹draft'
 
+title: Hybride cloud
+---
 *Hybride cloud* is een begrip binnen de industriële digitalisering en softwaredeployment & architectuur.
 
 ## Definitie

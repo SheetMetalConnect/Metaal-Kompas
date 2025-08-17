@@ -1,8 +1,10 @@
 ---
-title: Software as a Service (SaaS)
-tags: [industrie, digitalisering, softwaredeployment-en-architectuur]
----
+tags:
+  - 'softwaredeployment-en-architectuur'
+  - '🧹draft'
 
+title: Software as a Service (SaaS)
+---
 *Software as a Service (SaaS)* is een begrip binnen de industriële digitalisering en softwaredeployment & architectuur.
 
 ## Definitie

@@ -1,8 +1,10 @@
 ---
-title: Data democratisering
-tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
----
+tags:
+  - 'data-analyse-en-business-intelligence'
+  - '🧹draft'
 
+title: Data democratisering
+---
 *Data democratisering* is het proces waarbij data en data-analytische mogelijkheden toegankelijk worden gemaakt voor een breed scala aan gebruikers binnen een organisatie, ongeacht hun technische achtergrond of hiërarchische positie.
 
 ## Definitie

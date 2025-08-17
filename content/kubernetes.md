@@ -1,8 +1,10 @@
 ---
-title: Kubernetes (K8s)
-tags: [industrie, digitalisering, softwaredeployment-en-architectuur]
----
+tags:
+  - 'softwaredeployment-en-architectuur'
+  - '🧹draft'
 
+title: Kubernetes (K8s)
+---
 *Kubernetes (K8s)* is een begrip binnen de industriële digitalisering en softwaredeployment & architectuur.
 
 ## Definitie

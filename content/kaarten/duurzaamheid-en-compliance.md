@@ -1,6 +1,11 @@
 ---
+tags:
+  - 'kaart'
+  - 'moc'
+  - 'duurzaamheid-en-compliance'
+  - '🧹draft'
+
 title: Duurzaamheid & Compliance
-tags: [kaart, moc, duurzaamheid-en-compliance]
 ---
 Deze kaart biedt een overzicht van alle begrippen binnen **duurzaamheid & compliance**.
 

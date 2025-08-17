@@ -1,8 +1,10 @@
 ---
-title: Metadata‑beheer
-tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
----
+tags:
+  - 'data-analyse-en-business-intelligence'
+  - '🧹draft'
 
+title: Metadata‑beheer
+---
 *Metadata‑beheer* is een begrip binnen de industriële digitalisering en data, analyse & business intelligence.
 
 ## Definitie

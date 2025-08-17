@@ -1,8 +1,10 @@
 ---
-title: Actuator‑Sensor Interface (AS‑Interface)
-tags: [industrie, digitalisering, industriële-communicatieprotocollen]
----
+tags:
+  - 'industriële-communicatieprotocollen'
+  - '🧹draft'
 
+title: Actuator‑Sensor Interface (AS‑Interface)
+---
 *Actuator‑Sensor Interface (AS‑Interface)* is een begrip binnen de industriële digitalisering en industriële communicatieprotocollen.
 
 ## Definitie

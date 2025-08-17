@@ -1,8 +1,10 @@
 ---
-title: Total Productive Maintenance (TPM)
-tags: [industrie, digitalisering, procesoptimalisatie-en-organisatie]
----
+tags:
+  - 'procesoptimalisatie-en-organisatie'
+  - '🧹draft'
 
+title: Total Productive Maintenance (TPM)
+---
 *Total Productive Maintenance (TPM)* is een begrip binnen de industriële digitalisering en procesoptimalisatie & organisatie.
 
 ## Definitie

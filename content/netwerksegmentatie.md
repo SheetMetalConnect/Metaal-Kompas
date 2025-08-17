@@ -1,8 +1,10 @@
 ---
-title: Netwerksegmentatie
-tags: [industrie, digitalisering, extra-industrie-en-security-topics]
----
+tags:
+  - 'extra-industrie-en-security-topics'
+  - '🧹draft'
 
+title: Netwerksegmentatie
+---
 *Netwerksegmentatie* is een begrip binnen de industriële digitalisering en extra industrie & security topics.
 
 ## Definitie

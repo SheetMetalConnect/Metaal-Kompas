@@ -1,8 +1,10 @@
 ---
-title: Productconfigurator
-tags: [industrie, digitalisering, productstructuur-en-documentatie]
----
+tags:
+  - 'productstructuur-en-documentatie'
+  - '🧹draft'
 
+title: Productconfigurator
+---
 *Productconfigurator* is een begrip binnen de industriële digitalisering en productstructuur & documentatie.
 
 ## Definitie

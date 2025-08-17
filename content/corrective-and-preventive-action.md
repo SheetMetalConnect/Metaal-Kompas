@@ -1,8 +1,10 @@
 ---
-title: Corrective and Preventive Action (CAPA)
-tags: [industrie, digitalisering, kwaliteitsmanagement-en-software]
----
+tags:
+  - 'kwaliteitsmanagement-en-software'
+  - '🧹draft'
 
+title: Corrective and Preventive Action (CAPA)
+---
 *Corrective and Preventive Action (CAPA)* is een begrip binnen de industriële digitalisering en kwaliteitsmanagement & software.
 
 ## Definitie

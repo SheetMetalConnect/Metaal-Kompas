@@ -1,8 +1,10 @@
 ---
-title: Configure‑Price‑Quote (CPQ)
-tags: [industrie, digitalisering, softwaremodules-en-integratie]
----
+tags:
+  - 'softwaremodules-en-integratie'
+  - '🧹draft'
 
+title: Configure‑Price‑Quote (CPQ)
+---
 *Configure‑Price‑Quote (CPQ)* is een begrip binnen de industriële digitalisering en softwaremodules & integratie.
 
 ## Definitie

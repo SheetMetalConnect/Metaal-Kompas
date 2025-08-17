@@ -1,8 +1,10 @@
 ---
-title: ISO 513 Classificatie voor Snijgereedschappen
-tags: [industrie, digitalisering, programmatie-en-aansturing-productiemiddelen]
----
+tags:
+  - 'programmatie-en-aansturing-productiemiddelen'
+  - '🧹draft'
 
+title: ISO 513 Classificatie voor Snijgereedschappen
+---
 De ISO 513-norm biedt een internationaal classificatiesysteem voor snijgereedschappen, waarbij kleurcodes worden gebruikt om aan te geven voor welke materiaalcategorieën de gereedschappen zijn geoptimaliseerd.
 
 ## ISO 513 Standaard Kleurcoderingssysteem

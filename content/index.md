@@ -1,9 +1,10 @@
 ---
+tags: []
 title: Digitale Transformatie & AI in de Maakindustrie
 description: Naslagwerk van Luke van Enkhuizen voor de metaal- en maakindustrie. Begrippen, technologieën en trends rond digitalisering en AI, bedoeld als kompas voor ondernemers en professionals.
 ---
+## Welkom bij **Kompas** – jouw interactieve naslagwerk voor de **metaal- en maakindustrie**!
 
-Welkom bij **Kompas** – jouw interactieve naslagwerk voor de **metaal- en maakindustrie**.  
 Dit project is ontwikkeld door **Luke van Enkhuizen** en vormt een kennisbron die hij inzet in zijn **consultancy, seminars en video’s**.  
 
 Het doel van Kompas is simpel: **begrippen helder houden** en je helpen de juiste richting te vinden in de wereld van **digitale transformatie** en **kunstmatige intelligentie (AI)** binnen de industrie.
@@ -16,6 +17,8 @@ Het doel van Kompas is simpel: **begrippen helder houden** en je helpen de juist
 - 🔗 **Verwijzingen** – elke notitie linkt door naar gerelateerde begrippen  
 
 ---
+
+>[!tip] Deze site is nog in ontwikkeling. [Je kunt alle 'live' artikelen hier vinden.](tags/live)
 
 ## Kaarten – Thema’s
 

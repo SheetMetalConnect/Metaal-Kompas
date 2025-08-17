@@ -1,8 +1,10 @@
 ---
-title: HTTP/HTTPS in industriële omgevingen
-tags: [industrie, digitalisering, industriële-communicatieprotocollen]
----
+tags:
+  - 'industriële-communicatieprotocollen'
+  - '🧹draft'
 
+title: HTTP/HTTPS in industriële omgevingen
+---
 *HTTP/HTTPS in industriële omgevingen* is een begrip binnen de industriële digitalisering en industriële communicatieprotocollen.
 
 ## Definitie
