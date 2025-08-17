@@ -3,8 +3,6 @@ title: Mass customization
 tags: [industrie, digitalisering, procesoptimalisatie-en-organisatie]
 ---
 
-
-
 *Mass customization* is een begrip binnen de industriële digitalisering en procesoptimalisatie & organisatie.
 
 ## Definitie

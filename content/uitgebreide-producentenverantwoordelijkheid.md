@@ -3,8 +3,6 @@ title: Uitgebreide producentenverantwoordelijkheid (Extended Producer Responsibi
 tags: [industrie, digitalisering, duurzaamheid-en-compliance]
 ---
 
-
-
 *Uitgebreide producentenverantwoordelijkheid (Extended Producer Responsibility, EPR)* is een begrip binnen de industriële digitalisering en duurzaamheid & compliance.
 
 ## Definitie

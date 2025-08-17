@@ -3,8 +3,6 @@ title: Stuklijstbeheer
 tags: [industrie, digitalisering, productstructuur-en-documentatie]
 ---
 
-
-
 *Stuklijstbeheer* is een begrip binnen de industriële digitalisering en productstructuur & documentatie.
 
 ## Definitie

@@ -3,8 +3,6 @@ title: Lean manufacturing
 tags: [industrie, digitalisering, procesoptimalisatie-en-organisatie]
 ---
 
-
-
 *Lean manufacturing* is een begrip binnen de industriële digitalisering en procesoptimalisatie & organisatie.
 
 ## Definitie

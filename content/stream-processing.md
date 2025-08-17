@@ -3,8 +3,6 @@ title: Stream‑processing
 tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
 ---
 
-
-
 *Stream‑processing* is een begrip binnen de industriële digitalisering en event streaming, messaging & integratie.
 
 ## Definitie

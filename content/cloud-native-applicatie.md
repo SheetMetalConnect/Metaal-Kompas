@@ -3,8 +3,6 @@ title: Cloud‑native applicatie
 tags: [industrie, digitalisering, softwaredeployment-en-architectuur]
 ---
 
-
-
 *Cloud‑native applicatie* is een begrip binnen de industriële digitalisering en softwaredeployment & architectuur.
 
 ## Definitie

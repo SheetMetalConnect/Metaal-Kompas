@@ -3,8 +3,6 @@ title: Non‑Conformance Report (NCR)
 tags: [industrie, digitalisering, kwaliteitsmanagement-en-software]
 ---
 
-
-
 *Non‑Conformance Report (NCR)* is een begrip binnen de industriële digitalisering en kwaliteitsmanagement & software.
 
 ## Definitie

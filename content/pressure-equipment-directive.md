@@ -3,8 +3,6 @@ title: Pressure Equipment Directive (PED)
 tags: [industrie, digitalisering, lasnormen-en-certificering]
 ---
 
-
-
 *Pressure Equipment Directive (PED)* is een begrip binnen de industriële digitalisering en lasnormen & certificering.
 
 ## Definitie

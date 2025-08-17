@@ -3,8 +3,6 @@ title: Single‑Minute Exchange of Die (SMED)
 tags: [industrie, digitalisering, procesoptimalisatie-en-organisatie]
 ---
 
-
-
 *Single‑Minute Exchange of Die (SMED)* is een begrip binnen de industriële digitalisering en procesoptimalisatie & organisatie.
 
 ## Definitie

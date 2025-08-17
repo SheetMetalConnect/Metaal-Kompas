@@ -2,11 +2,9 @@
 title: Traceerbaarheid & Productidentificatie
 tags: [kaart, moc, traceerbaarheid-en-productidentificatie]
 ---
-
-
 Deze kaart biedt een overzicht van alle begrippen binnen **traceerbaarheid & productidentificatie**.
 
-## Begrippen (10 items)
+## Begrippen
 
 - [[batchnummer|Batchnummer]]
 - [[serienummer|Serienummer]]

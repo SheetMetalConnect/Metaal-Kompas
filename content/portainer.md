@@ -3,8 +3,6 @@ title: Portainer (containerbeheer)
 tags: [industrie, digitalisering, softwaredeployment-en-architectuur]
 ---
 
-
-
 *Portainer (containerbeheer)* is een begrip binnen de industriële digitalisering en softwaredeployment & architectuur.
 
 ## Definitie

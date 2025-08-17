@@ -3,8 +3,6 @@ title: Product Lifecycle Management (PLM)
 tags: [industrie, digitalisering, softwaremodules-en-integratie]
 ---
 
-
-
 *Product Lifecycle Management (PLM)* is een begrip binnen de industriële digitalisering en softwaremodules & integratie.
 
 ## Definitie

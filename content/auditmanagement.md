@@ -3,8 +3,6 @@ title: Auditmanagement
 tags: [industrie, digitalisering, kwaliteitsmanagement-en-software]
 ---
 
-
-
 *Auditmanagement* is een begrip binnen de industriële digitalisering en kwaliteitsmanagement & software.
 
 ## Definitie

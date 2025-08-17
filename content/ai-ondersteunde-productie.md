@@ -3,8 +3,6 @@ title: AI‑ondersteunde productie (AI‑assisted manufacturing)
 tags: [industrie, digitalisering, innovatie-en-toekomsttrends]
 ---
 
-
-
 *AI‑ondersteunde productie (AI‑assisted manufacturing)* is een begrip binnen de industriële digitalisering en innovatie & toekomsttrends.
 
 ## Definitie

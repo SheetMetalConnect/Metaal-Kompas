@@ -3,8 +3,6 @@ title: Lot tracking (partijvolging)
 tags: [industrie, digitalisering, traceerbaarheid-en-productidentificatie]
 ---
 
-
-
 *Lot tracking (partijvolging)* is een begrip binnen de industriële digitalisering en traceerbaarheid & productidentificatie.
 
 ## Definitie

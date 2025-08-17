@@ -3,8 +3,6 @@ title: Helm‑charts
 tags: [industrie, digitalisering, softwaredeployment-en-architectuur]
 ---
 
-
-
 *Helm‑charts* is een begrip binnen de industriële digitalisering en softwaredeployment & architectuur.
 
 ## Definitie

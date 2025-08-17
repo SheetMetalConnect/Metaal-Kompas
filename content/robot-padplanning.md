@@ -3,8 +3,6 @@ title: Robot‑padplanning (path planning)
 tags: [industrie, digitalisering, programmatie-en-aansturing-productiemiddelen]
 ---
 
-
-
 *Robot‑padplanning (path planning)* is een begrip binnen de industriële digitalisering en programmatie & aansturing productiemiddelen.
 
 ## Definitie

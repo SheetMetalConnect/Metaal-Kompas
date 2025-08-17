@@ -3,8 +3,6 @@ title: Computer‑Aided Manufacturing (CAM)
 tags: [industrie, digitalisering, softwaremodules-en-integratie]
 ---
 
-
-
 *Computer‑Aided Manufacturing (CAM)* is een begrip binnen de industriële digitalisering en softwaremodules & integratie.
 
 ## Definitie

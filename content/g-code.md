@@ -3,8 +3,6 @@ title: G‑code
 tags: [industrie, digitalisering, programmatie-en-aansturing-productiemiddelen]
 ---
 
-
-
 *G‑code* is een begrip binnen de industriële digitalisering en programmatie & aansturing productiemiddelen.
 
 ## Definitie

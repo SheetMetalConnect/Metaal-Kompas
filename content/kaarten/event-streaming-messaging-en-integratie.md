@@ -2,20 +2,14 @@
 title: Event streaming, messaging & integratie
 tags: [kaart, moc, event-streaming-messaging-en-integratie]
 ---
-
-
 Deze kaart biedt een overzicht van alle begrippen binnen **event streaming, messaging & integratie**.
 
-## Begrippen (20 items)
+## Begrippen 
 
 - [[apache-kafka|Apache Kafka]]
-- [[kafka-connect|Kafka Connect]]
-- [[kafka-streams|Kafka Streams]]
 - [[rabbitmq|RabbitMQ]]
 - [[activemq|ActiveMQ]]
-- [[zeromq|ZeroMQ]]
 - [[advanced-message-queuing-protocol|Advanced Message Queuing Protocol (AMQP)]]
-- [[java-message-service|Java Message Service (JMS)]]
 - [[publish-subscribe-messaging|Publish‑/Subscribe‑messaging (pub/sub)]]
 - [[event-sourcing|Event sourcing]]
 
@@ -27,9 +21,7 @@ Deze kaart biedt een overzicht van alle begrippen binnen **event streaming, mess
 - [[dead-letter-queue|Dead‑letter queue (DLQ)]]
 - [[message-queuing|Message‑queuing]]
 - [[backpressure-afhandeling|Backpressure‑afhandeling]]
-- [[schema-registry|Schema‑registry]]
 - [[dataserialisatie|Dataserialisatie (Avro, Protocol Buffers/Protobuf)]]
-
 
 ## UNS Enablers
 

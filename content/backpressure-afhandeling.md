@@ -3,8 +3,6 @@ title: Backpressure‑afhandeling
 tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
 ---
 
-
-
 *Backpressure‑afhandeling* is een begrip binnen de industriële digitalisering en event streaming, messaging & integratie.
 
 ## Definitie

@@ -3,8 +3,6 @@ title: Milieuprestatie‑berekening (inz. input voor LCA/EPD)
 tags: [industrie, digitalisering, duurzaamheid-en-compliance]
 ---
 
-
-
 *Milieuprestatie‑berekening (inz. input voor LCA/EPD)* is een begrip binnen de industriële digitalisering en duurzaamheid & compliance.
 
 ## Definitie

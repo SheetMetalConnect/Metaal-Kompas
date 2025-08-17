@@ -2,18 +2,15 @@
 title: Digitale transformatie & Industrie 4.0/5.0
 tags: [kaart, moc, digitale-transformatie-en-industrie-40-50]
 ---
-
-
 Deze kaart biedt een overzicht van alle begrippen binnen **digitale transformatie & industrie 4.0/5.0**.
 
-## Begrippen (31 items)
+## Begrippen
 
 **Foundational Concepts:**
 - [[digitale-transformatie|Digitale transformatie]]
 - [[smart-industry|Smart Industry]]
 - [[industrie-40|Industrie 4.0]]
 - [[industrie-50|Industrie 5.0]]
-- [[automatisering|Automatisering]]
 - [[robotisering|Robotisering]]
 - [[collaborative-robots|Collaborative robots (cobots)]]
 - [[autonome-mobiele-robots|Autonome mobiele robots (AMR)]]
@@ -48,7 +45,6 @@ Deze kaart biedt een overzicht van alle begrippen binnen **digitale transformati
 
 **Assessment & Strategy:**
 - [[digitale-transformatie-volwassenheidsanalyse|Digitale Transformatie Volwassenheidsanalyse (DTMA)]] - Maturity assessment
-
 
 ## UNS & Digital Thread
 

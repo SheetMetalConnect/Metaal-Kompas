@@ -3,8 +3,6 @@ title: Procesbeschrijving
 tags: [industrie, digitalisering, productstructuur-en-documentatie]
 ---
 
-
-
 *Procesbeschrijving* is een begrip binnen de industriële digitalisering en productstructuur & documentatie.
 
 ## Definitie

@@ -3,8 +3,6 @@ title: Industrieel metaversum (industrial metaverse)
 tags: [industrie, digitalisering, innovatie-en-toekomsttrends]
 ---
 
-
-
 *Industrieel metaversum (industrial metaverse)* is een begrip binnen de industriële digitalisering en innovatie & toekomsttrends.
 
 ## Definitie

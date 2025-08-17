@@ -3,8 +3,6 @@ title: Structured Text (ST)
 tags: [industrie, digitalisering, programmatie-en-aansturing-productiemiddelen]
 ---
 
-
-
 *Structured Text (ST)* is een begrip binnen de industriële digitalisering en programmatie & aansturing productiemiddelen.
 
 ## Definitie

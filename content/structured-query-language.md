@@ -3,8 +3,6 @@ title: Structured Query Language (SQL)
 tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
 ---
 
-
-
 *Structured Query Language (SQL)* is een begrip binnen de industriële digitalisering en data, analyse & business intelligence.
 
 ## Definitie

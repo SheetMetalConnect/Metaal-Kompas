@@ -3,8 +3,6 @@ title: Natural Language Processing (NLP)
 tags: [industrie, digitalisering, digitale-transformatie-en-industrie-40-50]
 ---
 
-
-
 *Natural Language Processing (NLP)* is een begrip binnen de industriële digitalisering en digitale transformatie & industrie 4.0/5.0.
 
 ## Definitie

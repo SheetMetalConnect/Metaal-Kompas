@@ -3,8 +3,6 @@ title: Manufacturing Operations Management (MOM)
 tags: [industrie, digitalisering, softwaremodules-en-integratie]
 ---
 
-
-
 *Manufacturing Operations Management (MOM)* is een begrip binnen de industriële digitalisering en softwaremodules & integratie.
 
 ## Definitie

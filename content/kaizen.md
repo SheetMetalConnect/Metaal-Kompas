@@ -3,8 +3,6 @@ title: Kaizen
 tags: [industrie, digitalisering, procesoptimalisatie-en-organisatie]
 ---
 
-
-
 *Kaizen* is een begrip binnen de industriële digitalisering en procesoptimalisatie & organisatie.
 
 ## Definitie

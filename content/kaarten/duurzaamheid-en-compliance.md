@@ -2,11 +2,9 @@
 title: Duurzaamheid & Compliance
 tags: [kaart, moc, duurzaamheid-en-compliance]
 ---
-
-
 Deze kaart biedt een overzicht van alle begrippen binnen **duurzaamheid & compliance**.
 
-## Begrippen (20 items)
+## Begrippen 
 
 - [[productpaspoort|Productpaspoort]]
 - [[digitaal-productpaspoort|Digitaal productpaspoort (DPP)]]
@@ -16,8 +14,6 @@ Deze kaart biedt een overzicht van alle begrippen binnen **duurzaamheid & compli
 - [[materialenpaspoort|Materialenpaspoort]]
 - [[circulaire-economie|Circulaire economie]]
 - [[reach-verordening|REACH‑verordening (Registration, Evaluation, Authorisation and Restriction of Chemicals)]]
-- [[rohs-richtlijn|RoHS‑richtlijn (Restriction of Hazardous Substances)]]
-- [[environmental-product-declaration|Environmental Product Declaration (EPD)]]
 
 - [[ecodesign-richtlijn|Ecodesign‑richtlijn (EcoDesign Directive)]]
 - [[uitgebreide-producentenverantwoordelijkheid|Uitgebreide producentenverantwoordelijkheid (Extended Producer Responsibility, EPR)]]
@@ -26,10 +22,6 @@ Deze kaart biedt een overzicht van alle begrippen binnen **duurzaamheid & compli
 - [[cradle-to-cradle|Cradle‑to‑Cradle (C2C)]]
 - [[afvalvrij-produceren|Afvalvrij produceren (zero‑waste)]]
 - [[energie-audit|Energie‑audit]]
-- [[scope-1-emissies|Scope 1‑emissies]]
-- [[scope-2-emissies|Scope 2‑emissies]]
-- [[scope-3-emissies|Scope 3‑emissies]]
-
 
 ## Gerelateerde kaarten
 

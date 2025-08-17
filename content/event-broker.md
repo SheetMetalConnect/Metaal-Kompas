@@ -3,8 +3,6 @@ title: Event broker
 tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
 ---
 
-
-
 *Event broker* is een centrale infrastructuurcomponent die verantwoordelijk is voor het routeren, distribueren en beheren van events tussen verschillende systemen in een event-gedreven architectuur.
 
 ## Definitie

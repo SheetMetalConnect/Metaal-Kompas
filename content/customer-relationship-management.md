@@ -3,8 +3,6 @@ title: Customer Relationship Management (CRM)
 tags: [industrie, digitalisering, softwaremodules-en-integratie]
 ---
 
-
-
 *Customer Relationship Management (CRM)* is een begrip binnen de industriële digitalisering en softwaremodules & integratie.
 
 ## Definitie

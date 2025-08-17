@@ -3,8 +3,6 @@ title: Extract‑Transform‑Load (ETL)
 tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
 ---
 
-
-
 *Extract‑Transform‑Load (ETL)* is een begrip binnen de industriële digitalisering en data, analyse & business intelligence.
 
 ## Definitie

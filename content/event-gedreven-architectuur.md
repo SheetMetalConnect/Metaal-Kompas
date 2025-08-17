@@ -3,8 +3,6 @@ title: Event‑gedreven architectuur (Event‑Driven Architecture, EDA)
 tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
 ---
 
-
-
 *Event‑gedreven architectuur (Event‑Driven Architecture, EDA)* is een softwarearchitectuurpatroon waarbij systemen communiceren via het produceren en consumeren van events, in plaats van directe synchrone communicatie.
 
 ## Definitie

@@ -3,8 +3,6 @@ title: Federated learning (gefedereerd leren)
 tags: [industrie, digitalisering, innovatie-en-toekomsttrends]
 ---
 
-
-
 *Federated learning (gefedereerd leren)* is een begrip binnen de industriële digitalisering en innovatie & toekomsttrends.
 
 ## Definitie

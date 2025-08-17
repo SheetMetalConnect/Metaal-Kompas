@@ -3,8 +3,6 @@ title: Manufacturing Execution System (MES)
 tags: [industrie, digitalisering, digitale-transformatie-en-industrie-40-50]
 ---
 
-
-
 *Manufacturing Execution System (MES)* is een begrip binnen de industriële digitalisering en digitale transformatie & industrie 4.0/5.0.
 
 ## Definitie

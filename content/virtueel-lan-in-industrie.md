@@ -3,8 +3,6 @@ title: Virtueel LAN in industrie (VLAN)
 tags: [industrie, digitalisering, extra-industrie-en-security-topics]
 ---
 
-
-
 *Virtueel LAN in industrie (VLAN)* is een begrip binnen de industriële digitalisering en extra industrie & security topics.
 
 ## Definitie

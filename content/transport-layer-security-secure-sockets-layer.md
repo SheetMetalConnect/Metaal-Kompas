@@ -3,8 +3,6 @@ title: Transport Layer Security / Secure Sockets Layer (TLS/SSL)
 tags: [industrie, digitalisering, extra-industrie-en-security-topics]
 ---
 
-
-
 *Transport Layer Security / Secure Sockets Layer (TLS/SSL)* is een begrip binnen de industriële digitalisering en extra industrie & security topics.
 
 ## Definitie

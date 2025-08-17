@@ -3,8 +3,6 @@ title: Cloud manufacturing
 tags: [industrie, digitalisering, innovatie-en-toekomsttrends]
 ---
 
-
-
 *Cloud manufacturing* is een begrip binnen de industriële digitalisering en innovatie & toekomsttrends.
 
 ## Definitie

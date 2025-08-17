@@ -3,8 +3,6 @@ title: Engineering Change Order (ECO)
 tags: [industrie, digitalisering, productstructuur-en-documentatie]
 ---
 
-
-
 *Engineering Change Order (ECO)* is een begrip binnen de industriële digitalisering en productstructuur & documentatie.
 
 ## Definitie

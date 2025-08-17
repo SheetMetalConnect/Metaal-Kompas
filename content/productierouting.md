@@ -3,8 +3,6 @@ title: Productierouting (routing)
 tags: [industrie, digitalisering, productstructuur-en-documentatie]
 ---
 
-
-
 *Productierouting (routing)* is een begrip binnen de industriële digitalisering en productstructuur & documentatie.
 
 ## Definitie

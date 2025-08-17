@@ -3,8 +3,6 @@ title: Material Requirements Planning (MRP)
 tags: [industrie, digitalisering, softwaremodules-en-integratie]
 ---
 
-
-
 *Material Requirements Planning (MRP)* is een begrip binnen de industriële digitalisering en softwaremodules & integratie.
 
 ## Definitie

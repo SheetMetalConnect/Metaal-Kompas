@@ -3,8 +3,6 @@ title: Procedure Qualification Record (PQR)
 tags: [industrie, digitalisering, lasnormen-en-certificering]
 ---
 
-
-
 *Procedure Qualification Record (PQR)* is een begrip binnen de industriële digitalisering en lasnormen & certificering.
 
 ## Definitie

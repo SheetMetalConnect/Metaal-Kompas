@@ -3,8 +3,6 @@ title: Variantbeheer
 tags: [industrie, digitalisering, productstructuur-en-documentatie]
 ---
 
-
-
 *Variantbeheer* is een begrip binnen de industriële digitalisering en productstructuur & documentatie.
 
 ## Definitie

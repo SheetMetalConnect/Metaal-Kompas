@@ -2,11 +2,9 @@
 title: Softwaredeployment & Architectuur
 tags: [kaart, moc, softwaredeployment-en-architectuur]
 ---
-
-
 Deze kaart biedt een overzicht van alle begrippen binnen **softwaredeployment & architectuur**.
 
-## Begrippen (23 items)
+## Begrippen
 
 - [[on-premises-software|On‑premises software]]
 - [[cloud-native-applicatie|Cloud‑native applicatie]]

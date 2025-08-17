@@ -2,11 +2,9 @@
 title: Procesoptimalisatie & Organisatie
 tags: [kaart, moc, procesoptimalisatie-en-organisatie]
 ---
-
-
 Deze kaart biedt een overzicht van alle begrippen binnen **procesoptimalisatie & organisatie**.
 
-## Begrippen (20 items)
+## Begrippen
 
 - [[lean-manufacturing|Lean manufacturing]]
 - [[just-in-time-productie|Just‑in‑time productie (JIT)]]

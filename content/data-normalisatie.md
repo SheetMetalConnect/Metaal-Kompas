@@ -3,8 +3,6 @@ title: Data‑normalisatie
 tags: [industrie, digitalisering, data-collectie-en-industrial-data-platforms]
 ---
 
-
-
 *Data‑normalisatie* is een begrip binnen de industriële digitalisering en data‑collectie & industrial data platforms.
 
 ## Definitie

@@ -3,8 +3,6 @@ title: MQTT‑broker
 tags: [industrie, digitalisering, data-collectie-en-industrial-data-platforms]
 ---
 
-
-
 *MQTT‑broker* is een begrip binnen de industriële digitalisering en data‑collectie & industrial data platforms.
 
 ## Definitie

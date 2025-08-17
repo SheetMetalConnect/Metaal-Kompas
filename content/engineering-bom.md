@@ -3,8 +3,6 @@ title: Engineering BOM (eBOM)
 tags: [industrie, digitalisering, productstructuur-en-documentatie]
 ---
 
-
-
 *Engineering BOM (eBOM)* is een begrip binnen de industriële digitalisering en productstructuur & documentatie.
 
 ## Definitie

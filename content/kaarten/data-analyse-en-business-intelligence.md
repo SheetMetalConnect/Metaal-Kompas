@@ -3,10 +3,9 @@ title: Data, Analyse & Business Intelligence
 tags: [kaart, moc, data-analyse-en-business-intelligence]
 ---
 
-
 Deze kaart biedt een overzicht van alle begrippen binnen **data, analyse & business intelligence**.
 
-## Begrippen (20 items)
+## Begrippen 
 
 - [[structured-query-language|Structured Query Language (SQL)]]
 - [[nosql-databases|NoSQL‑databases]]
@@ -18,18 +17,13 @@ Deze kaart biedt een overzicht van alle begrippen binnen **data, analyse & busin
 - [[datagovernance|Datagovernance]]
 - [[business-intelligence|Business Intelligence (BI)]]
 - [[kpi-dashboard|KPI‑dashboard]]
-
 - [[data-mining|Data‑mining]]
 - [[extract-transform-load|Extract‑Transform‑Load (ETL)]]
-- [[extract-load-transform|Extract‑Load‑Transform (ELT)]]
 - [[predictive-analytics|Predictive analytics (voorspellende analyse)]]
 - [[prescriptive-analytics|Prescriptive analytics (voorschrijvende analyse)]]
-- [[data-kwaliteitsbeheer|Data‑kwaliteitsbeheer]]
-- [[self-service-bi|Self‑service BI]]
 - [[online-analytical-processing|Online Analytical Processing (OLAP)]]
 - [[data-herkomst|Data‑herkomst (data lineage)]]
 - [[metadata-beheer|Metadata‑beheer]]
-
 
 ## UNS Data Management
 

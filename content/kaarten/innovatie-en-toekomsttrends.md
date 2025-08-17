@@ -2,11 +2,9 @@
 title: Innovatie & toekomsttrends
 tags: [kaart, moc, innovatie-en-toekomsttrends]
 ---
-
-
 Deze kaart biedt een overzicht van alle begrippen binnen **innovatie & toekomsttrends**.
 
-## Begrippen (20 items)
+## Begrippen
 
 - [[generative-design|Generative design (generatief ontwerp)]]
 - [[parametric-design|Parametric design (parametrisch ontwerp)]]
@@ -20,14 +18,9 @@ Deze kaart biedt een overzicht van alle begrippen binnen **innovatie & toekomstt
 - [[industrieel-metaversum|Industrieel metaversum (industrial metaverse)]]
 
 - [[smart-materials|Smart materials (slimme materialen)]]
-- [[biofabrication|Biofabrication (biofabricage)]]
-- [[quantumcomputing-in-productie|Quantumcomputing in productie]]
 - [[edge-to-cloud-continuüm|Edge‑to‑cloud‑continuüm]]
 - [[federated-learning|Federated learning (gefedereerd leren)]]
 - [[synthetic-data|Synthetic data (synthetische data)]]
-- [[autonome-inspectiedrones|Autonome inspectiedrones]]
-- [[self-healing-materials|Self‑healing materials (zelfherstellende materialen)]]
-- [[holografische-interfaces|Holografische interfaces]]
 - [[digitale-ethiek-in-de-industrie|Digitale ethiek in de industrie]]
 
 

@@ -3,8 +3,6 @@ title: Zelf gehoste software (self‑hosted)
 tags: [industrie, digitalisering, softwaremodules-en-integratie]
 ---
 
-
-
 *Zelf gehoste software (self‑hosted)* is een begrip binnen de industriële digitalisering en softwaremodules & integratie.
 
 ## Definitie

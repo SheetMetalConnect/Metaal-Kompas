@@ -3,8 +3,6 @@ title: M‑code
 tags: [industrie, digitalisering, programmatie-en-aansturing-productiemiddelen]
 ---
 
-
-
 *M‑code* is een begrip binnen de industriële digitalisering en programmatie & aansturing productiemiddelen.
 
 ## Definitie

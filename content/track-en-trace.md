@@ -3,8 +3,6 @@ title: Track‑&‑trace
 tags: [industrie, digitalisering, traceerbaarheid-en-productidentificatie]
 ---
 
-
-
 *Track‑&‑trace* is een begrip binnen de industriële digitalisering en traceerbaarheid & productidentificatie.
 
 ## Definitie

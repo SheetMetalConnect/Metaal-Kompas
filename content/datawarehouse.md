@@ -3,8 +3,6 @@ title: Datawarehouse
 tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
 ---
 
-
-
 *Datawarehouse* is een begrip binnen de industriële digitalisering en data, analyse & business intelligence.
 
 ## Definitie

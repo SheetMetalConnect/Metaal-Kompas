@@ -3,8 +3,6 @@ title: Complex Event Processing (CEP)
 tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
 ---
 
-
-
 *Complex Event Processing (CEP)* is een begrip binnen de industriële digitalisering en event streaming, messaging & integratie.
 
 ## Definitie

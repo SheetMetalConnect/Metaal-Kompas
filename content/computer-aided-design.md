@@ -3,8 +3,6 @@ title: Computer‑Aided Design (CAD)
 tags: [industrie, digitalisering, softwaremodules-en-integratie]
 ---
 
-
-
 *Computer‑Aided Design (CAD)* is een begrip binnen de industriële digitalisering en softwaremodules & integratie.
 
 ## Definitie

@@ -3,8 +3,6 @@ title: Batchnummer
 tags: [industrie, digitalisering, traceerbaarheid-en-productidentificatie]
 ---
 
-
-
 *Batchnummer* is een begrip binnen de industriële digitalisering en traceerbaarheid & productidentificatie.
 
 ## Definitie

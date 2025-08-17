@@ -3,8 +3,6 @@ title: Cradle‑to‑Cradle (C2C)
 tags: [industrie, digitalisering, duurzaamheid-en-compliance]
 ---
 
-
-
 *Cradle‑to‑Cradle (C2C)* is een begrip binnen de industriële digitalisering en duurzaamheid & compliance.
 
 ## Definitie

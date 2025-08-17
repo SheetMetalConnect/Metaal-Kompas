@@ -3,8 +3,6 @@ title: EN 1090 – uitvoering van staal‑ en aluminiumconstructies
 tags: [industrie, digitalisering, lasnormen-en-certificering]
 ---
 
-
-
 *EN 1090 – uitvoering van staal‑ en aluminiumconstructies* is een begrip binnen de industriële digitalisering en lasnormen & certificering.
 
 ## Definitie

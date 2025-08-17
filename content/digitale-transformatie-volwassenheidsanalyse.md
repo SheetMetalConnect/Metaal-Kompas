@@ -2,14 +2,11 @@
 title: Digitale Transformatie Volwassenheidsanalyse (DTMA)
 tags: [industrie, digitalisering, digitale-transformatie-en-industrie-40-50]
 ---
-
-
-
 *Digitale Transformatie Volwassenheidsanalyse (DTMA)* is een begrip binnen de industriële digitalisering en digitale transformatie & industrie 4.0/5.0.
 
 ## Definitie
 
-Digital Transformation Maturity Assessment (DTMA) is een systematische evaluatiemethodiek die organisaties helpt hun huidige digitale volwassenheidsniveau te bepalen en een roadmap voor verdere digitalisering te ontwikkelen. Het assessment richt zich op het identificeren van gaps, kansen en prioriteiten in de digitale transformatie journey.
+**Digital Transformation Maturity Assessment (DTMA)** is een systematische evaluatiemethodiek die organisaties helpt hun huidige digitale volwassenheidsniveau te bepalen en een roadmap voor verdere digitalisering te ontwikkelen. Het assessment richt zich op het identificeren van gaps, kansen en prioriteiten in de digitale transformatie journey.
 
 ## Kenmerken
 
@@ -65,17 +62,6 @@ Digital Transformation Maturity Assessment (DTMA) is een systematische evaluatie
 - [[kpi-dashboard|KPI Dashboard]] - Performance monitoring tools
 - [[business-intelligence|Business Intelligence]] - Data-driven insights
 - [[benchmarking|Benchmarking]] - Vergelijking met industry standards
-
-**Implementation Support:**
-- [[project-management|Project management]] - Digitale project uitvoering
-- [[training-en-ontwikkeling|Training & Ontwikkeling]] - Digitale vaardigheden
-- [[consultancy-diensten|Consultancy diensten]] - Externe expertise
-
-## Bronnen
-
-- Industry 4.0 Maturity Models
-- Digital Transformation Frameworks
-- Manufacturing Digitalization Best Practices
 
 ---
 ← Terug naar [[kaarten/digitale-transformatie-en-industrie-40-50|Digitale transformatie & Industrie 4.0/5.0 kaart]]

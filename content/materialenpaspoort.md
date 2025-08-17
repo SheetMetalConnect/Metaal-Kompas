@@ -3,8 +3,6 @@ title: Materialenpaspoort
 tags: [industrie, digitalisering, duurzaamheid-en-compliance]
 ---
 
-
-
 *Materialenpaspoort* is een begrip binnen de industriële digitalisering en duurzaamheid & compliance.
 
 ## Definitie

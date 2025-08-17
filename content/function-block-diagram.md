@@ -3,8 +3,6 @@ title: Function Block Diagram (FBD)
 tags: [industrie, digitalisering, programmatie-en-aansturing-productiemiddelen]
 ---
 
-
-
 *Function Block Diagram (FBD)* is een begrip binnen de industriële digitalisering en programmatie & aansturing productiemiddelen.
 
 ## Definitie

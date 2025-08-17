@@ -3,8 +3,6 @@ title: Wegpunt‑programmering (waypoints)
 tags: [industrie, digitalisering, programmatie-en-aansturing-productiemiddelen]
 ---
 
-
-
 *Wegpunt‑programmering (waypoints)* is een begrip binnen de industriële digitalisering en programmatie & aansturing productiemiddelen.
 
 ## Definitie

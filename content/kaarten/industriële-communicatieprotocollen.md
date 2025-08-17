@@ -2,34 +2,22 @@
 title: Industriële communicatieprotocollen
 tags: [kaart, moc, industriële-communicatieprotocollen]
 ---
-
-
 Deze kaart biedt een overzicht van alle begrippen binnen **industriële communicatieprotocollen**.
 
-## Begrippen (20 items)
+## Begrippen
 
 - [[message-queuing-telemetry-transport|Message Queuing Telemetry Transport (MQTT)]]
 - [[open-platform-communications-unified-architecture|Open Platform Communications Unified Architecture (OPC UA)]]
 - [[modbus|Modbus]]
-- [[profinet|Profinet]]
-- [[ethercat|EtherCAT]]
-- [[controller-area-network|Controller Area Network (CAN‑bus)]]
 - [[io-link|IO‑Link]]
 - [[http-https-in-industriële-omgevingen|HTTP/HTTPS in industriële omgevingen]]
 - [[representational-state-transfer-api|Representational State Transfer (REST)‑API]]
 - [[websocket|WebSocket]]
 
-- [[profibus|Profibus]]
-- [[building-automation-and-control-networks|Building Automation and Control networks (BACnet)]]
-- [[knx-protocol|KNX‑protocol]]
-- [[devicenet|DeviceNet]]
 - [[actuator-sensor-interface|Actuator‑Sensor Interface (AS‑Interface)]]
 - [[long-range-wide-area-network|Long Range Wide Area Network (LoRaWAN)]]
-- [[zigbee|Zigbee]]
 - [[bluetooth-low-energy|Bluetooth Low Energy (BLE)]]
 - [[5g-voor-industriële-toepassingen|5G voor industriële toepassingen]]
-- [[narrowband-iot|Narrowband‑IoT (NB‑IoT)]]
-
 
 ## UNS Protocollen
 

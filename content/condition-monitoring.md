@@ -3,8 +3,6 @@ title: Condition monitoring
 tags: [industrie, digitalisering, procesoptimalisatie-en-organisatie]
 ---
 
-
-
 *Condition monitoring* is een begrip binnen de industriële digitalisering en procesoptimalisatie & organisatie.
 
 ## Definitie

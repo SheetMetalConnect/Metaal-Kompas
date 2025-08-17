@@ -3,8 +3,6 @@ title: Continuous improvement (continu verbeteren)
 tags: [industrie, digitalisering, procesoptimalisatie-en-organisatie]
 ---
 
-
-
 *Continuous improvement (continu verbeteren)* is een begrip binnen de industriële digitalisering en procesoptimalisatie & organisatie.
 
 ## Definitie

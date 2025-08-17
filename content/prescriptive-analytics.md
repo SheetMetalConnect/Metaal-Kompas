@@ -3,8 +3,6 @@ title: Prescriptive analytics (voorschrijvende analyse)
 tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
 ---
 
-
-
 *Prescriptive analytics (voorschrijvende analyse)* is een begrip binnen de industriële digitalisering en data, analyse & business intelligence.
 
 ## Definitie

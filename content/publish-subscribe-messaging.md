@@ -3,8 +3,6 @@ title: Publish‑/Subscribe‑messaging (pub/sub)
 tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
 ---
 
-
-
 *Publish‑/Subscribe‑messaging (pub/sub)* is een begrip binnen de industriële digitalisering en event streaming, messaging & integratie.
 
 ## Definitie

@@ -3,8 +3,6 @@ title: Semantisch datamodel
 tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
 ---
 
-
-
 *Semantisch datamodel* is een gestructureerde representatie van industriële data die niet alleen de syntax en structuur definieert, maar ook de betekenis, relaties en context van data-elementen binnen het bedrijfsdomein.
 
 ## Definitie

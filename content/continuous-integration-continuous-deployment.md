@@ -3,8 +3,6 @@ title: Continuous Integration / Continuous Deployment (CI/CD)
 tags: [industrie, digitalisering, softwaremodules-en-integratie]
 ---
 
-
-
 *Continuous Integration / Continuous Deployment (CI/CD)* is een begrip binnen de industriële digitalisering en softwaremodules & integratie.
 
 ## Definitie

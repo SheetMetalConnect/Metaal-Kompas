@@ -2,11 +2,9 @@
 title: Kwaliteitsmanagement & Software
 tags: [kaart, moc, kwaliteitsmanagement-en-software]
 ---
-
-
 Deze kaart biedt een overzicht van alle begrippen binnen **kwaliteitsmanagement & software**.
 
-## Begrippen (20 items)
+## Begrippen
 
 - [[statistical-process-control-software|Statistical Process Control‑software (SPC‑software)]]
 - [[kwaliteitsmanagementsysteem|Kwaliteitsmanagementsysteem (Quality Management System, QMS)]]
@@ -23,10 +21,8 @@ Deze kaart biedt een overzicht van alle begrippen binnen **kwaliteitsmanagement 
 - [[first-article-inspection|First Article Inspection (FAI)]]
 - [[controleplan|Controleplan (control plan)]]
 - [[inspectieplan|Inspectieplan]]
-- [[kalibratiebeheer|Kalibratiebeheer]]
 - [[8d-probleemoplossing|8D‑probleemoplossing]]
 - [[root-cause-analysis|Root Cause Analysis (RCA)]]
-- [[gage-repeatability-en-reproducibility|Gage Repeatability & Reproducibility (Gage R&R)]]
 - [[procescapabiliteitsindex|Procescapabiliteitsindex (Cp/Cpk)]]
 - [[auditmanagement|Auditmanagement]]
 

@@ -3,8 +3,6 @@ title: Circulaire economie
 tags: [industrie, digitalisering, duurzaamheid-en-compliance]
 ---
 
-
-
 *Circulaire economie* is een begrip binnen de industriële digitalisering en duurzaamheid & compliance.
 
 ## Definitie

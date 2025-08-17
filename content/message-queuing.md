@@ -3,8 +3,6 @@ title: Message‑queuing
 tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
 ---
 
-
-
 *Message‑queuing* is een begrip binnen de industriële digitalisering en event streaming, messaging & integratie.
 
 ## Definitie

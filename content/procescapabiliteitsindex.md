@@ -3,8 +3,6 @@ title: Procescapabiliteitsindex (Cp/Cpk)
 tags: [industrie, digitalisering, kwaliteitsmanagement-en-software]
 ---
 
-
-
 *Procescapabiliteitsindex (Cp/Cpk)* is een begrip binnen de industriële digitalisering en kwaliteitsmanagement & software.
 
 ## Definitie

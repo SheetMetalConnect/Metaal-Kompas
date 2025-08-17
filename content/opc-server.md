@@ -3,8 +3,6 @@ title: OPC‑server
 tags: [industrie, digitalisering, data-collectie-en-industrial-data-platforms]
 ---
 
-
-
 *OPC‑server* is een begrip binnen de industriële digitalisering en data‑collectie & industrial data platforms.
 
 ## Definitie

@@ -3,8 +3,6 @@ title: Digitaal productpaspoort (DPP)
 tags: [industrie, digitalisering, duurzaamheid-en-compliance]
 ---
 
-
-
 *Digitaal productpaspoort (DPP)* is een begrip binnen de industriële digitalisering en duurzaamheid & compliance.
 
 ## Definitie

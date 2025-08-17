@@ -3,8 +3,6 @@ title: Bottleneck‑analyse
 tags: [industrie, digitalisering, procesoptimalisatie-en-organisatie]
 ---
 
-
-
 *Bottleneck‑analyse* is een begrip binnen de industriële digitalisering en procesoptimalisatie & organisatie.
 
 ## Definitie

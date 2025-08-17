@@ -3,8 +3,6 @@ title: IT/OT‑convergentie
 tags: [industrie, digitalisering, extra-industrie-en-security-topics]
 ---
 
-
-
 *IT/OT‑convergentie* is een begrip binnen de industriële digitalisering en extra industrie & security topics.
 
 ## Definitie

@@ -3,8 +3,6 @@ title: Datagovernance
 tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
 ---
 
-
-
 *Datagovernance* is een begrip binnen de industriële digitalisering en data, analyse & business intelligence.
 
 ## Definitie

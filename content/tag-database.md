@@ -3,8 +3,6 @@ title: Tag‑database
 tags: [industrie, digitalisering, data-collectie-en-industrial-data-platforms]
 ---
 
-
-
 *Tag‑database* is een begrip binnen de industriële digitalisering en data‑collectie & industrial data platforms.
 
 ## Definitie

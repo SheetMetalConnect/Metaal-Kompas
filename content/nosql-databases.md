@@ -3,8 +3,6 @@ title: NoSQL‑databases
 tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
 ---
 
-
-
 *NoSQL‑databases* is een begrip binnen de industriële digitalisering en data, analyse & business intelligence.
 
 ## Definitie

@@ -3,10 +3,9 @@ title: Data‑collectie & Industrial Data Platforms
 tags: [kaart, moc, data-collectie-en-industrial-data-platforms]
 ---
 
-
 Deze kaart biedt een overzicht van alle begrippen binnen **data‑collectie & industrial data platforms**.
 
-## Begrippen (21 items)
+## Begrippen
 
 **Data Collection & Monitoring:**
 - [[data-acquisitie|Data‑acquisitie (DAQ)]]
@@ -18,14 +17,12 @@ Deze kaart biedt een overzicht van alle begrippen binnen **data‑collectie & in
 - [[machine-datalogging|Machine‑datalogging]]
 - [[condition-data-capture|Condition‑data capture]]
 - [[iot-gateway|IoT‑gateway]]
-- [[fieldbus-logging|Fieldbus‑logging]]
 
 **Data Processing & Analytics:**
 - [[machine-learning-dataset|Machine‑learning dataset]]
 - [[data-normalisatie|Data‑normalisatie]]
 - [[datacleaning|Datacleaning]]
 - [[event-logging|Event‑logging]]
-- [[tijdssynchronisatie|Tijdssynchronisatie (NTP/PTP)]]
 - [[mqtt-broker|MQTT‑broker]]
 - [[opc-ua-pub-sub|OPC UA Pub/Sub]]
 - [[databuffering|Databuffering]]
@@ -34,7 +31,6 @@ Deze kaart biedt een overzicht van alle begrippen binnen **data‑collectie & in
 
 **Industrial Platforms:**
 - [[united-manufacturing-hub|United Manufacturing Hub (UMH)]] - Open-source Industrial IoT platform
-
 
 ## Gerelateerde kaarten
 

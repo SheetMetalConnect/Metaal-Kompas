@@ -3,8 +3,6 @@ title: CO₂‑voetafdruk
 tags: [industrie, digitalisering, duurzaamheid-en-compliance]
 ---
 
-
-
 *CO₂‑voetafdruk* is een begrip binnen de industriële digitalisering en duurzaamheid & compliance.
 
 ## Definitie

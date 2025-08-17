@@ -3,8 +3,6 @@ title: Internet of Things (IoT)
 tags: [industrie, digitalisering, digitale-transformatie-en-industrie-40-50]
 ---
 
-
-
 *Internet of Things (IoT)* is een begrip binnen de industriële digitalisering en digitale transformatie & industrie 4.0/5.0.
 
 ## Definitie

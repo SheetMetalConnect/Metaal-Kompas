@@ -3,8 +3,6 @@ title: Predictive maintenance (voorspellend onderhoud)
 tags: [industrie, digitalisering, procesoptimalisatie-en-organisatie]
 ---
 
-
-
 *Predictive maintenance (voorspellend onderhoud)* is een begrip binnen de industriële digitalisering en procesoptimalisatie & organisatie.
 
 ## Definitie

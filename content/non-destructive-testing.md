@@ -3,8 +3,6 @@ title: Non‑Destructive Testing (NDT)
 tags: [industrie, digitalisering, lasnormen-en-certificering]
 ---
 
-
-
 *Non‑Destructive Testing (NDT)* is een begrip binnen de industriële digitalisering en lasnormen & certificering.
 
 ## Definitie

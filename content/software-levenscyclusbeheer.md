@@ -3,8 +3,6 @@ title: Software‑levenscyclusbeheer
 tags: [industrie, digitalisering, extra-industrie-en-security-topics]
 ---
 
-
-
 *Software‑levenscyclusbeheer* is een begrip binnen de industriële digitalisering en extra industrie & security topics.
 
 ## Definitie

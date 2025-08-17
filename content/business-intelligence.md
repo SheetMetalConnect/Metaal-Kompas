@@ -3,8 +3,6 @@ title: Business Intelligence (BI)
 tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
 ---
 
-
-
 *Business Intelligence (BI)* is een begrip binnen de industriële digitalisering en data, analyse & business intelligence.
 
 ## Definitie
