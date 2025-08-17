@@ -1,8 +1,7 @@
 ---
 tags:
-  - 'digitale-transformatie-en-industrie-40-50'
-  - '🧹draft'
-
+  - digitale-transformatie-en-industrie-40-50
+  - live
 title: Industrie 5.0
 ---
 *Industrie 5.0* vertegenwoordigt de volgende stap in de industriële ontwikkeling: de **convergentie van menselijke intelligentie en kunstmatige intelligentie**. Waar [[industrie-4.0]] draaide om connectiviteit en het doorbreken van datasilo’s, legt Industrie 5.0 de nadruk op hoe AI menselijke creativiteit, besluitvorming en veiligheid versterkt.

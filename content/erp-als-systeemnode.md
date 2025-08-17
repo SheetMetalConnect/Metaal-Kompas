@@ -1,18 +1,17 @@
 ---
 tags:
-  - 'softwaredeployment-en-architectuur'
-  - 'digitale-transformatie-en-industrie-40-50'
-  - '🧹draft'
-
+  - softwaredeployment-en-architectuur
+  - digitale-transformatie-en-industrie-40-50
 title: ERP als systeemnode
 ---
-*ERP als systeemnode* beschrijft waarom ERP-systemen onderdeel moeten zijn van een bredere digitale strategie, niet de centrale spil waar alles omheen draait. Deze benadering is essentieel voor succesvolle digitale transformatie.
+*ERP als systeemnode* beschrijft waarom **ERP-systemen onderdeel moeten zijn van een bredere digitale strategie**, niet de centrale spil waar alles omheen draait. Deze benadering is essentieel voor succesvolle digitale transformatie.
 
 ## Het grote misverstand
 
 Veel organisaties maken de fundamentele fout om ERP centraal te zetten in hun digitale strategie. Ze denken dat als hun ERP-systeem up-to-date is, hun digitale transformatie geslaagd is. Dit is een gevaarlijke misconceptie die leidt tot rigide, moeilijk aanpasbare systemen.
 
 Walker Reynolds waarschuwt expliciet voor deze ERP-centrische benadering in de metalworking industry:
+
 > "Being ERP-centric is going to give you lots of challenges eventually."
 
 Het probleem is dat ERP-systemen designed zijn als monolithische oplossingen die eigendom claimen over bedrijfsprocessen. In werkelijkheid moet ERP functioneren als één component binnen een groter digitaal ecosysteem.
@@ -44,7 +43,9 @@ Deze architectuur zorgt ervoor dat geen enkel systeem dominant wordt. ERP levert
 
 De belangrijkste paradigmashift is om ERP te behandelen als een **bedrijfsfunctie** in plaats van als een **eigendomssysteem**. Dit betekent dat ERP zijn rol vervult binnen de organisatie zonder te bepalen hoe andere systemen werken.
 
-Tesla's WARP-systeem illustreert perfect hoe dit werkt. WARP is geen traditioneel ERP-monoliet, maar een digitale infrastructuur waarop ERP-functies draaien. Walker Reynolds legt uit:
+Tesla's WARP-systeem illustreert perfect hoe dit werkt. WARP is geen traditioneel ERP-monoliet, maar een digitale infrastructuur waarop ERP-functies draaien. 
+
+Walker Reynolds legt uit:
 > "WARP is not their ERP system actually. WARP is their digital infrastructure upon which they have ERP functions."
 
 Deze benadering geeft Tesla de flexibiliteit om hun business logic aan te passen zonder gevangen te zitten in vendor-specifieke beperkingen. Ze hebben controle over hun digitale infrastructuur terwijl ze standaard ERP-functionaliteiten gebruiken waar nodig.
