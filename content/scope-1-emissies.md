@@ -1,4 +1,3 @@
----
 title: Scope 1‑emissies
 tags: [industrie, digitalisering, duurzaamheid-en-compliance]
 ---

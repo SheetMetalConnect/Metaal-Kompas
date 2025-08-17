@@ -1,4 +1,3 @@
----
 title: Zigbee
 tags: [industrie, digitalisering, industriële-communicatieprotocollen]
 ---

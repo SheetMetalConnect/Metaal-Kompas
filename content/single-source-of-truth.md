@@ -1,4 +1,3 @@
----
 title: Single Source of Truth (SSOT)
 tags: [industrie, digitalisering, softwaredeployment-en-architectuur, data-governance]
 ---

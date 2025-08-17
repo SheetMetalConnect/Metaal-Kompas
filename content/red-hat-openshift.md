@@ -1,4 +1,3 @@
----
 title: Red Hat OpenShift
 tags: [industrie, digitalisering, softwaredeployment-en-architectuur]
 ---

@@ -1,4 +1,3 @@
----
 title: Product‑genealogie (productiegeschiedenis)
 tags: [industrie, digitalisering, traceerbaarheid-en-productidentificatie]
 ---

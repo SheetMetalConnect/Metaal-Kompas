@@ -1,4 +1,3 @@
----
 title: Profibus
 tags: [industrie, digitalisering, industriële-communicatieprotocollen]
 ---

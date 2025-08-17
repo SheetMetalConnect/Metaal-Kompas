@@ -1,4 +1,3 @@
----
 title: M‑code
 tags: [industrie, digitalisering, programmatie-en-aansturing-productiemiddelen]
 ---

@@ -1,4 +1,3 @@
----
 title: Representational State Transfer (REST)‑API
 tags: [industrie, digitalisering, industriële-communicatieprotocollen]
 ---

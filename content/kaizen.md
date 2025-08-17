@@ -1,4 +1,3 @@
----
 title: Kaizen
 tags: [industrie, digitalisering, procesoptimalisatie-en-organisatie]
 ---

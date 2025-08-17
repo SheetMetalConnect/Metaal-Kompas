@@ -1,4 +1,3 @@
----
 title: Kwaliteitsmanagementsysteem (Quality Management System, QMS)
 tags: [industrie, digitalisering, kwaliteitsmanagement-en-software]
 ---

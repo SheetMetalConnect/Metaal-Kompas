@@ -1,4 +1,3 @@
----
 title: Magnetisch onderzoek (MT)
 tags: [industrie, digitalisering, lasnormen-en-certificering]
 ---

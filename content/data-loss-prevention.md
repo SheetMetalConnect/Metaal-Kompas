@@ -1,4 +1,3 @@
----
 title: Data Loss Prevention (DLP)
 tags: [industrie, digitalisering, extra-industrie-en-security-topics]
 ---

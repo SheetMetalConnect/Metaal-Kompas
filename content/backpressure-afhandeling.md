@@ -1,4 +1,3 @@
----
 title: Backpressure‑afhandeling
 tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
 ---

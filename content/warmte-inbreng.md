@@ -1,4 +1,3 @@
----
 title: Warmte‑inbreng (heat input)
 tags: [industrie, digitalisering, lasnormen-en-certificering]
 ---

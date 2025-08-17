@@ -1,4 +1,3 @@
----
 title: CI/CD‑pijplijn
 tags: [industrie, digitalisering, softwaredeployment-en-architectuur]
 ---

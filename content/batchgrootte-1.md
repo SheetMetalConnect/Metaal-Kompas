@@ -1,4 +1,3 @@
----
 title: Batchgrootte 1
 tags: [industrie, digitalisering, procesoptimalisatie-en-organisatie]
 ---

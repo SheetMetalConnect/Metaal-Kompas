@@ -1,4 +1,3 @@
----
 title: Actuator‑Sensor Interface (AS‑Interface)
 tags: [industrie, digitalisering, industriële-communicatieprotocollen]
 ---

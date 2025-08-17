@@ -1,4 +1,3 @@
----
 title: ISO 3834 – kwaliteitsnorm voor lassen
 tags: [industrie, digitalisering, lasnormen-en-certificering]
 ---

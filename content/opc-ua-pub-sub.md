@@ -1,4 +1,3 @@
----
 title: OPC UA Pub/Sub
 tags: [industrie, digitalisering, data-collectie-en-industrial-data-platforms]
 ---

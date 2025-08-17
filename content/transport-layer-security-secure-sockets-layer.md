@@ -1,4 +1,3 @@
----
 title: Transport Layer Security / Secure Sockets Layer (TLS/SSL)
 tags: [industrie, digitalisering, extra-industrie-en-security-topics]
 ---

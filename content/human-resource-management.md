@@ -1,4 +1,3 @@
----
 title: Human Resource Management (HRM)
 tags: [industrie, digitalisering, softwaremodules-en-integratie]
 ---

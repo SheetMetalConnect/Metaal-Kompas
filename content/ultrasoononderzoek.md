@@ -1,4 +1,3 @@
----
 title: Ultrasoononderzoek (UT)
 tags: [industrie, digitalisering, lasnormen-en-certificering]
 ---

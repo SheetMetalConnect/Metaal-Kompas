@@ -1,4 +1,3 @@
----
 title: Message‑queuing
 tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
 ---

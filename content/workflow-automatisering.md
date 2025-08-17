@@ -1,4 +1,3 @@
----
 title: Workflow‑automatisering
 tags: [industrie, digitalisering, softwaremodules-en-integratie]
 ---

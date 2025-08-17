@@ -1,4 +1,3 @@
----
 title: Secure boot
 tags: [industrie, digitalisering, extra-industrie-en-security-topics]
 ---

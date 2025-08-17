@@ -1,4 +1,3 @@
----
 title: Generative design (generatief ontwerp)
 tags: [industrie, digitalisering, innovatie-en-toekomsttrends]
 ---

@@ -1,4 +1,3 @@
----
 title: Toyota Productiesysteem (TPS)
 tags: [industrie, digitalisering, procesoptimalisatie-en-organisatie]
 ---

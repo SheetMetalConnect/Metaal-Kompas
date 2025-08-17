@@ -1,4 +1,3 @@
----
 title: MQTT‑broker
 tags: [industrie, digitalisering, data-collectie-en-industrial-data-platforms]
 ---

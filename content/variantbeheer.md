@@ -1,4 +1,3 @@
----
 title: Variantbeheer
 tags: [industrie, digitalisering, productstructuur-en-documentatie]
 ---

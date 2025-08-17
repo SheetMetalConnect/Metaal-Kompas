@@ -1,4 +1,3 @@
----
 title: Tag‑database
 tags: [industrie, digitalisering, data-collectie-en-industrial-data-platforms]
 ---

@@ -1,4 +1,3 @@
----
 title: Firewall voor industriële netwerken
 tags: [industrie, digitalisering, extra-industrie-en-security-topics]
 ---

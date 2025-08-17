@@ -1,4 +1,3 @@
----
 title: Computer‑Aided Design (CAD)
 tags: [industrie, digitalisering, softwaremodules-en-integratie]
 ---

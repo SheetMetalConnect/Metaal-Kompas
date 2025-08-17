@@ -1,4 +1,3 @@
----
 title: Corporate Sustainability Reporting Directive (CSRD)
 tags: [industrie, digitalisering, duurzaamheid-en-compliance]
 ---

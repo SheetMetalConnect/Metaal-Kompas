@@ -1,4 +1,3 @@
----
 title: Historische dataopslag
 tags: [industrie, digitalisering, data-collectie-en-industrial-data-platforms]
 ---

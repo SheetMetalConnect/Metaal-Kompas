@@ -1,4 +1,3 @@
----
 title: Infrastructure as a Service (IaaS)
 tags: [industrie, digitalisering, softwaredeployment-en-architectuur]
 ---

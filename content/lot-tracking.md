@@ -1,4 +1,3 @@
----
 title: Lot tracking (partijvolging)
 tags: [industrie, digitalisering, traceerbaarheid-en-productidentificatie]
 ---

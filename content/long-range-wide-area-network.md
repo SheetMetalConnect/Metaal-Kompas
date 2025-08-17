@@ -1,4 +1,3 @@
----
 title: Long Range Wide Area Network (LoRaWAN)
 tags: [industrie, digitalisering, industriële-communicatieprotocollen]
 ---

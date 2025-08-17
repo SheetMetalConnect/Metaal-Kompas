@@ -1,4 +1,3 @@
----
 title: Radiografisch onderzoek (RT)
 tags: [industrie, digitalisering, lasnormen-en-certificering]
 ---

@@ -1,4 +1,3 @@
----
 title: Inspectieplan
 tags: [industrie, digitalisering, kwaliteitsmanagement-en-software]
 ---

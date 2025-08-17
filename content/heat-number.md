@@ -1,4 +1,3 @@
----
 title: Heat number (materiaalpartijnummer)
 tags: [industrie, digitalisering, traceerbaarheid-en-productidentificatie]
 ---

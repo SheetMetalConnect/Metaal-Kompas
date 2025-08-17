@@ -1,4 +1,3 @@
----
 title: Industrieel metaversum (industrial metaverse)
 tags: [industrie, digitalisering, innovatie-en-toekomsttrends]
 ---

@@ -1,4 +1,3 @@
----
 title: Kwaliteitsdata‑analyse tools (bijv. Q‑DAS)
 tags: [industrie, digitalisering, softwaremodules-en-integratie]
 ---

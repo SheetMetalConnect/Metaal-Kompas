@@ -1,4 +1,3 @@
----
 title: Synthetic data (synthetische data)
 tags: [industrie, digitalisering, innovatie-en-toekomsttrends]
 ---

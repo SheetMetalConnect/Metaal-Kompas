@@ -1,4 +1,3 @@
----
 title: EN 1090 – uitvoering van staal‑ en aluminiumconstructies
 tags: [industrie, digitalisering, lasnormen-en-certificering]
 ---

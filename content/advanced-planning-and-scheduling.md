@@ -1,4 +1,3 @@
----
 title: Advanced Planning and Scheduling (APS)
 tags: [industrie, digitalisering, softwaremodules-en-integratie]
 ---

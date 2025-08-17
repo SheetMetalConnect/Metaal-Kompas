@@ -1,4 +1,3 @@
----
 title: Helm‑charts
 tags: [industrie, digitalisering, softwaredeployment-en-architectuur]
 ---

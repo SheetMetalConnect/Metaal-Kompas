@@ -1,4 +1,3 @@
----
 title: Kinematica in robotica
 tags: [industrie, digitalisering, programmatie-en-aansturing-productiemiddelen]
 ---

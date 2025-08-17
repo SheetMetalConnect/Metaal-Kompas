@@ -1,4 +1,3 @@
----
 title: WebSocket
 tags: [industrie, digitalisering, industriële-communicatieprotocollen]
 ---

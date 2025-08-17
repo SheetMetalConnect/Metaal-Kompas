@@ -1,4 +1,3 @@
----
 title: Lean manufacturing
 tags: [industrie, digitalisering, procesoptimalisatie-en-organisatie]
 ---

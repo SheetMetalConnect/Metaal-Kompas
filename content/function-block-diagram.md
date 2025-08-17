@@ -1,4 +1,3 @@
----
 title: Function Block Diagram (FBD)
 tags: [industrie, digitalisering, programmatie-en-aansturing-productiemiddelen]
 ---

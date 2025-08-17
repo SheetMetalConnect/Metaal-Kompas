@@ -1,4 +1,3 @@
----
 title: Multi‑cloud
 tags: [industrie, digitalisering, softwaredeployment-en-architectuur]
 ---

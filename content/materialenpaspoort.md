@@ -1,4 +1,3 @@
----
 title: Materialenpaspoort
 tags: [industrie, digitalisering, duurzaamheid-en-compliance]
 ---

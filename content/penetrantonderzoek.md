@@ -1,4 +1,3 @@
----
 title: Penetrantonderzoek (PT)
 tags: [industrie, digitalisering, lasnormen-en-certificering]
 ---

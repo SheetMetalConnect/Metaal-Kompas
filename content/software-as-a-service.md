@@ -1,4 +1,3 @@
----
 title: Software as a Service (SaaS)
 tags: [industrie, digitalisering, softwaredeployment-en-architectuur]
 ---

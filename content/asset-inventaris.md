@@ -1,4 +1,3 @@
----
 title: Asset‑inventaris (asset inventory)
 tags: [industrie, digitalisering, extra-industrie-en-security-topics]
 ---

@@ -1,4 +1,3 @@
----
 title: Platform as a Service (PaaS)
 tags: [industrie, digitalisering, softwaredeployment-en-architectuur]
 ---

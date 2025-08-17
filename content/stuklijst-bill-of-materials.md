@@ -1,4 +1,3 @@
----
 title: Stuklijst / Bill of Materials (BOM)
 tags: [industrie, digitalisering, productstructuur-en-documentatie]
 ---

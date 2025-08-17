@@ -1,4 +1,3 @@
----
 title: Cradle‑to‑Cradle (C2C)
 tags: [industrie, digitalisering, duurzaamheid-en-compliance]
 ---

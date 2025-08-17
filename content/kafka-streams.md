@@ -1,4 +1,3 @@
----
 title: Kafka Streams
 tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
 ---

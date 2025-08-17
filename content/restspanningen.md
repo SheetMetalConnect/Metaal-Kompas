@@ -1,4 +1,3 @@
----
 title: Restspanningen
 tags: [industrie, digitalisering, lasnormen-en-certificering]
 ---

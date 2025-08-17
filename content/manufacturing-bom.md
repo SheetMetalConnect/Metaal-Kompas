@@ -1,4 +1,3 @@
----
 title: Manufacturing BOM (mBOM)
 tags: [industrie, digitalisering, productstructuur-en-documentatie]
 ---

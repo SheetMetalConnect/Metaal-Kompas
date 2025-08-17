@@ -1,4 +1,3 @@
----
 title: Patchmanagement
 tags: [industrie, digitalisering, extra-industrie-en-security-topics]
 ---

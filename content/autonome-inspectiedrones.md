@@ -1,4 +1,3 @@
----
 title: Autonome inspectiedrones
 tags: [industrie, digitalisering, innovatie-en-toekomsttrends]
 ---

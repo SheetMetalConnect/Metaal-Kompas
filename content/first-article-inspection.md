@@ -1,4 +1,3 @@
----
 title: First Article Inspection (FAI)
 tags: [industrie, digitalisering, kwaliteitsmanagement-en-software]
 ---

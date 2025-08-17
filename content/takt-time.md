@@ -1,4 +1,3 @@
----
 title: Takt time
 tags: [industrie, digitalisering, procesoptimalisatie-en-organisatie]
 ---

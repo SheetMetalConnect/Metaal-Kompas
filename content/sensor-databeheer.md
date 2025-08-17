@@ -1,4 +1,3 @@
----
 title: Sensor‑databeheer
 tags: [industrie, digitalisering, data-collectie-en-industrial-data-platforms]
 ---

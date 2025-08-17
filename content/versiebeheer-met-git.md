@@ -1,4 +1,3 @@
----
 title: Versiebeheer met Git
 tags: [industrie, digitalisering, softwaredeployment-en-architectuur]
 ---

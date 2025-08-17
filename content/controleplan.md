@@ -1,4 +1,3 @@
----
 title: Controleplan (control plan)
 tags: [industrie, digitalisering, kwaliteitsmanagement-en-software]
 ---

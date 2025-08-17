@@ -1,4 +1,3 @@
----
 title: Heijunka (productie‑egalering)
 tags: [industrie, digitalisering, procesoptimalisatie-en-organisatie]
 ---

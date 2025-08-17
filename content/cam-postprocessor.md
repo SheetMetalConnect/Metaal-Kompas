@@ -1,4 +1,3 @@
----
 title: CAM‑postprocessor
 tags: [industrie, digitalisering, programmatie-en-aansturing-productiemiddelen]
 ---

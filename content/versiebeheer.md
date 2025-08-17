@@ -1,4 +1,3 @@
----
 title: Versiebeheer (Git)
 tags: [industrie, digitalisering, softwaremodules-en-integratie]
 ---

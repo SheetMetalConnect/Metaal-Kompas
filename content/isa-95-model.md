@@ -1,4 +1,3 @@
----
 title: ISA-95 model
 tags: [industrie, digitalisering, softwaredeployment-en-architectuur, standaarden]
 ---

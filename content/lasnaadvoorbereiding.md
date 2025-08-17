@@ -1,4 +1,3 @@
----
 title: Lasnaadvoorbereiding
 tags: [industrie, digitalisering, lasnormen-en-certificering]
 ---

@@ -1,4 +1,3 @@
----
 title: Ignition (Inductive Automation)
 tags: [industrie, digitalisering, softwaremodules-en-integratie]
 ---

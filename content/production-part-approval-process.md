@@ -1,4 +1,3 @@
----
 title: Production Part Approval Process (PPAP)
 tags: [industrie, digitalisering, kwaliteitsmanagement-en-software]
 ---

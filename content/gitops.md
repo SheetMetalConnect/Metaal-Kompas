@@ -1,4 +1,3 @@
----
 title: GitOps
 tags: [industrie, digitalisering, softwaredeployment-en-architectuur]
 ---

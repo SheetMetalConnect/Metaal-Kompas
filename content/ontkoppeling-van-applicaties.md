@@ -1,4 +1,3 @@
----
 title: Ontkoppeling van applicaties
 tags: [industrie, digitalisering, softwaredeployment-en-architectuur]
 ---

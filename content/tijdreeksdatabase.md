@@ -1,4 +1,3 @@
----
 title: Tijdreeksdatabase (time‑series database)
 tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
 ---

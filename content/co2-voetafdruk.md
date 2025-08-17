@@ -1,4 +1,3 @@
----
 title: CO₂‑voetafdruk
 tags: [industrie, digitalisering, duurzaamheid-en-compliance]
 ---

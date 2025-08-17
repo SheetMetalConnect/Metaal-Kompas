@@ -1,4 +1,3 @@
----
 title: ZeroMQ
 tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
 ---

@@ -1,4 +1,3 @@
----
 title: Edge‑to‑cloud‑continuüm
 tags: [industrie, digitalisering, innovatie-en-toekomsttrends]
 ---

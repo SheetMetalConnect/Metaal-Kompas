@@ -1,4 +1,3 @@
----
 title: Application Programming Interface (API)
 tags: [industrie, digitalisering, digitale-transformatie-en-industrie-40-50]
 ---

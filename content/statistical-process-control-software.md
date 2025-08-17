@@ -1,4 +1,3 @@
----
 title: Statistical Process Control‑software (SPC‑software)
 tags: [industrie, digitalisering, kwaliteitsmanagement-en-software]
 ---

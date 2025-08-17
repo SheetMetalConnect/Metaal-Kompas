@@ -1,4 +1,3 @@
----
 title: Business Intelligence (BI)
 tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
 ---

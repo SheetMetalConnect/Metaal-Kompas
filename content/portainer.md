@@ -1,4 +1,3 @@
----
 title: Portainer (containerbeheer)
 tags: [industrie, digitalisering, softwaredeployment-en-architectuur]
 ---

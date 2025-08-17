@@ -1,4 +1,3 @@
----
 title: Metadata‑beheer
 tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
 ---

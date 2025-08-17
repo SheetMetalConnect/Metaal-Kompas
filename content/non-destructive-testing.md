@@ -1,4 +1,3 @@
----
 title: Non‑Destructive Testing (NDT)
 tags: [industrie, digitalisering, lasnormen-en-certificering]
 ---

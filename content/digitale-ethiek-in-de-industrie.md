@@ -1,4 +1,3 @@
----
 title: Digitale ethiek in de industrie
 tags: [industrie, digitalisering, innovatie-en-toekomsttrends]
 ---

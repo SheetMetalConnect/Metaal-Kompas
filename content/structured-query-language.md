@@ -1,4 +1,3 @@
----
 title: Structured Query Language (SQL)
 tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
 ---

@@ -1,4 +1,3 @@
----
 title: Kwetsbaarheidsscan (vulnerability scanning)
 tags: [industrie, digitalisering, extra-industrie-en-security-topics]
 ---

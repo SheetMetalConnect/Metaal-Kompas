@@ -1,4 +1,3 @@
----
 title: Poka‑Yoke (foutpreventie)
 tags: [industrie, digitalisering, kwaliteitsmanagement-en-software]
 ---

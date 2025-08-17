@@ -1,4 +1,3 @@
----
 title: Barcode‑etikettering
 tags: [industrie, digitalisering, traceerbaarheid-en-productidentificatie]
 ---

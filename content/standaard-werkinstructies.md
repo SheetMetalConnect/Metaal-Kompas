@@ -1,4 +1,3 @@
----
 title: Standaard werkinstructies (Standard Operating Procedures, SOP)
 tags: [industrie, digitalisering, procesoptimalisatie-en-organisatie]
 ---

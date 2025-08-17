@@ -1,4 +1,3 @@
----
 title: Complex Event Processing (CEP)
 tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
 ---

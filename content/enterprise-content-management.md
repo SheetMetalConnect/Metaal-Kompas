@@ -1,4 +1,3 @@
----
 title: Enterprise Content Management (ECM)
 tags: [industrie, digitalisering, softwaremodules-en-integratie]
 ---

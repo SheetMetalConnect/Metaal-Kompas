@@ -1,4 +1,3 @@
----
 title: Configuratiebeheer
 tags: [industrie, digitalisering, productstructuur-en-documentatie]
 ---

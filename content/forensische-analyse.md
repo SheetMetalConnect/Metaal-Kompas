@@ -1,4 +1,3 @@
----
 title: Forensische analyse
 tags: [industrie, digitalisering, extra-industrie-en-security-topics]
 ---

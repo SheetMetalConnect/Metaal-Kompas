@@ -1,4 +1,3 @@
----
 title: Laboratory Information Management System (LIMS)
 tags: [industrie, digitalisering, softwaremodules-en-integratie]
 ---

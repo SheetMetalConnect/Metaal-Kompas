@@ -1,4 +1,3 @@
----
 title: HTTP/HTTPS in industriële omgevingen
 tags: [industrie, digitalisering, industriële-communicatieprotocollen]
 ---

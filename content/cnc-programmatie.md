@@ -1,4 +1,3 @@
----
 title: CNC‑programmatie
 tags: [industrie, digitalisering, programmatie-en-aansturing-productiemiddelen]
 ---

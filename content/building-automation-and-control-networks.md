@@ -1,4 +1,3 @@
----
 title: Building Automation and Control networks (BACnet)
 tags: [industrie, digitalisering, industriële-communicatieprotocollen]
 ---

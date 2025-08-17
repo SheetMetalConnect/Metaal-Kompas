@@ -1,4 +1,3 @@
----
 title: Unified Namespace (UNS)
 tags: [industrie, digitalisering, softwaredeployment-en-architectuur, architectuur]
 ---

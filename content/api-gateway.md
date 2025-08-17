@@ -1,4 +1,3 @@
----
 title: API‑gateway
 tags: [industrie, digitalisering, softwaredeployment-en-architectuur]
 ---

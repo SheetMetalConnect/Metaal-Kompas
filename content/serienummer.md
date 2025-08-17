@@ -1,4 +1,3 @@
----
 title: Serienummer
 tags: [industrie, digitalisering, traceerbaarheid-en-productidentificatie]
 ---

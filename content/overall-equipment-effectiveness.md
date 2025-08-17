@@ -1,4 +1,3 @@
----
 title: Overall Equipment Effectiveness (OEE)
 tags: [industrie, digitalisering, procesoptimalisatie-en-organisatie]
 ---

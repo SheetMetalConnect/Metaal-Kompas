@@ -1,4 +1,3 @@
----
 title: Warehouse Management System (WMS)
 tags: [industrie, digitalisering, softwaremodules-en-integratie]
 ---

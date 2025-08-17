@@ -1,4 +1,3 @@
----
 title: Cloud manufacturing
 tags: [industrie, digitalisering, innovatie-en-toekomsttrends]
 ---

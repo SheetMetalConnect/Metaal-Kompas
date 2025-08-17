@@ -1,4 +1,3 @@
----
 title: Schema‑registry
 tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
 ---

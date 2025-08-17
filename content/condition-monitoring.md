@@ -1,4 +1,3 @@
----
 title: Condition monitoring
 tags: [industrie, digitalisering, procesoptimalisatie-en-organisatie]
 ---

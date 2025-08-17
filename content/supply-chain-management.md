@@ -1,4 +1,3 @@
----
 title: Supply Chain Management (SCM)
 tags: [industrie, digitalisering, softwaremodules-en-integratie]
 ---

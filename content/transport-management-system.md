@@ -1,4 +1,3 @@
----
 title: Transport Management System (TMS)
 tags: [industrie, digitalisering, softwaremodules-en-integratie]
 ---

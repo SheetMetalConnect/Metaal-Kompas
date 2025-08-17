@@ -1,4 +1,3 @@
----
 title: Robotics as a Service (RaaS)
 tags: [industrie, digitalisering, innovatie-en-toekomsttrends]
 ---

@@ -1,4 +1,3 @@
----
 title: Mass customization
 tags: [industrie, digitalisering, procesoptimalisatie-en-organisatie]
 ---

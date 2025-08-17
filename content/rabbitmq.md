@@ -1,4 +1,3 @@
----
 title: RabbitMQ
 tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
 ---

@@ -1,4 +1,3 @@
----
 title: Master Data Management (MDM)
 tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
 ---

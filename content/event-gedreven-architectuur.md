@@ -1,4 +1,3 @@
----
 title: Event‑gedreven architectuur (Event‑Driven Architecture, EDA)
 tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
 ---

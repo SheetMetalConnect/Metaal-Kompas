@@ -1,4 +1,3 @@
----
 title: Historian‑database (proceshistorian)
 tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
 ---

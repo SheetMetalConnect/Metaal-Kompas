@@ -1,4 +1,3 @@
----
 title: Tijdssynchronisatie (NTP/PTP)
 tags: [industrie, digitalisering, data-collectie-en-industrial-data-platforms]
 ---

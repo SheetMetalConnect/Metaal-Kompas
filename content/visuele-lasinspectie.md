@@ -1,4 +1,3 @@
----
 title: Visuele lasinspectie (VT)
 tags: [industrie, digitalisering, lasnormen-en-certificering]
 ---

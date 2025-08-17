@@ -1,4 +1,3 @@
----
 title: Java Message Service (JMS)
 tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
 ---

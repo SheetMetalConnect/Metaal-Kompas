@@ -1,4 +1,3 @@
----
 title: Event‑logging
 tags: [industrie, digitalisering, data-collectie-en-industrial-data-platforms]
 ---

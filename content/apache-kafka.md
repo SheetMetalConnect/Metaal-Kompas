@@ -1,4 +1,3 @@
----
 title: Apache Kafka
 tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
 ---

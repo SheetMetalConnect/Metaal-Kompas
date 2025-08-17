@@ -1,4 +1,3 @@
----
 title: Message broker
 tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
 ---

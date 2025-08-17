@@ -1,4 +1,3 @@
----
 title: Kubernetes (K8s)
 tags: [industrie, digitalisering, softwaredeployment-en-architectuur]
 ---

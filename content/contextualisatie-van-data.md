@@ -1,4 +1,3 @@
----
 title: Contextualisatie van data
 tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
 ---

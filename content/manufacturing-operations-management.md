@@ -1,4 +1,3 @@
----
 title: Manufacturing Operations Management (MOM)
 tags: [industrie, digitalisering, softwaremodules-en-integratie]
 ---

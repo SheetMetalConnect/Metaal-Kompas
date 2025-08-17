@@ -1,4 +1,3 @@
----
 title: Online Analytical Processing (OLAP)
 tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
 ---

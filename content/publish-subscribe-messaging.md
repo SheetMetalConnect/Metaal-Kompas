@@ -1,4 +1,3 @@
----
 title: Publish‑/Subscribe‑messaging (pub/sub)
 tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
 ---

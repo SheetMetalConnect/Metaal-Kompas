@@ -1,4 +1,3 @@
----
 title: Topic namespace
 tags: [industrie, digitalisering, industriële-communicatieprotocollen, architectuur]
 ---

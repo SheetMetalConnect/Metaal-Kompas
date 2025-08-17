@@ -1,4 +1,3 @@
----
 title: Containertechnologie
 tags: [industrie, digitalisering, softwaredeployment-en-architectuur]
 ---

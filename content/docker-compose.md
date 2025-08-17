@@ -1,4 +1,3 @@
----
 title: Docker Compose
 tags: [industrie, digitalisering, softwaredeployment-en-architectuur]
 ---

@@ -1,4 +1,3 @@
----
 title: Cloud‑native applicatie
 tags: [industrie, digitalisering, softwaredeployment-en-architectuur]
 ---

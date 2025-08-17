@@ -1,4 +1,3 @@
----
 title: Narrowband‑IoT (NB‑IoT)
 tags: [industrie, digitalisering, industriële-communicatieprotocollen]
 ---

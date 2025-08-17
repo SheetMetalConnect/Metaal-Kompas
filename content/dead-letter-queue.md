@@ -1,4 +1,3 @@
----
 title: Dead‑letter queue (DLQ)
 tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
 ---

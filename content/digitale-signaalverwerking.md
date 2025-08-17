@@ -1,4 +1,3 @@
----
 title: Digitale signaalverwerking (DSP)
 tags: [industrie, digitalisering, data-collectie-en-industrial-data-platforms]
 ---

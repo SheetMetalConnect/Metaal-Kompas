@@ -1,4 +1,3 @@
----
 title: KNX‑protocol
 tags: [industrie, digitalisering, industriële-communicatieprotocollen]
 ---

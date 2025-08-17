@@ -1,4 +1,3 @@
----
 title: Holografische interfaces
 tags: [industrie, digitalisering, innovatie-en-toekomsttrends]
 ---

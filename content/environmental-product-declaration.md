@@ -1,4 +1,3 @@
----
 title: Environmental Product Declaration (EPD)
 tags: [industrie, digitalisering, duurzaamheid-en-compliance]
 ---

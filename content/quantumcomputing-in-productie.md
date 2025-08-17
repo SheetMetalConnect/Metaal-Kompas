@@ -1,4 +1,3 @@
----
 title: Quantumcomputing in productie
 tags: [industrie, digitalisering, innovatie-en-toekomsttrends]
 ---

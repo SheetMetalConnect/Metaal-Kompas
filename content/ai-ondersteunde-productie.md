@@ -1,4 +1,3 @@
----
 title: AI‑ondersteunde productie (AI‑assisted manufacturing)
 tags: [industrie, digitalisering, innovatie-en-toekomsttrends]
 ---

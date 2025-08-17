@@ -1,4 +1,3 @@
----
 title: Six Sigma
 tags: [industrie, digitalisering, kwaliteitsmanagement-en-software]
 ---

@@ -1,4 +1,3 @@
----
 title: RFID‑tagging
 tags: [industrie, digitalisering, traceerbaarheid-en-productidentificatie]
 ---

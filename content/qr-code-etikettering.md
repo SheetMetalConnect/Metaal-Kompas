@@ -1,4 +1,3 @@
----
 title: QR‑code‑etikettering
 tags: [industrie, digitalisering, traceerbaarheid-en-productidentificatie]
 ---

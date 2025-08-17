@@ -1,4 +1,3 @@
----
 title: 8D‑probleemoplossing
 tags: [industrie, digitalisering, kwaliteitsmanagement-en-software]
 ---

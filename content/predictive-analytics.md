@@ -1,4 +1,3 @@
----
 title: Predictive analytics (voorspellende analyse)
 tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
 ---

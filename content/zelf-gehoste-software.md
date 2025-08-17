@@ -1,4 +1,3 @@
----
 title: Zelf gehoste software (self‑hosted)
 tags: [industrie, digitalisering, softwaremodules-en-integratie]
 ---

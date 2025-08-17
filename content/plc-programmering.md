@@ -1,4 +1,3 @@
----
 title: PLC‑programmering
 tags: [industrie, digitalisering, programmatie-en-aansturing-productiemiddelen]
 ---

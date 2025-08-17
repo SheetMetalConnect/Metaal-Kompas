@@ -1,4 +1,3 @@
----
 title: Product Lifecycle Management (PLM)
 tags: [industrie, digitalisering, softwaremodules-en-integratie]
 ---

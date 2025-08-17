@@ -1,4 +1,3 @@
----
 title: Continuous improvement (continu verbeteren)
 tags: [industrie, digitalisering, procesoptimalisatie-en-organisatie]
 ---

@@ -1,4 +1,3 @@
----
 title: Structured Text (ST)
 tags: [industrie, digitalisering, programmatie-en-aansturing-productiemiddelen]
 ---

@@ -1,4 +1,3 @@
----
 title: Message Queuing Telemetry Transport (MQTT)
 tags: [industrie, digitalisering, industriële-communicatieprotocollen]
 ---

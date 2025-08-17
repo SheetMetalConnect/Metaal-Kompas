@@ -1,4 +1,3 @@
----
 title: Robot‑padplanning (path planning)
 tags: [industrie, digitalisering, programmatie-en-aansturing-productiemiddelen]
 ---

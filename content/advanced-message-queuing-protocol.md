@@ -1,4 +1,3 @@
----
 title: Advanced Message Queuing Protocol (AMQP)
 tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
 ---

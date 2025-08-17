@@ -1,4 +1,3 @@
----
 title: United Manufacturing Hub (UMH)
 tags: [industrie, digitalisering, data-collectie-en-industrial-data-platforms]
 ---

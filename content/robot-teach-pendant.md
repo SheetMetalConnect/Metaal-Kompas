@@ -1,4 +1,3 @@
----
 title: Robot‑teach pendant
 tags: [industrie, digitalisering, programmatie-en-aansturing-productiemiddelen]
 ---

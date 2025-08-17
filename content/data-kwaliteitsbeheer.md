@@ -1,4 +1,3 @@
----
 title: Data‑kwaliteitsbeheer
 tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
 ---

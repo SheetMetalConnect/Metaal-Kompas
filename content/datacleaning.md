@@ -1,4 +1,3 @@
----
 title: Datacleaning
 tags: [industrie, digitalisering, data-collectie-en-industrial-data-platforms]
 ---

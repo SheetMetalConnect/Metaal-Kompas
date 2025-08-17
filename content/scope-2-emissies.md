@@ -1,4 +1,3 @@
----
 title: Scope 2‑emissies
 tags: [industrie, digitalisering, duurzaamheid-en-compliance]
 ---

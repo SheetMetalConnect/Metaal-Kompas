@@ -1,4 +1,3 @@
----
 title: Extract‑Transform‑Load (ETL)
 tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
 ---

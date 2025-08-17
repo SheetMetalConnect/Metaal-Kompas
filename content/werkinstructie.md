@@ -1,4 +1,3 @@
----
 title: Werkinstructie
 tags: [industrie, digitalisering, productstructuur-en-documentatie]
 ---

@@ -1,4 +1,3 @@
----
 title: Prescriptive analytics (voorschrijvende analyse)
 tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
 ---

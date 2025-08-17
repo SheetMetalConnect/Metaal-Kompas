@@ -1,4 +1,3 @@
----
 title: Data‑analyse
 tags: [industrie, digitalisering, digitale-transformatie-en-industrie-40-50]
 ---

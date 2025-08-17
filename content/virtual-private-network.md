@@ -1,4 +1,3 @@
----
 title: Virtual Private Network (VPN)
 tags: [industrie, digitalisering, extra-industrie-en-security-topics]
 ---

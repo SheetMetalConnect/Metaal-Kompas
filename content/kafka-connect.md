@@ -1,4 +1,3 @@
----
 title: Kafka Connect
 tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
 ---

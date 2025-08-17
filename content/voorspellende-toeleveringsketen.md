@@ -1,4 +1,3 @@
----
 title: Voorspellende toeleveringsketen (predictive supply chain)
 tags: [industrie, digitalisering, innovatie-en-toekomsttrends]
 ---

@@ -1,4 +1,3 @@
----
 title: Non‑Conformance Report (NCR)
 tags: [industrie, digitalisering, kwaliteitsmanagement-en-software]
 ---

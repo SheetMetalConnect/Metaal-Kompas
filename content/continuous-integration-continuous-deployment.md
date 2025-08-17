@@ -1,4 +1,3 @@
----
 title: Continuous Integration / Continuous Deployment (CI/CD)
 tags: [industrie, digitalisering, softwaremodules-en-integratie]
 ---

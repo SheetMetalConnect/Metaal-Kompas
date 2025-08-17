@@ -1,4 +1,3 @@
----
 title: Modbus
 tags: [industrie, digitalisering, industriële-communicatieprotocollen]
 ---

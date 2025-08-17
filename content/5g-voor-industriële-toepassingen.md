@@ -1,4 +1,3 @@
----
 title: 5G voor industriële toepassingen
 tags: [industrie, digitalisering, industriële-communicatieprotocollen]
 ---

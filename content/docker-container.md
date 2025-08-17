@@ -1,4 +1,3 @@
----
 title: Docker‑container
 tags: [industrie, digitalisering, softwaredeployment-en-architectuur]
 ---

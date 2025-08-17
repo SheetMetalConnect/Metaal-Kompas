@@ -1,4 +1,3 @@
----
 title: Software‑levenscyclusbeheer
 tags: [industrie, digitalisering, extra-industrie-en-security-topics]
 ---

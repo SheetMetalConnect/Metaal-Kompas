@@ -1,4 +1,3 @@
----
 title: Spanningsarm gloeien
 tags: [industrie, digitalisering, lasnormen-en-certificering]
 ---

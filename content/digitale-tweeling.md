@@ -1,4 +1,3 @@
----
 title: Digitale tweeling (digital twin)
 tags: [industrie, digitalisering, digitale-transformatie-en-industrie-40-50]
 ---

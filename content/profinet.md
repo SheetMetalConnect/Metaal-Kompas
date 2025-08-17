@@ -1,4 +1,3 @@
----
 title: Profinet
 tags: [industrie, digitalisering, industriële-communicatieprotocollen]
 ---

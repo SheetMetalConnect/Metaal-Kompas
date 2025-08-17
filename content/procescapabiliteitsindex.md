@@ -1,4 +1,3 @@
----
 title: Procescapabiliteitsindex (Cp/Cpk)
 tags: [industrie, digitalisering, kwaliteitsmanagement-en-software]
 ---

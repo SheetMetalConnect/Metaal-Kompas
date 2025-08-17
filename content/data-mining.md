@@ -1,4 +1,3 @@
----
 title: Data‑mining
 tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
 ---

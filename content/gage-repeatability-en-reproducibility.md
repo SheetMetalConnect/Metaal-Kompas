@@ -1,4 +1,3 @@
----
 title: Gage Repeatability & Reproducibility (Gage R&R)
 tags: [industrie, digitalisering, kwaliteitsmanagement-en-software]
 ---

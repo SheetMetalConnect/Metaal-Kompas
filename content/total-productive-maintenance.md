@@ -1,4 +1,3 @@
----
 title: Total Productive Maintenance (TPM)
 tags: [industrie, digitalisering, procesoptimalisatie-en-organisatie]
 ---

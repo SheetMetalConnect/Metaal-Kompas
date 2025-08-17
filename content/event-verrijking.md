@@ -1,4 +1,3 @@
----
 title: Event‑verrijking (event enrichment)
 tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
 ---

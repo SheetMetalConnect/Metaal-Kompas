@@ -1,4 +1,3 @@
----
 title: Data democratisering
 tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
 ---

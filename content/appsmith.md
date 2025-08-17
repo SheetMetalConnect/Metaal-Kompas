@@ -1,4 +1,3 @@
----
 title: Appsmith
 tags: [industrie, digitalisering, softwaremodules-en-integratie]
 ---

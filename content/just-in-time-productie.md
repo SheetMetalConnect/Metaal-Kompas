@@ -1,4 +1,3 @@
----
 title: Just‑in‑time productie (JIT)
 tags: [industrie, digitalisering, procesoptimalisatie-en-organisatie]
 ---

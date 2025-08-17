@@ -1,4 +1,3 @@
----
 title: Wegwijzer digitale transformatie
 tags: [wegwijzer, transformatie, gids]
 ---

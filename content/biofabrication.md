@@ -1,4 +1,3 @@
----
 title: Biofabrication (biofabricage)
 tags: [industrie, digitalisering, innovatie-en-toekomsttrends]
 ---

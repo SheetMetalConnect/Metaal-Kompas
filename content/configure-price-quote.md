@@ -1,4 +1,3 @@
----
 title: Configure‑Price‑Quote (CPQ)
 tags: [industrie, digitalisering, softwaremodules-en-integratie]
 ---

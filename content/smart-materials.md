@@ -1,4 +1,3 @@
----
 title: Smart materials (slimme materialen)
 tags: [industrie, digitalisering, innovatie-en-toekomsttrends]
 ---

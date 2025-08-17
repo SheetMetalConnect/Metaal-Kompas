@@ -1,4 +1,3 @@
----
 title: Root Cause Analysis (RCA)
 tags: [industrie, digitalisering, kwaliteitsmanagement-en-software]
 ---

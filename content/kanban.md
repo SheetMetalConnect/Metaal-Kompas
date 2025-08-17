@@ -1,4 +1,3 @@
----
 title: Kanban
 tags: [industrie, digitalisering, procesoptimalisatie-en-organisatie]
 ---

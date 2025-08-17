@@ -1,4 +1,3 @@
----
 title: Computerized Maintenance Management System (CMMS)
 tags: [industrie, digitalisering, softwaremodules-en-integratie]
 ---

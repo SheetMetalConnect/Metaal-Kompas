@@ -1,4 +1,3 @@
----
 title: NoSQL‑databases
 tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
 ---

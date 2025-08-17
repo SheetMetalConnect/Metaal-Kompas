@@ -1,4 +1,3 @@
----
 title: Dataserialisatie (Avro, Protocol Buffers/Protobuf)
 tags: [industrie, digitalisering, event-streaming-messaging-en-integratie]
 ---

@@ -1,4 +1,3 @@
----
 title: Lasmetallurgie
 tags: [industrie, digitalisering, lasnormen-en-certificering]
 ---

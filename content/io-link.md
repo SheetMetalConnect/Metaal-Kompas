@@ -1,4 +1,3 @@
----
 title: IO‑Link
 tags: [industrie, digitalisering, industriële-communicatieprotocollen]
 ---

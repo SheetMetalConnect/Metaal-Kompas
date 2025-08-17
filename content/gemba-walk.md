@@ -1,4 +1,3 @@
----
 title: Gemba walk
 tags: [industrie, digitalisering, procesoptimalisatie-en-organisatie]
 ---

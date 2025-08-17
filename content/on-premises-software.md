@@ -1,4 +1,3 @@
----
 title: On‑premises software
 tags: [industrie, digitalisering, softwaredeployment-en-architectuur]
 ---

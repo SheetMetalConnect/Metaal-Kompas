@@ -1,4 +1,3 @@
----
 title: Wegpunt‑programmering (waypoints)
 tags: [industrie, digitalisering, programmatie-en-aansturing-productiemiddelen]
 ---

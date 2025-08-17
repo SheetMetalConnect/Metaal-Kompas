@@ -1,4 +1,3 @@
----
 title: Digitaal productpaspoort (DPP)
 tags: [industrie, digitalisering, duurzaamheid-en-compliance]
 ---

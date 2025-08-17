@@ -1,4 +1,3 @@
----
 title: Extract‑Load‑Transform (ELT)
 tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
 ---

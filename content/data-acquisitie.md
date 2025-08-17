@@ -1,4 +1,3 @@
----
 title: Data‑acquisitie (DAQ)
 tags: [industrie, digitalisering, data-collectie-en-industrial-data-platforms]
 ---

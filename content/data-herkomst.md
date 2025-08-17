@@ -1,4 +1,3 @@
----
 title: Data‑herkomst (data lineage)
 tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
 ---

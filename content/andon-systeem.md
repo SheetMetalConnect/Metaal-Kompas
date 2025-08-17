@@ -1,4 +1,3 @@
----
 title: Andon‑systeem
 tags: [industrie, digitalisering, procesoptimalisatie-en-organisatie]
 ---

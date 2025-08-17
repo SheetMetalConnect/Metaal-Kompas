@@ -1,4 +1,3 @@
----
 title: Visueel management (visual management)
 tags: [industrie, digitalisering, procesoptimalisatie-en-organisatie]
 ---

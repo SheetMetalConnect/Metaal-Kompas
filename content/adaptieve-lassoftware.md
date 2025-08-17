@@ -1,4 +1,3 @@
----
 title: Adaptieve lassoftware (adaptive welding)
 tags: [industrie, digitalisering, programmatie-en-aansturing-productiemiddelen]
 ---

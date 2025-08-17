@@ -1,4 +1,3 @@
----
 title: Bottleneck‑analyse
 tags: [industrie, digitalisering, procesoptimalisatie-en-organisatie]
 ---

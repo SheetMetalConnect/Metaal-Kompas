@@ -1,4 +1,3 @@
----
 title: Technische specificatie
 tags: [industrie, digitalisering, productstructuur-en-documentatie]
 ---

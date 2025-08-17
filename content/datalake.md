@@ -1,4 +1,3 @@
----
 title: Datalake
 tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
 ---

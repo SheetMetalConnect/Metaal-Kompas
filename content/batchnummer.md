@@ -1,4 +1,3 @@
----
 title: Batchnummer
 tags: [industrie, digitalisering, traceerbaarheid-en-productidentificatie]
 ---

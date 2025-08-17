@@ -1,4 +1,3 @@
----
 title: Productconfigurator
 tags: [industrie, digitalisering, productstructuur-en-documentatie]
 ---

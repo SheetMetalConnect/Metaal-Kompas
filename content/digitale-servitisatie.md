@@ -1,4 +1,3 @@
----
 title: Digitale servitisatie (digital servitization)
 tags: [industrie, digitalisering, innovatie-en-toekomsttrends]
 ---

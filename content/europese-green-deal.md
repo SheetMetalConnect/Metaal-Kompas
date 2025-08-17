@@ -1,4 +1,3 @@
----
 title: Europese Green Deal
 tags: [industrie, digitalisering, duurzaamheid-en-compliance]
 ---

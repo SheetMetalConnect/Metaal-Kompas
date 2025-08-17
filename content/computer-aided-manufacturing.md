@@ -1,4 +1,3 @@
----
 title: Computer‑Aided Manufacturing (CAM)
 tags: [industrie, digitalisering, softwaremodules-en-integratie]
 ---

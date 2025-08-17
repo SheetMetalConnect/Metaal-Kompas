@@ -1,4 +1,3 @@
----
 title: Electronic Data Interchange (EDI)
 tags: [industrie, digitalisering, softwaremodules-en-integratie]
 ---

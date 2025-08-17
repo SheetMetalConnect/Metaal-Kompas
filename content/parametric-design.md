@@ -1,4 +1,3 @@
----
 title: Parametric design (parametrisch ontwerp)
 tags: [industrie, digitalisering, innovatie-en-toekomsttrends]
 ---

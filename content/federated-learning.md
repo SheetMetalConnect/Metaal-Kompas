@@ -1,4 +1,3 @@
----
 title: Federated learning (gefedereerd leren)
 tags: [industrie, digitalisering, innovatie-en-toekomsttrends]
 ---

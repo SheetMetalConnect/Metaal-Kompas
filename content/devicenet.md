@@ -1,4 +1,3 @@
----
 title: DeviceNet
 tags: [industrie, digitalisering, industriële-communicatieprotocollen]
 ---

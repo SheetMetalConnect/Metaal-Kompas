@@ -1,4 +1,3 @@
----
 title: Roboticasimulatiesoftware
 tags: [industrie, digitalisering, programmatie-en-aansturing-productiemiddelen]
 ---

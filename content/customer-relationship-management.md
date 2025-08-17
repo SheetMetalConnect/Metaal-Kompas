@@ -1,4 +1,3 @@
----
 title: Customer Relationship Management (CRM)
 tags: [industrie, digitalisering, softwaremodules-en-integratie]
 ---

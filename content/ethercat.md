@@ -1,4 +1,3 @@
----
 title: EtherCAT
 tags: [industrie, digitalisering, industriële-communicatieprotocollen]
 ---

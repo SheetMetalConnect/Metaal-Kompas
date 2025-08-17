@@ -1,4 +1,3 @@
----
 title: Engineering BOM (eBOM)
 tags: [industrie, digitalisering, productstructuur-en-documentatie]
 ---

@@ -1,4 +1,3 @@
----
 title: Platform as a Service in de industrie (PaaS)
 tags: [industrie, digitalisering, innovatie-en-toekomsttrends]
 ---

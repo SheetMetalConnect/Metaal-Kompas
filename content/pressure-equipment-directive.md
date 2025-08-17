@@ -1,4 +1,3 @@
----
 title: Pressure Equipment Directive (PED)
 tags: [industrie, digitalisering, lasnormen-en-certificering]
 ---

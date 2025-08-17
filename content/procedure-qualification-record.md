@@ -1,4 +1,3 @@
----
 title: Procedure Qualification Record (PQR)
 tags: [industrie, digitalisering, lasnormen-en-certificering]
 ---

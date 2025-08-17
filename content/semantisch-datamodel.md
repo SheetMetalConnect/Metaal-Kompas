@@ -1,4 +1,3 @@
----
 title: Semantisch datamodel
 tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
 ---

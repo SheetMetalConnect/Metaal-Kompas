@@ -1,4 +1,3 @@
----
 title: Container‑registry
 tags: [industrie, digitalisering, softwaredeployment-en-architectuur]
 ---

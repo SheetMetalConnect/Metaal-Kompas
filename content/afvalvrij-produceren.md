@@ -1,4 +1,3 @@
----
 title: Afvalvrij produceren (zero‑waste)
 tags: [industrie, digitalisering, duurzaamheid-en-compliance]
 ---

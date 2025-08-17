@@ -1,4 +1,3 @@
----
 title: Self‑healing materials (zelfherstellende materialen)
 tags: [industrie, digitalisering, innovatie-en-toekomsttrends]
 ---

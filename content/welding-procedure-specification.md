@@ -1,4 +1,3 @@
----
 title: Welding Procedure Specification (WPS)
 tags: [industrie, digitalisering, lasnormen-en-certificering]
 ---

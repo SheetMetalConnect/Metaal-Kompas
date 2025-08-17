@@ -1,4 +1,3 @@
----
 title: Datawarehouse
 tags: [industrie, digitalisering, data-analyse-en-business-intelligence]
 ---

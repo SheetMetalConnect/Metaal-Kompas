@@ -1,4 +1,3 @@
----
 title: Stuklijstbeheer
 tags: [industrie, digitalisering, productstructuur-en-documentatie]
 ---

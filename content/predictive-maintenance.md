@@ -1,4 +1,3 @@
----
 title: Predictive maintenance (voorspellend onderhoud)
 tags: [industrie, digitalisering, procesoptimalisatie-en-organisatie]
 ---

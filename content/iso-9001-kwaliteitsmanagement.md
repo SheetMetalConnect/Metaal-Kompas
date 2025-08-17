@@ -1,4 +1,3 @@
----
 title: ISO 9001‑kwaliteitsmanagement
 tags: [industrie, digitalisering, kwaliteitsmanagement-en-software]
 ---

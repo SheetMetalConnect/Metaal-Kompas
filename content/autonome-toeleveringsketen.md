@@ -1,4 +1,3 @@
----
 title: Autonome toeleveringsketen
 tags: [industrie, digitalisering, innovatie-en-toekomsttrends]
 ---

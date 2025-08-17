@@ -1,4 +1,3 @@
----
 title: Dreigingsinformatie (threat intelligence)
 tags: [industrie, digitalisering, extra-industrie-en-security-topics]
 ---

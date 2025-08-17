@@ -1,4 +1,3 @@
----
 title: Condition‑data capture
 tags: [industrie, digitalisering, data-collectie-en-industrial-data-platforms]
 ---
