@@ -9,7 +9,7 @@ title: Data‑mining
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Data-mining** ontdekt verborgen patronen, trends en relaties in grote datasets door statistische analyse, machine learning en patroonherkenning. Het transformeert ruwe data in actionable business intelligence en voorspellende inzichten.
 
 ## Kenmerken
 

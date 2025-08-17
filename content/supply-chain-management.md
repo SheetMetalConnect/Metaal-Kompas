@@ -9,7 +9,7 @@ title: Supply Chain Management (SCM)
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Supply Chain Management (SCM)** beheert en optimaliseert de volledige toeleveringsketen van grondstoffenbronnen tot eindklant. Het coördineert planning, inkoop, productie, logistiek en distributie om kosten te verlagen en serviceniveaus te verhogen.
 
 ## Kenmerken
 

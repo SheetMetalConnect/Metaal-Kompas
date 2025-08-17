@@ -9,7 +9,7 @@ title: RabbitMQ
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**RabbitMQ** is een open-source message broker die AMQP implementeert voor betrouwbare asynchrone communicatie tussen applicaties. Het biedt geavanceerde routing, clustering en high availability voor enterprise messaging requirements.
 
 ## Kenmerken
 

@@ -9,15 +9,15 @@ title: AI‑ondersteunde productie (AI‑assisted manufacturing)
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**AI-ondersteunde productie** integreert kunstmatige intelligentie in productieprocessen om kwaliteit, efficiëntie en flexibiliteit te verbeteren. AI-algoritmes analyseren real-time data van machines en sensoren om productiefouten te voorspellen, processen te optimaliseren en autonome beslissingen te nemen.
 
 ## Kenmerken
 
-[PLACEHOLDER - Kenmerken worden later toegevoegd]
+Real-time data-analyse voor procesoptimalisatie, voorspellend onderhoud om onverwachte stilstanden te voorkomen, adaptieve kwaliteitscontrole met computer vision, en zelflerend vermogen om productieprocessen continu te verbeteren zonder menselijke interventie.
 
 ## Toepassing
 
-[PLACEHOLDER - Toepassingen worden later toegevoegd]
+Automatische defectdetectie in productielijnen, intelligente planning en scheduling van productieorders, voorspellende kwaliteitscontrole op basis van procesparameters, en adaptive manufacturing voor mass customization.
 
 ## Gerelateerde begrippen
 

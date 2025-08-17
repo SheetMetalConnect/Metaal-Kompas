@@ -9,7 +9,7 @@ title: IO‑Link
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**IO-Link** is een open industrieel communicatieprotocol dat intelligente sensoren en actuatoren verbindt met automatiseringssystemen via een simple point-to-point verbinding. Het enables parametrisatie, diagnostiek en data-uitwisseling met standaard onafgeschermde kabels.
 
 ## Kenmerken
 

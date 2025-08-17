@@ -9,7 +9,7 @@ title: Warehouse Management System (WMS)
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Warehouse Management System (WMS)** is software die alle magazijnactiviteiten beheert en optimaliseert, van ontvangst en opslag tot picking en verzending. Het biedt real-time inventaristracking, routeoptimalisatie en integratie met andere bedrijfssystemen.
 
 ## Kenmerken
 

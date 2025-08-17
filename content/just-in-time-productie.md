@@ -9,7 +9,7 @@ title: Just‑in‑time productie (JIT)
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Just-in-time productie (JIT)** is een productiefilosofie die materialen en onderdelen precies levert wanneer ze nodig zijn in het productieproces. Het minimaliseert voorraad, reduceert verspilling en verbetert cashflow door pull-gebaseerde planning.
 
 ## Kenmerken
 

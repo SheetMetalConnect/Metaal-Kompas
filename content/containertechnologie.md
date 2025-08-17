@@ -9,7 +9,7 @@ title: Containertechnologie
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Containertechnologie** verpakt applicaties met alle benodigde dependencies in draagbare, lichtgewicht containers die consistent draaien op verschillende omgevingen. Het enables snelle deployment, schaalbaarheid en resource-efficiëntie voor moderne applicaties.
 
 ## Kenmerken
 

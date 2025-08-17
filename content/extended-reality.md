@@ -9,7 +9,7 @@ title: Extended Reality (XR)
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Extended Reality (XR)** is een overkoepelende term voor alle immersieve technologieën die de grens tussen fysieke en digitale werelden vervagen, waaronder Virtual Reality (VR), Augmented Reality (AR) en Mixed Reality (MR).
 
 ## Kenmerken
 
@@ -28,4 +28,4 @@ title: Extended Reality (XR)
 [PLACEHOLDER - Bronnen worden later toegevoegd]
 
 ---
-← Terug naar [[kaarten/digitale-transformatie-en-industrie-40-50|Digitale transformatie & Industrie 4.0/5.0 kaart]]
+← Terug naar [[digitale-transformatie-en-industrie-40|Digitale transformatie & Industrie 4.0/5.0 kaart]]

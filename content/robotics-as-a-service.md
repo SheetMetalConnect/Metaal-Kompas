@@ -9,7 +9,7 @@ title: Robotics as a Service (RaaS)
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Robotics as a Service (RaaS)** biedt robotica-oplossingen via een abonnementsmodel waarbij bedrijven robots kunnen gebruiken zonder grote investeringen in hardware. Het pakket omvat robots, software, onderhoud en updates tegen een maandelijkse vergoeding.
 
 ## Kenmerken
 

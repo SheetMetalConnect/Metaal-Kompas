@@ -334,7 +334,7 @@ Digital Maturity Progression
 **Strategie & Framework:**
 - [[digitale-strategie|Digitale strategie]] - Strategic foundation voor DT
 - [[digitale-transformatie-volwassenheidsanalyse|DTMA]] - Maturity assessment
-- [[industrie-40|Industrie 4.0]] - Technologische enabler
+- [[industrie-4.0|Industrie 4.0]] - Technologische enabler
 - [[unified-namespace|Unified Namespace (UNS)]] - Architecturale backbone
 
 **Implementatie & Tools:**
@@ -364,4 +364,4 @@ Digital Maturity Progression
 - Digital Transformation Maturity Assessment frameworks
 
 ---
-← Terug naar [[kaarten/digitale-transformatie-en-industrie-40-50|Digitale transformatie & Industrie 4.0/5.0 kaart]]
+← Terug naar [[digitale-transformatie-en-industrie-40|Digitale transformatie & Industrie 4.0/5.0 kaart]]

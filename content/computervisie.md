@@ -9,7 +9,7 @@ title: Computervisie (computer vision)
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Computervisie (computer vision)** stelt computers in staat om digitale beelden en video's te interpreteren en te begrijpen. Het gebruikt AI-algoritmes om objecten te detecteren, kenmerken te extraheren en visuele data te analyseren voor toepassingen zoals kwaliteitscontrole en defectdetectie.
 
 ## Kenmerken
 
@@ -28,4 +28,4 @@ title: Computervisie (computer vision)
 [PLACEHOLDER - Bronnen worden later toegevoegd]
 
 ---
-← Terug naar [[kaarten/digitale-transformatie-en-industrie-40-50|Digitale transformatie & Industrie 4.0/5.0 kaart]]
+← Terug naar [[digitale-transformatie-en-industrie-40|Digitale transformatie & Industrie 4.0/5.0 kaart]]

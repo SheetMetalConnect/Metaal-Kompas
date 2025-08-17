@@ -9,7 +9,7 @@ title: Advanced Planning and Scheduling (APS)
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Advanced Planning and Scheduling (APS)** gebruikt geavanceerde algoritmes en optimalisatietechnieken voor real-time productie planning en scheduling. Het balanceert capaciteit, vraag en constraints om optimale resource-gebruik en delivery performance te realiseren.
 
 ## Kenmerken
 

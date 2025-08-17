@@ -9,7 +9,7 @@ title: Autonome productie
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Autonome productie** omvat fabricagesystemen die zelfstandig kunnen opereren met minimale menselijke interventie. Ze gebruiken AI, machine learning en robotica om productieprocessen te monitoren, beslissingen te nemen en zich aan te passen aan veranderende omstandigheden.
 
 ## Kenmerken
 
@@ -28,4 +28,4 @@ title: Autonome productie
 [PLACEHOLDER - Bronnen worden later toegevoegd]
 
 ---
-← Terug naar [[kaarten/digitale-transformatie-en-industrie-40-50|Digitale transformatie & Industrie 4.0/5.0 kaart]]
+← Terug naar [[digitale-transformatie-en-industrie-40|Digitale transformatie & Industrie 4.0/5.0 kaart]]

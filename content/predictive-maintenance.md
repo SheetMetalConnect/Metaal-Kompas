@@ -9,7 +9,7 @@ title: Predictive maintenance (voorspellend onderhoud)
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Predictive maintenance** voorspelt wanneer apparatuur onderhoud nodig heeft door continue monitoring van conditie-indicatoren zoals trillingen, temperatuur en geluid. Dit vermindert ongeplande stilstanden en optimaliseert onderhoudskosten vergeleken met preventief of reactief onderhoud.
 
 ## Kenmerken
 

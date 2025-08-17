@@ -71,7 +71,7 @@ Nederlandse bedrijven kunnen learnings van hun 1.0 ervaring toepassen op moderne
 
 **Historische Context:**
 - [[industriele-revoluties|Industriële Revoluties]] - Overzicht van alle revoluties
-- [[industrie-20|Industrie 2.0]] - Opvolgende electriciteitsrevolutie
+- [[industrie-2.0|Industrie 2.0]] - Opvolgende electriciteitsrevolutie
 - [[steam-power|Stoomkracht]] - Kern technologie van deze revolutie
 - [[factory-system|Fabrieksysteem]] - Nieuwe organisatievorm
 

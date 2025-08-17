@@ -9,7 +9,7 @@ title: Mass customization
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Mass customization** combineert de efficiëntie van massaproductie met de personalisatie van maatwerk door flexibele productieprocessen en modulaire ontwerpen. Het enables bedrijven om klantspecifieke producten te leveren tegen bijna massa-productieprijzen.
 
 ## Kenmerken
 

@@ -47,7 +47,7 @@ Deze kaart biedt een overzicht van alle begrippen binnen **data, analyse & busin
 - [[kaarten/industriële-communicatieprotocollen|Communicatieprotocollen]] - UNS data protocols
 
 **Digital Transformation:**
-- [[kaarten/digitale-transformatie-en-industrie-40-50|Digitale transformatie]] - UNS-enabled analytics
+- [[digitale-transformatie-en-industrie-40|Digitale transformatie]] - UNS-enabled analytics
 
 ---
 ← Terug naar [[kaarten/index|Overzicht van alle kaarten]] | [[index|Kompas hoofdpagina]]

@@ -9,7 +9,7 @@ title: API‑gateway
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**API Gateway** is een servercomponent die als centrale toegangspoort fungeert voor alle API-verzoeken in een microservices-architectuur. Het beheert authenticatie, autorisatie, load balancing, rate limiting en monitornig van API-verkeer tussen clients en backend services.
 
 ## Kenmerken
 

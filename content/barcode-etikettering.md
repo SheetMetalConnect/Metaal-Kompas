@@ -9,7 +9,7 @@ title: Barcode‑etikettering
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Barcode-etikettering** gebruikt machine-leesbare zwart-wit strepen of 2D-codes voor automatische identificatie en tracking van producten, onderdelen en assets. Het enables snelle data-capture, voorraadbeheersing en traceerbaarheid door productieprocessen.
 
 ## Kenmerken
 

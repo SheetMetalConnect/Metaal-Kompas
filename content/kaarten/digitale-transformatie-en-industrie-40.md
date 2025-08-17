@@ -7,15 +7,16 @@ tags:
 
 title: Digitale transformatie & Industrie 4.0/5.0
 ---
-Deze kaart biedt een overzicht van alle begrippen binnen **digitale transformatie & industrie 4.0/5.0**.
+Deze kaart biedt een overzicht van alle begrippen binnen **digitale transformatie & industrie 4.0
+
+Vergeet niet dat we ook nu al industrie 5.0 hebben: - [[industrie-5.0|Industrie 5.0]]
 
 ## Begrippen
 
-**Foundational Concepts:**
+**De basis:**
 - [[digitale-transformatie|Digitale transformatie]]
 - [[smart-industry|Smart Industry]]
-- [[industrie-40|Industrie 4.0]]
-- [[industrie-50|Industrie 5.0]]
+- [[industrie-4.0|Industrie 4.0]]
 - [[robotisering|Robotisering]]
 - [[collaborative-robots|Collaborative robots (cobots)]]
 - [[autonome-mobiele-robots|Autonome mobiele robots (AMR)]]
@@ -29,7 +30,7 @@ Deze kaart biedt een overzicht van alle begrippen binnen **digitale transformati
 - [[edge-computing|Edge computing]]
 - [[big-data|Big data]]
 - [[data-analyse|Data‑analyse]]
-- [[digitale-tweeling|Digitale tweeling (digital twin)]]
+- [[virtual-factory-digital-twin-digitale-tweeling|Digitale tweeling (digital twin)]]
 - [[application-programming-interface|Application Programming Interface (API)]]
 
 **AI & Advanced Technologies:**

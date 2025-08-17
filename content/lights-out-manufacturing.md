@@ -9,7 +9,7 @@ title: Lights‑out manufacturing
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Lights-out manufacturing** refereert aan volledig geautomatiseerde productie die 24/7 kan opereren zonder menselijke aanwezigheid. Het systeem is zo autonoom dat letterlijk de lichten uit kunnen omdat er geen operators aanwezig hoeven te zijn.
 
 ## Kenmerken
 
@@ -28,4 +28,4 @@ title: Lights‑out manufacturing
 [PLACEHOLDER - Bronnen worden later toegevoegd]
 
 ---
-← Terug naar [[kaarten/digitale-transformatie-en-industrie-40-50|Digitale transformatie & Industrie 4.0/5.0 kaart]]
+← Terug naar [[digitale-transformatie-en-industrie-40|Digitale transformatie & Industrie 4.0/5.0 kaart]]

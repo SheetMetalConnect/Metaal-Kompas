@@ -9,7 +9,7 @@ title: Kaizen
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Kaizen** is een Japanse filosofie van continue verbetering door kleine, incrementele veranderingen waarbij alle medewerkers betrokken zijn. Het richt zich op het elimineren van verspilling en het verhogen van efficiëntie door dagelijkse verbeteracties.
 
 ## Kenmerken
 

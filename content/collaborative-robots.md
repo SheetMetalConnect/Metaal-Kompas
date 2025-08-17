@@ -9,7 +9,7 @@ title: Collaborative robots (cobots)
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Collaborative robots (cobots)** zijn industriële robots ontworpen om veilig samen te werken met menselijke operators in gedeelde werkruimtes. Ze hebben ingebouwde veiligheidssensoren, beperkte kracht en kunnen zonder fysieke barrières opereren naast mensen.
 
 ## Kenmerken
 
@@ -28,4 +28,4 @@ title: Collaborative robots (cobots)
 [PLACEHOLDER - Bronnen worden later toegevoegd]
 
 ---
-← Terug naar [[kaarten/digitale-transformatie-en-industrie-40-50|Digitale transformatie & Industrie 4.0/5.0 kaart]]
+← Terug naar [[digitale-transformatie-en-industrie-40|Digitale transformatie & Industrie 4.0/5.0 kaart]]

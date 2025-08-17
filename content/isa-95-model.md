@@ -142,7 +142,7 @@ VanEnkhuizen_BV/
 ## Moderne Implementaties
 
 ### Industry 4.0 Integration
-- **[[digitale-tweeling|Digital Twin]]** mapping naar ISA-95 hiërarchie
+- **[[virtual-factory-digital-twin-digitale-tweeling|Digital Twin]]** mapping naar ISA-95 hiërarchie
 - **[[internet-of-things|IoT]]** devices gestructureerd volgens equipment model
 - **Analytics** georganiseerd per level en capability
 

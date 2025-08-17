@@ -9,7 +9,7 @@ title: ActiveMQ
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**ActiveMQ** is een open-source message broker geschreven in Java die betrouwbare asynchrone communicatie tussen applicaties faciliteert. Het ondersteunt meerdere messaging patterns zoals point-to-point en publish-subscribe met JMS-compliance.
 
 ## Kenmerken
 

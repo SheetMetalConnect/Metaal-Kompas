@@ -9,7 +9,7 @@ title: Business Intelligence (BI)
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Business Intelligence (BI)** transformeert ruwe bedrijfsdata in betekenisvolle informatie en actionable insights voor strategische besluitvorming. Het combineert data mining, analytics, reporting en visualisatie om trends, patronen en business performance zichtbaar te maken.
 
 ## Kenmerken
 

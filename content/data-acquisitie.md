@@ -9,7 +9,7 @@ title: Data‑acquisitie (DAQ)
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Data-acquisitie (DAQ)** is het proces van het verzamelen van analoge en digitale signalen van sensoren en instrumenten, deze omzetten naar digitale vorm en opslaan voor analyse. Het omvat sampling, filtering en conditioning van real-world signalen.
 
 ## Kenmerken
 

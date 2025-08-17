@@ -9,7 +9,7 @@ title: Kubernetes (K8s)
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Kubernetes (K8s)** is een open-source platform voor het automatiseren van deployment, scaling en beheer van gecontaineriseerde applicaties. Het orchestrates containers over clusters van machines en biedt load balancing, auto-scaling en self-healing capabilities.
 
 ## Kenmerken
 

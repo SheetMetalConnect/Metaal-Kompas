@@ -9,7 +9,7 @@ title: Advanced Message Queuing Protocol (AMQP)
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Advanced Message Queuing Protocol (AMQP)** is een open standaard voor asynchrone berichtuitwisseling tussen applicaties in gedistribueerde systemen. Het protocol garandeert betrouwbare levering van berichten via message brokers met ondersteuning voor routing, queuing en transacties.
 
 ## Kenmerken
 

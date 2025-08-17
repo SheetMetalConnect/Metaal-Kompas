@@ -9,7 +9,7 @@ title: Application Programming Interface (API)
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Application Programming Interface (API)** is een set gedefinieerde regels en protocollen waarmee verschillende softwareapplicaties met elkaar kunnen communiceren. Een API specificeert hoe softwarecomponenten elkaar moeten aanroepen en welke data-uitwisselingsformaten gebruikt worden.
 
 ## Kenmerken
 
@@ -28,4 +28,4 @@ title: Application Programming Interface (API)
 [PLACEHOLDER - Bronnen worden later toegevoegd]
 
 ---
-← Terug naar [[kaarten/digitale-transformatie-en-industrie-40-50|Digitale transformatie & Industrie 4.0/5.0 kaart]]
+← Terug naar [[digitale-transformatie-en-industrie-40|Digitale transformatie & Industrie 4.0/5.0 kaart]]

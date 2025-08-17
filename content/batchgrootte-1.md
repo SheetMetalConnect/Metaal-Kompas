@@ -9,7 +9,7 @@ title: Batchgrootte 1
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Batchgrootte 1** is een lean manufacturing principe waarbij producten individueel door het productieproces stromen in plaats van in batches. Het minimaliseert work-in-progress, verkort doorlooptijden en enables snelle respons op klantbehoeften.
 
 ## Kenmerken
 

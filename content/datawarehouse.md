@@ -9,7 +9,7 @@ title: Datawarehouse
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Datawarehouse** is een gecentraliseerde repository die gestructureerde data uit verschillende bronnen integreert en organiseert voor rapportage en analyse. Het bevat historische data die is getransformeerd en geoptimaliseerd voor query performance en business intelligence.
 
 ## Kenmerken
 

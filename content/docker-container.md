@@ -9,7 +9,7 @@ title: Docker‑container
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Docker-container** is een standaard software-eenheid die applicatiecode verpakt met alle dependencies, waardoor applicaties betrouwbaar kunnen draaien op elke computeromgeving. Docker containers zijn lichtgewicht en delen het OS kernel van de host.
 
 ## Kenmerken
 

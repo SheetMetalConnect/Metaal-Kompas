@@ -9,7 +9,7 @@ title: Generative design (generatief ontwerp)
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Generative design (generatief ontwerp)** gebruikt AI-algoritmes om automatisch ontwerpalternatieven te genereren op basis van opgegeven eisen en beperkingen. Het exploreert duizenden ontwerpopties om optimale oplossingen te vinden voor gewicht, sterkte, materiaalgebruik en productiekosten.
 
 ## Kenmerken
 

@@ -9,7 +9,7 @@ title: Condition monitoring
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Condition monitoring** is de continue bewaking van machine-conditie door meting van parameters zoals trillingen, temperatuur, geluid en olie-kwaliteit. Het detecteert vroegtijdig falen en degradatie om ongeplande stilstanden te voorkomen en onderhoudsplanning te optimaliseren.
 
 ## Kenmerken
 

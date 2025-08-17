@@ -9,7 +9,7 @@ title: CI/CD‑pijplijn
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**CI/CD-pijplijn** automatiseert het proces van software development vanaf code commit tot productie-deployment. Continuous Integration voegt code samen en test automatisch, terwijl Continuous Deployment updates automatisch uitrolt naar productieomgevingen.
 
 ## Kenmerken
 

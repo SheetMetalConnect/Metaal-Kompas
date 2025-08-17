@@ -9,7 +9,7 @@ title: Autonome mobiele robots (AMR)
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Autonome mobiele robots (AMR)** zijn zelfrijdende robots die zich onafhankelijk door industriële omgevingen kunnen bewegen zonder externe geleiding. Ze gebruiken sensoren, camera's en AI voor navigatie en kunnen taken uitvoeren zoals transport, inventaris en inspectie.
 
 ## Kenmerken
 
@@ -28,4 +28,4 @@ title: Autonome mobiele robots (AMR)
 [PLACEHOLDER - Bronnen worden later toegevoegd]
 
 ---
-← Terug naar [[kaarten/digitale-transformatie-en-industrie-40-50|Digitale transformatie & Industrie 4.0/5.0 kaart]]
+← Terug naar [[digitale-transformatie-en-industrie-40|Digitale transformatie & Industrie 4.0/5.0 kaart]]

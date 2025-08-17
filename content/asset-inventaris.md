@@ -9,7 +9,7 @@ title: Asset‑inventaris (asset inventory)
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Asset-inventaris** is een systematische catalogus van alle fysieke en digitale assets binnen een organisatie, inclusief machines, software, netwerkcomponenten en kritieke infrastructuur. Het biedt visibility en controle voor onderhoud, security en compliance.
 
 ## Kenmerken
 

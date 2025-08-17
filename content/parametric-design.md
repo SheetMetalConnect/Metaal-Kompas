@@ -9,7 +9,7 @@ title: Parametric design (parametrisch ontwerp)
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Parametric design (parametrisch ontwerp)** definieert ontwerpen door parameters en regels die automatisch aanpassingen doorvoeren wanneer input-waarden wijzigen. Het enables snelle iteraties en massa-customization door relationele geometrie en constraint-based modeling.
 
 ## Kenmerken
 

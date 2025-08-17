@@ -9,7 +9,7 @@ title: Event‑verrijking (event enrichment)
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Event-verrijking (event enrichment)** voegt contextuale informatie toe aan events tijdens processing om hun waarde en bruikbaarheid te verhogen. Het combineert event-data met referentiedata, historische gegevens of real-time lookups voor rijkere analytics.
 
 ## Kenmerken
 

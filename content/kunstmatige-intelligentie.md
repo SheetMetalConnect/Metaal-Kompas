@@ -9,7 +9,7 @@ title: Kunstmatige intelligentie (AI)
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Kunstmatige intelligentie (AI)** omvat computersystemen die taken kunnen uitvoeren die normaal menselijke intelligentie vereisen, zoals patroonherkenning, besluitvorming en natuurlijke taalverwerking. In industriële context wordt AI gebruikt voor predictive maintenance, kwaliteitscontrole en procesoptimalisatie.
 
 ## Kenmerken
 
@@ -28,4 +28,4 @@ title: Kunstmatige intelligentie (AI)
 [PLACEHOLDER - Bronnen worden later toegevoegd]
 
 ---
-← Terug naar [[kaarten/digitale-transformatie-en-industrie-40-50|Digitale transformatie & Industrie 4.0/5.0 kaart]]
+← Terug naar [[digitale-transformatie-en-industrie-40|Digitale transformatie & Industrie 4.0/5.0 kaart]]

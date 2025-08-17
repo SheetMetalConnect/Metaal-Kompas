@@ -9,7 +9,7 @@ title: Backpressure‑afhandeling
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Backpressure-afhandeling** beheert situaties waarin data producers sneller data genereren dan consumers kunnen verwerken in streaming systemen. Het implementeert strategieën zoals buffering, throttling, dropping of pushback om system overload te voorkomen.
 
 ## Kenmerken
 

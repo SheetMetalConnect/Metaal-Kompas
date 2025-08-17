@@ -135,7 +135,7 @@ ACME/Rotterdam/Lijn_A/Oven_001/
 
 - [[unified-namespace|Unified Namespace (UNS)]]
 - [[semantisch-datamodel|Semantisch datamodel]]
-- [[digitale-tweeling|Digitale tweeling (digital twin)]]
+- [[virtual-factory-digital-twin-digitale-tweeling|Digitale tweeling (digital twin)]]
 - [[metadata-beheer|Metadata-beheer]]
 - [[data-herkomst|Data-herkomst (data lineage)]]
 - [[isa-95-model|ISA-95 model]]

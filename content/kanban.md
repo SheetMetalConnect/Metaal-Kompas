@@ -9,7 +9,7 @@ title: Kanban
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Kanban** is een visueel workflow management systeem dat werk-in-uitvoering visualiseert en beperkt om continue verbetering en efficiënte doorstroming te stimuleren. Het gebruikt kaarten en kolommen om taken door verschillende fases te leiden.
 
 ## Kenmerken
 

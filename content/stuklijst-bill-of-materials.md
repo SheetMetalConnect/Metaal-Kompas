@@ -177,7 +177,7 @@ Fiets (Niveau 0)
 
 ## Digital Twin Integration
 
-BOMs in **[[digitale-tweeling|Digital Twin]]** omgevingen:
+BOMs in **[[virtual-factory-digital-twin-digitale-tweeling|Digital Twin]]** omgevingen:
 - **As-built BOMs**: Werkelijke geïnstalleerde configuratie
 - **Real-time updates**: Live configuratie wijzigingen
 - **Predictive maintenance**: Component levensduur voorspelling

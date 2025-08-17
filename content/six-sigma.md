@@ -9,7 +9,7 @@ title: Six Sigma
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Six Sigma** is een datagedreven methodologie voor procesverbetering die defecten reduceert tot 3,4 per miljoen mogelijkheden door systematische analyse en statistische controle. Het gebruikt DMAIC (Define, Measure, Analyze, Improve, Control) voor gestructureerde probleemoplossing.
 
 ## Kenmerken
 

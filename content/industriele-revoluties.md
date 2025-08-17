@@ -52,13 +52,13 @@ De huidige fase van industriële evolutie plaatst premie op creativiteit, empath
 ## Gerelateerde Revoluties
 
 ### Historische Fundamenten
-- [[industrie-10|Industrie 1.0: De Stoomrevolutie]] - Mechanisatie door stoomkracht
-- [[industrie-20|Industrie 2.0: De Electriciteitsrevolutie]] - Massaproductie en elektrificatie
-- [[industrie-30|Industrie 3.0: De Computerrevolutie]] - Automatisering en digitalisering
+- [[industrie-1.0|Industrie 1.0: De Stoomrevolutie]] - Mechanisatie door stoomkracht
+- [[industrie-2.0|Industrie 2.0: De Electriciteitsrevolutie]] - Massaproductie en elektrificatie
+- [[industrie-3.0|Industrie 3.0: De Computerrevolutie]] - Automatisering en digitalisering
 
 ### Moderne Transformaties  
-- [[industrie-40|Industrie 4.0: De Internetrevolutie]] - Connectivity en cyber-fysieke systemen
-- [[industrie-50|Industrie 5.0: De AI-Revolutie]] - Mens-machine samenwerking en intelligentie
+- [[industrie-4.0|Industrie 4.0: De Internetrevolutie]] - Connectivity en cyber-fysieke systemen
+- [[industrie-5.0|Industrie 5.0: De AI-Revolutie]] - Mens-machine samenwerking en intelligentie
 
 ### Ondersteunende Concepten
 - [[digitale-transformatie|Digitale transformatie]] - Organisatorische adaptatie aan digitale technologieën

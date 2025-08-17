@@ -9,7 +9,7 @@ title: Auditmanagement
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Auditmanagement** systematiseert planning, uitvoering en opvolging van interne en externe audits voor compliance en kwaliteitsborging. Het beheert audit-schema's, bevindingen, correctieve acties en rapportage via geïntegreerde softwareplatforms.
 
 ## Kenmerken
 

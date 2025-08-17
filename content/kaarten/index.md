@@ -11,7 +11,7 @@ Deze pagina biedt toegang tot alle kaarten die de begrippen uit Kompas ordenen p
 
 ## Digitale transformatie & technologie
 
-- [[digitale-transformatie-en-industrie-40-50|Digitale transformatie & Industrie 4.0/5.0]]
+- [[digitale-transformatie-en-industrie-40|Digitale transformatie & Industrie 4.0/5.0]]
 - [[softwaremodules-en-integratie|Softwaremodules & integratie]]  
 - [[softwaredeployment-en-architectuur|Software-uitrol & architectuur]]
 - [[data-collectie-en-industrial-data-platforms|Dataverzameling & industriële dataplatforms]]

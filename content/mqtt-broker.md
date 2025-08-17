@@ -9,7 +9,7 @@ title: MQTT‑broker
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**MQTT-broker** is een centrale server die MQTT-berichten routeert tussen publishers en subscribers in IoT en industriële netwerken. Het beheert client-verbindingen, topic-subscriptions en message delivery voor efficiënte machine-to-machine communicatie.
 
 ## Kenmerken
 

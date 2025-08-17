@@ -9,7 +9,7 @@ title: Edge computing
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Edge computing** verplaatst dataverwerking en -opslag dichter bij de bron waar data gegenereerd wordt, in plaats van alles naar centrale datacenters te sturen. Dit vermindert latency, bespaart bandbreedte en enables real-time besluitvorming in industriële omgevingen.
 
 ## Kenmerken
 
@@ -28,4 +28,4 @@ title: Edge computing
 [PLACEHOLDER - Bronnen worden later toegevoegd]
 
 ---
-← Terug naar [[kaarten/digitale-transformatie-en-industrie-40-50|Digitale transformatie & Industrie 4.0/5.0 kaart]]
+← Terug naar [[digitale-transformatie-en-industrie-40|Digitale transformatie & Industrie 4.0/5.0 kaart]]

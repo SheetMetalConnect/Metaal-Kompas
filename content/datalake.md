@@ -9,7 +9,7 @@ title: Datalake
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Datalake** is een gecentraliseerde opslaglocatie die grote hoeveelheden ruwe data in hun oorspronkelijke formaat kan bewaren totdat ze nodig zijn. Het ondersteunt gestructureerde, semi-gestructureerde en ongestructureerde data voor analytics en machine learning.
 
 ## Kenmerken
 

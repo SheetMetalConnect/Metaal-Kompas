@@ -341,7 +341,7 @@ Digital Capability Framework
 
 **Technology Strategy:**
 - [[unified-namespace|Unified Namespace (UNS)]] - Architectural foundation
-- [[industrie-40|Industrie 4.0]] - Technology enablement framework
+- [[industrie-4.0|Industrie 4.0]] - Technology enablement framework
 - [[industrial-internet-of-things|IIoT]] - Connectivity strategy
 - [[edge-computing|Edge computing]] - Distributed processing strategy
 
@@ -366,4 +366,4 @@ Digital Capability Framework
 - Gartner - Digital business strategy frameworks
 
 ---
-← Terug naar [[kaarten/digitale-transformatie-en-industrie-40-50|Digitale transformatie & Industrie 4.0/5.0 kaart]]
+← Terug naar [[digitale-transformatie-en-industrie-40|Digitale transformatie & Industrie 4.0/5.0 kaart]]

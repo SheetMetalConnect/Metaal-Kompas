@@ -9,7 +9,7 @@ title: Open Platform Communications Unified Architecture (OPC UA)
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**OPC UA (Open Platform Communications Unified Architecture)** is een platform-onafhankelijk industrieel communicatieprotocol dat veilige, betrouwbare data-uitwisseling tussen industriële apparaten en systemen mogelijk maakt. Het combineert messaging, security en semantische informatie-modellering.
 
 ## Kenmerken
 

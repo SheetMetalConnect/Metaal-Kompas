@@ -9,7 +9,7 @@ title: Andon‑systeem
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Andon-systeem** is een visueel signaleringssysteem dat operators in staat stelt om onmiddellijk hulp aan te vragen of productie stop te zetten bij problemen. Het gebruikt lichten, geluiden of displays om real-time status en alarmen door te geven.
 
 ## Kenmerken
 

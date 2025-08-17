@@ -9,7 +9,7 @@ title: Poka‑Yoke (foutpreventie)
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Poka-Yoke (foutpreventie)** zijn mechanismen of technieken die menselijke fouten voorkomen of onmiddellijk detecteren in productieprocessen. Het gebruikt fysieke beperkingen, waarschuwingen of automatische stops om defecte producten te vermijden.
 
 ## Kenmerken
 

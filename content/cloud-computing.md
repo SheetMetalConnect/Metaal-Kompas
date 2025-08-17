@@ -9,7 +9,7 @@ title: Cloud computing
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Cloud computing** biedt on-demand toegang tot gedeelde IT-resources zoals servers, opslag, databases en applicaties via het internet. Gebruikers betalen alleen voor wat ze gebruiken zonder fysieke hardware te moeten beheren of onderhouden.
 
 ## Kenmerken
 
@@ -28,4 +28,4 @@ title: Cloud computing
 [PLACEHOLDER - Bronnen worden later toegevoegd]
 
 ---
-← Terug naar [[kaarten/digitale-transformatie-en-industrie-40-50|Digitale transformatie & Industrie 4.0/5.0 kaart]]
+← Terug naar [[digitale-transformatie-en-industrie-40|Digitale transformatie & Industrie 4.0/5.0 kaart]]

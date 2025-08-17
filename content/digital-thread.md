@@ -9,7 +9,7 @@ title: Digital Thread
 
 ## Definitie
 
-Digital Thread verbindt alle fasen van de product lifecycle door middel van een geïntegreerde, traceerbare en toegankelijke informatiestroom. Het breidt het concept van een [[digitale-tweeling|Digital Twin]] uit door niet alleen de huidige staat te representeren, maar ook de volledige historie en context van een product vast te leggen.
+Digital Thread verbindt alle fasen van de product lifecycle door middel van een geïntegreerde, traceerbare en toegankelijke informatiestroom. Het breidt het concept van een [[virtual-factory-digital-twin-digitale-tweeling|Digital Twin]] uit door niet alleen de huidige staat te representeren, maar ook de volledige historie en context van een product vast te leggen.
 
 ## Kerncomponenten
 
@@ -156,7 +156,7 @@ DigitalThread/{ProductID}/
 - **[[machine-learning|Machine Learning]]** voor pattern recognition
 - **[[predictive-analytics|Predictive analytics]]** voor lifecycle insights
 - **[[computer-aided-design|CAD]]** integration voor design correlation
-- **[[digitale-tweeling|Digital Twin]]** platforms voor simulation
+- **[[virtual-factory-digital-twin-digitale-tweeling|Digital Twin]]** platforms voor simulation
 
 ## Voordelen
 
@@ -200,7 +200,7 @@ DigitalThread/{ProductID}/
 
 ## Gerelateerde begrippen
 
-- [[digitale-tweeling|Digitale tweeling (digital twin)]]
+- [[virtual-factory-digital-twin-digitale-tweeling|Digitale tweeling (digital twin)]]
 - [[unified-namespace|Unified Namespace (UNS)]]
 - [[product-lifecycle-management|Product Lifecycle Management (PLM)]]
 - [[traceerbaarheidssysteem|Traceerbaarheidssysteem]]
@@ -215,4 +215,4 @@ DigitalThread/{ProductID}/
 - ISO 29148 Systems and Software Engineering Requirements
 
 ---
-← Terug naar [[kaarten/digitale-transformatie-en-industrie-40-50|Digitale transformatie & Industrie 4.0/5.0 kaart]]
+← Terug naar [[digitale-transformatie-en-industrie-40|Digitale transformatie & Industrie 4.0/5.0 kaart]]

@@ -9,7 +9,7 @@ title: Master Data Management (MDM)
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Master Data Management (MDM)** zorgt voor consistente, accurate en gezaghebbende master data (zoals klanten, producten, leveranciers) door alle systemen heen. Het elimineert data-duplicatie en waarborgt één bron van waarheid voor kritieke bedrijfsentiteiten.
 
 ## Kenmerken
 

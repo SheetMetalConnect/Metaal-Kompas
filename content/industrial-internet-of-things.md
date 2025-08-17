@@ -9,7 +9,7 @@ title: Industrial Internet of Things (IIoT)
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Industrial Internet of Things (IIoT)** verbindt industriële machines, sensoren en systemen via netwerken om real-time data te verzamelen en te analyseren. Het enables predictive maintenance, procesoptimalisatie en remote monitoring in productieomgevingen met hogere betrouwbaarheid dan consumer IoT.
 
 ## Kenmerken
 
@@ -34,7 +34,7 @@ title: Industrial Internet of Things (IIoT)
 **Integration & Processing:**
 - [[manufacturing-execution-system|Manufacturing Execution System (MES)]] - IIoT-MES integration
 - [[edge-computing|Edge computing]] - Local industrial data processing
-- [[digitale-tweeling|Digitale tweeling (digital twin)]] - IIoT-powered industrial twins
+- [[virtual-factory-digital-twin-digitale-tweeling|Digitale tweeling (digital twin)]] - IIoT-powered industrial twins
 - [[internet-of-things|Internet of Things (IoT)]] - General IoT foundation
 
 ## Bronnen
@@ -42,4 +42,4 @@ title: Industrial Internet of Things (IIoT)
 [PLACEHOLDER - Bronnen worden later toegevoegd]
 
 ---
-← Terug naar [[kaarten/digitale-transformatie-en-industrie-40-50|Digitale transformatie & Industrie 4.0/5.0 kaart]]
+← Terug naar [[digitale-transformatie-en-industrie-40|Digitale transformatie & Industrie 4.0/5.0 kaart]]

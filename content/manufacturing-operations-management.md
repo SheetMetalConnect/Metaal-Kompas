@@ -9,7 +9,7 @@ title: Manufacturing Operations Management (MOM)
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Manufacturing Operations Management (MOM)** is een overkoepelend systeem dat alle aspecten van productieoperaties integreert en beheert, van planning en scheduling tot kwaliteitscontrole en compliance. Het combineert MES, WMS, QMS en andere productiesystemen in één geïntegreerd platform.
 
 ## Kenmerken
 

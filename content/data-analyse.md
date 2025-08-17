@@ -9,7 +9,7 @@ title: Data‑analyse
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Data-analyse** is het systematisch onderzoeken van datasets om patronen, trends en inzichten te ontdekken die besluitvorming ondersteunen. Het omvat het verzamelen, reinigen, transformeren en interpreteren van data met behulp van statistische en computationele methoden.
 
 ## Kenmerken
 
@@ -28,4 +28,4 @@ title: Data‑analyse
 [PLACEHOLDER - Bronnen worden later toegevoegd]
 
 ---
-← Terug naar [[kaarten/digitale-transformatie-en-industrie-40-50|Digitale transformatie & Industrie 4.0/5.0 kaart]]
+← Terug naar [[digitale-transformatie-en-industrie-40|Digitale transformatie & Industrie 4.0/5.0 kaart]]

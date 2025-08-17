@@ -9,7 +9,7 @@ title: Auditdocumentatie
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Auditdocumentatie** omvat alle gestructureerde records, procedures en bewijsstukken die compliance met standaarden, regelgeving en interne richtlijnen aantonen. Het enables transparante evaluatie van processen, kwaliteit en prestaties tijdens audits.
 
 ## Kenmerken
 

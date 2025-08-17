@@ -9,7 +9,7 @@ title: Afvalvrij produceren (zero‑waste)
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Afvalvrij produceren (zero-waste)** is een productiefilosofie die alle vormen van verspilling elimineert door hergebruik, recycling en procesglijklijning. Het streeft naar 100% nuttige output zonder afvalstromen naar stortplaatsen.
 
 ## Kenmerken
 

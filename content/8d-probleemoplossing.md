@@ -9,7 +9,7 @@ title: 8D‑probleemoplossing
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**8D-probleemoplossing** is een gestructureerde methodologie met acht disciplines voor het systematisch oplossen van complexe problemen in teams. Het proces omvat probleemidentificatie, root cause analyse, correctieve acties en preventieve maatregelen.
 
 ## Kenmerken
 

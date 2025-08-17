@@ -9,7 +9,7 @@ title: Hybride cloud
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Hybride cloud** combineert on-premises infrastructuur met publieke cloud services, waarbij data en applicaties tussen beide omgevingen kunnen bewegen. Het biedt flexibiliteit om gevoelige data lokaal te houden terwijl cloud voordelen benut worden.
 
 ## Kenmerken
 

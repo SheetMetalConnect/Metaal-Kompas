@@ -9,7 +9,7 @@ title: Data‑herkomst (data lineage)
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Data-herkomst (data lineage)** documenteert de volledige levenscyclus van data vanaf oorsprong tot eindbestemming, inclusief alle transformaties en bewegingen. Het biedt transparantie over hoe data is verwerkt en helpt bij compliance, troubleshooting en impact-analyse.
 
 ## Kenmerken
 

@@ -9,7 +9,7 @@ title: Augmented Reality (AR)
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Augmented Reality (AR)** voegt digitale informatie toe aan de werkelijke wereld via smart glasses, tablets of smartphones. In industriële context worden onderhoudsinstructies, technische tekeningen en real-time machine data over fysieke objecten weergegeven om operators te ondersteunen.
 
 ## Kenmerken
 
@@ -28,4 +28,4 @@ title: Augmented Reality (AR)
 [PLACEHOLDER - Bronnen worden later toegevoegd]
 
 ---
-← Terug naar [[kaarten/digitale-transformatie-en-industrie-40-50|Digitale transformatie & Industrie 4.0/5.0 kaart]]
+← Terug naar [[digitale-transformatie-en-industrie-40|Digitale transformatie & Industrie 4.0/5.0 kaart]]

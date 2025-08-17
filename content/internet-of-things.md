@@ -145,7 +145,7 @@ Unified Namespace
 - **Compliance**: automated reporting en documentation
 
 ### Strategic Benefits
-- **Digital transformation**: foundation voor [[industrie-40|Industrie 4.0]]
+- **Digital transformation**: foundation voor [[industrie-4.0|Industrie 4.0]]
 - **Data-driven decisions**: evidence-based management
 - **Innovation platform**: basis voor nieuwe capabilities
 - **Competitive advantage**: operational excellence
@@ -219,7 +219,7 @@ IoT devices publiceren data naar een **[[unified-namespace|Unified Namespace]]**
 
 **Data & Analytics:**
 - [[contextualisatie-van-data|Contextualisatie van data]] - IoT sensor data verrijking
-- [[digitale-tweeling|Digitale tweeling (digital twin)]] - IoT-gevoed digitale modellen
+- [[virtual-factory-digital-twin-digitale-tweeling|Digitale tweeling (digital twin)]] - IoT-gevoed digitale modellen
 - [[big-data|Big Data]] - IoT data volume management
 - [[realtime-monitoring|Real-time monitoring]] - continue IoT surveillance
 
@@ -238,4 +238,4 @@ IoT devices publiceren data naar een **[[unified-namespace|Unified Namespace]]**
 - McKinsey - IoT Value Creation Studies
 
 ---
-← Terug naar [[kaarten/digitale-transformatie-en-industrie-40-50|Digitale transformatie & Industrie 4.0/5.0 kaart]]
+← Terug naar [[digitale-transformatie-en-industrie-40|Digitale transformatie & Industrie 4.0/5.0 kaart]]

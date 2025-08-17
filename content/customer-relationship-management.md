@@ -9,7 +9,7 @@ title: Customer Relationship Management (CRM)
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Customer Relationship Management (CRM)** beheert alle interacties en relaties met klanten door de volledige customer lifecycle. Het centraliseert klantdata, verkoopprocessen, marketing en service om klantentevredenheid en revenue te optimaliseren.
 
 ## Kenmerken
 

@@ -9,7 +9,7 @@ title: Bluetooth Low Energy (BLE)
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Bluetooth Low Energy (BLE)** is een energiezuinige variant van Bluetooth ontworpen voor IoT-toepassingen met minimale stroomconsumptie. Het enables wireless connectiviteit voor sensoren, wearables en industriële monitoring devices met batterijlevensduren van jaren.
 
 ## Kenmerken
 

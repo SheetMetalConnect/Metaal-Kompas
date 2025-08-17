@@ -9,7 +9,7 @@ title: Smart Industry
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Smart Industry** is de Nederlandse invulling van Industrie 4.0, gericht op digitale transformatie van de maakindustrie door technologieën zoals IoT, AI en robotica. Het streven is om de Nederlandse industrie concurrerender, duurzamer en flexibeler te maken.
 
 ## Kenmerken
 
@@ -28,4 +28,4 @@ title: Smart Industry
 [PLACEHOLDER - Bronnen worden later toegevoegd]
 
 ---
-← Terug naar [[kaarten/digitale-transformatie-en-industrie-40-50|Digitale transformatie & Industrie 4.0/5.0 kaart]]
+← Terug naar [[digitale-transformatie-en-industrie-40|Digitale transformatie & Industrie 4.0/5.0 kaart]]

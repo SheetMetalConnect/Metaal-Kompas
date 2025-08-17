@@ -9,7 +9,7 @@ title: Autonome toeleveringsketen
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Autonome toeleveringsketen** gebruikt AI, machine learning en automatisering om supply chain decisions zelfstandig te maken met minimale menselijke interventie. Het optimaliseert voorraad, planning, procurement en distributie door predictive analytics en real-time aanpassingen.
 
 ## Kenmerken
 

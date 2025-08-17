@@ -9,7 +9,7 @@ title: Virtual Reality (VR)
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Virtual Reality (VR)** creëert een volledig immersieve digitale omgeving waarin gebruikers via VR-headsets kunnen interacteren. In industriële context wordt VR gebruikt voor training, simulatie van gevaarlijke procedures en virtuele fabrieksrondleidingen.
 
 ## Kenmerken
 
@@ -28,4 +28,4 @@ title: Virtual Reality (VR)
 [PLACEHOLDER - Bronnen worden later toegevoegd]
 
 ---
-← Terug naar [[kaarten/digitale-transformatie-en-industrie-40-50|Digitale transformatie & Industrie 4.0/5.0 kaart]]
+← Terug naar [[digitale-transformatie-en-industrie-40|Digitale transformatie & Industrie 4.0/5.0 kaart]]

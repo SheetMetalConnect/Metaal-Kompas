@@ -12,11 +12,11 @@ Deze kaart biedt een overzicht van alle begrippen binnen **innovatie & toekomstt
 ## Industriële revoluties
 
 - [[industriele-revoluties|Industriële revoluties - Complete overzicht]]
-- [[industrie-10|Industrie 1.0 - De stoomrevolutie]]
-- [[industrie-20|Industrie 2.0 - De electriciteitsrevolutie]]
-- [[industrie-30|Industrie 3.0 - De computerrevolutie]]
-- [[industrie-40|Industrie 4.0 - De internetrevolutie]]
-- [[industrie-50|Industrie 5.0 - De AI-revolutie]]
+- [[industrie-1.0|Industrie 1.0 - De stoomrevolutie]]
+- [[industrie-2.0|Industrie 2.0 - De electriciteitsrevolutie]]
+- [[industrie-3.0|Industrie 3.0 - De computerrevolutie]]
+- [[industrie-4.0|Industrie 4.0 - De internetrevolutie]]
+- [[industrie-5.0|Industrie 5.0 - De AI-revolutie]]
 
 ## Innovatieve technologieën
 

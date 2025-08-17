@@ -67,4 +67,4 @@ title: Digitale Transformatie Volwassenheidsanalyse (DTMA)
 - [[benchmarking|Benchmarking]] - Vergelijking met industry standards
 
 ---
-← Terug naar [[kaarten/digitale-transformatie-en-industrie-40-50|Digitale transformatie & Industrie 4.0/5.0 kaart]]
+← Terug naar [[digitale-transformatie-en-industrie-40|Digitale transformatie & Industrie 4.0/5.0 kaart]]

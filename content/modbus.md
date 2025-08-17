@@ -9,7 +9,7 @@ title: Modbus
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Modbus** is een serieel communicatieprotocol dat in 1979 werd ontwikkeld voor industriële automatisering. Het is een simpel, robuust master-slave protocol dat wijdverspreid gebruikt wordt voor communicatie tussen PLC's, sensoren en andere industriële apparaten.
 
 ## Kenmerken
 

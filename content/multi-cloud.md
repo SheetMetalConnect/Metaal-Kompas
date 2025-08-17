@@ -9,7 +9,7 @@ title: Multi‑cloud
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Multi-cloud** is een strategie waarbij organisaties services van meerdere cloud providers gebruiken om vendor lock-in te vermijden, risico's te spreiden en optimale functionaliteit per workload te benutten. Het vereist tools voor gecentraliseerd beheer.
 
 ## Kenmerken
 

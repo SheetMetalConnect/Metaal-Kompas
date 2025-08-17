@@ -9,7 +9,7 @@ title: Mens‑robot samenwerking (HRC)
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Mens-robot samenwerking (HRC - Human-Robot Collaboration)** beschrijft directe interactie tussen mensen en robots in een gedeelde werkruimte. Robots assisteren mensen bij taken waarbij menselijke intelligentie en robot-precisie worden gecombineerd voor optimale resultaten.
 
 ## Kenmerken
 
@@ -28,4 +28,4 @@ title: Mens‑robot samenwerking (HRC)
 [PLACEHOLDER - Bronnen worden later toegevoegd]
 
 ---
-← Terug naar [[kaarten/digitale-transformatie-en-industrie-40-50|Digitale transformatie & Industrie 4.0/5.0 kaart]]
+← Terug naar [[digitale-transformatie-en-industrie-40|Digitale transformatie & Industrie 4.0/5.0 kaart]]

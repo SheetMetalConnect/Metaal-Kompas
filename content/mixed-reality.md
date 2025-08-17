@@ -9,7 +9,7 @@ title: Mixed Reality (MR)
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Mixed Reality (MR)** combineert elementen van Virtual Reality en Augmented Reality door digitale objecten te plaatsen in de fysieke wereld waar ze kunnen interacteren met echte objecten. Gebruikers kunnen digitale en fysieke elementen tegelijkertijd manipuleren.
 
 ## Kenmerken
 
@@ -28,4 +28,4 @@ title: Mixed Reality (MR)
 [PLACEHOLDER - Bronnen worden later toegevoegd]
 
 ---
-← Terug naar [[kaarten/digitale-transformatie-en-industrie-40-50|Digitale transformatie & Industrie 4.0/5.0 kaart]]
+← Terug naar [[digitale-transformatie-en-industrie-40|Digitale transformatie & Industrie 4.0/5.0 kaart]]

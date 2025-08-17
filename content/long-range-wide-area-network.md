@@ -9,7 +9,7 @@ title: Long Range Wide Area Network (LoRaWAN)
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**LoRaWAN (Long Range Wide Area Network)** is een low-power, wide-area networking protocol ontworpen voor wireless IoT-apparaten. Het biedt lange afstand communicatie (tot 15km) met minimaal energieverbruik voor batterij-powered sensors en meters.
 
 ## Kenmerken
 

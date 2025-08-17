@@ -99,7 +99,7 @@ De period's development van systematic management practices en engineering disci
 
 **Technological Foundations:**
 - [[industriele-revoluties|Industriële Revoluties]] - Historical context
-- [[industrie-10|Industrie 1.0]] - Preceding steam revolution  
+- [[industrie-1.0|Industrie 1.0]] - Preceding steam revolution  
 - [[electrification|Elektrificatie]] - Core enabling technology
 - [[assembly-line|Lopende band]] - Revolutionary production method
 

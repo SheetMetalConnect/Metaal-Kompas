@@ -9,7 +9,7 @@ title: Adaptieve lassoftware (adaptive welding)
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Adaptieve lassoftware** past automatisch lasparameters aan op basis van real-time feedback van sensoren om kwaliteit en consistentie te optimaliseren. Het compenseert voor variaties in materiaaldikte, positionering en omgevingsfactoren tijdens het lasproces.
 
 ## Kenmerken
 

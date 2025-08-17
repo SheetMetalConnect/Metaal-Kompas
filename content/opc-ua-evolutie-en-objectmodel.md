@@ -48,7 +48,7 @@ Zie het als het insluiten van een Excel-spreadsheet in een Word-document. De tem
 
 ### OPC UA Objectmodel
 
-Zie het als een [[digitale-tweeling|digitale tweeling]] van de fabriek. De temperatuursensor wordt weergegeven als een object in deze virtuele fabriek. Het heeft eigenschappen (huidige temperatuur), methoden (kalibreren) en gebeurtenissen (temperatuur te hoog).
+Zie het als een [[virtual-factory-digital-twin-digitale-tweeling|digitale tweeling]] van de fabriek. De temperatuursensor wordt weergegeven als een object in deze virtuele fabriek. Het heeft eigenschappen (huidige temperatuur), methoden (kalibreren) en gebeurtenissen (temperatuur te hoog).
 
 **Voorbeeldstructuur in OPC UA:**
 
@@ -88,7 +88,7 @@ OPC UA behandelt alles (sensoren, processen, zelfs hele productielijnen) als ond
 
 - [[open-platform-communications-unified-architecture|OPC UA]]
 - [[ole-object-linking-and-embedding|OLE (Object Linking and Embedding)]]
-- [[digitale-tweeling|Digitale tweeling (digital twin)]]
+- [[virtual-factory-digital-twin-digitale-tweeling|Digitale tweeling (digital twin)]]
 
 ---
 ← Terug naar [[kaarten/industriële-communicatieprotocollen|Industriële communicatieprotocollen kaart]]

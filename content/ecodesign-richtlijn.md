@@ -9,7 +9,7 @@ title: Ecodesign‑richtlijn (EcoDesign Directive)
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**Ecodesign-richtlijn (EcoDesign Directive)** is Europese wetgeving die verplicht dat energiegerelateerde producten ontworpen worden met minimale milieu-impact gedurende hun levenscyclus. Het stelt eisen aan energie-efficiëntie, duurzaamheid en recycleerbaarheid van producten.
 
 ## Kenmerken
 

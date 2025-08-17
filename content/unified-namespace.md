@@ -63,7 +63,7 @@ Belangrijk: de *techniek* (MQTT, Kafka) is slechts de transportlaag. Het UNS is 
 - [[single-source-of-truth|Single Source of Truth (SSOT)]]
 - [[event-gedreven-architectuur|Event-gedreven architectuur]]
 - [[topic-namespace|Topic namespace]]
-- [[digitale-tweeling|Digital Twin]]
+- [[virtual-factory-digital-twin-digitale-tweeling|Digital Twin]]
 - [[digital-thread|Digital Thread]]
 - [[isa-95-model|ISA-95 model]]
 

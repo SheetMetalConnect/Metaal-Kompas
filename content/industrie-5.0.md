@@ -5,7 +5,7 @@ tags:
 
 title: Industrie 5.0
 ---
-*Industrie 5.0* vertegenwoordigt de volgende stap in de industriële ontwikkeling: de **convergentie van menselijke intelligentie en kunstmatige intelligentie**. Waar Industrie 4.0 draaide om connectiviteit en het doorbreken van datasilo’s, legt Industrie 5.0 de nadruk op hoe AI menselijke creativiteit, besluitvorming en veiligheid versterkt.
+*Industrie 5.0* vertegenwoordigt de volgende stap in de industriële ontwikkeling: de **convergentie van menselijke intelligentie en kunstmatige intelligentie**. Waar [[industrie-4.0]] draaide om connectiviteit en het doorbreken van datasilo’s, legt Industrie 5.0 de nadruk op hoe AI menselijke creativiteit, besluitvorming en veiligheid versterkt.
 
 ## Definitie
 
@@ -61,7 +61,7 @@ De route is duidelijk: zonder de **connectiviteit van Industrie 4.0** geen **int
 
 ## Gerelateerde begrippen
 
-- [[industrie-40|Industrie 4.0]] – fundament van data en connectiviteit  
+- [[industrie-4.0|Industrie 4.0]] – fundament van data en connectiviteit  
 - [[kunstmatige-intelligentie|Kunstmatige Intelligentie (AI)]] – centrale technologie  
 - [[collaborative-robots|Collaborative robots (cobots)]] – fysieke samenwerking  
 - [[augmented-reality|Augmented Reality (AR)]] – menselijke interface  
@@ -76,4 +76,4 @@ De route is duidelijk: zonder de **connectiviteit van Industrie 4.0** geen **int
 - Accenture – *Human + Machine: Reimagining Work in the Age of AI*  
 
 ---
-← Terug naar [[kaarten/digitale-transformatie-en-industrie-40-50|Digitale transformatie & Industrie 4.0/5.0 kaart]]
+← Terug naar [[digitale-transformatie-en-industrie-40|Digitale transformatie & Industrie 4.0/5.0 kaart]]
