@@ -1,60 +1,107 @@
 ---
-title: Welcome to Quartz 4
+title: Welcome to Metaal Kompas
 ---
 
-Quartz is a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites. Thousands of students, developers, and teachers are [[showcase|already using Quartz]] to publish personal notes, websites, and [digital gardens](https://jzhao.xyz/posts/networked-thought) to the web.
+# 🧭 Metaal Kompas
+*Kenniscompas voor digitale transformatie in de metaalindustrie*
 
-> **Quick Start**: Ready to begin? Jump to [[#🚀 Quick Start|Quick Start]] below or see our [[showcase]] for inspiration.
+**Metaal Kompas** is een uitgebreide kennisbase die industriële begrippen helder definieert en richting geeft binnen de context van digitale transformatie in de metaalbewerkende industrie. Het combineert traditionele productiekennis met moderne digitale technologieën.
 
-## 🚀 Quick Start
+> **Voor beginners**: Start met onze [[#🚀 Voor Beginners|beginner's guide]] om de fundamenten van industriële digitalisering te begrijpen.
 
-**Prerequisites**: [Node.js v22+](https://nodejs.org/) and npm v10.9.2+
+## 🎯 Wat is Metaal Kompas?
 
-```shell
-git clone https://github.com/jackyzha0/quartz.git
-cd quartz
-npm i
-npx quartz create
-```
+Metaal Kompas biedt:
 
-**Next Steps** (in order):
-1. [[authoring content|Write content]] → Add your Markdown files
-2. [[build|Build & preview]] → Test locally with `npx quartz build --serve`
-3. [[setting up your GitHub repository|Setup GitHub]] → Version control
-4. [[hosting|Deploy]] → Publish to the web
+- **Heldere definities** van industriële begrippen in Nederlandse taal
+- **Praktische toepassingen** specifiek voor de metaalindustrie  
+- **Gestructureerde kenniskaarten** die gerelateerde concepten verbinden
+- **Actuele inzichten** in digitale transformatie en Industrie 4.0/5.0
 
-**Need help?** Watch [Nicole van der Hoeven's setup guide](https://www.youtube.com/watch?v=6s6DT1yN4dw&t=227s) or check [[#🚧 Troubleshooting|Troubleshooting]] below.
+De kennisbase volgt de principes van **Personal Knowledge Management** zoals toegepast in Obsidian, met sterke nadruk op **structuur**, **inhoud** en **navigatie**.
 
-## ⚡ Key Features
+## 🗂️ Kennisstructuur
 
-**Content & Editing**:
-- [[Obsidian compatibility|Obsidian]] and [[wikilinks]] support
-- [[full-text search|Search]], [[backlinks]], and [[graph view]]
-- [[features/Latex|LaTeX]], [[syntax highlighting]], [[callouts]]
+### Hoofdcategorieën (Kaarten)
 
-**Performance & UX**:
-- [[SPA Routing|Lightning-fast navigation]] with tiny bundles
-- [[popover previews|Link previews]] and hot-reload
-- [[i18n|Multi-language]] and [[darkmode]] support
+Onze kennisbase is georganiseerd in **thematische kaarten** die elk een specifiek domein dekken:
 
-**Deployment & Customization**:
-- [[Docker Support]] and multiple [[hosting]] options
-- [[creating components|Custom components]] and [[making plugins|plugins]]
-- Full [[configuration]] control
+**🏭 Productie & Processen**
+- [[kaarten/procesoptimalisatie-en-organisatie|Procesoptimalisatie & Organisatie]]
+- [[kaarten/productstructuur-en-documentatie|Productstructuur & Documentatie]]  
+- [[kaarten/programmatie-en-aansturing-productiemiddelen|Programmatie & Aansturing]]
 
-📋 **Browse all features**: [[features/index|Features]] | **Learn more**: [[philosophy|Why Quartz?]] | **Technical details**: [[architecture]]
+**💾 Data & Technologie**
+- [[kaarten/data-collectie-en-industrial-data-platforms|Data-collectie & Industrial Data Platforms]]
+- [[kaarten/event-streaming-messaging-en-integratie|Event Streaming & Messaging]]
+- [[kaarten/industriële-communicatieprotocollen|Industriële Communicatieprotocollen]]
 
-## 🚧 Need Help?
+**🔄 Transformatie & Innovatie** 
+- [[kaarten/digitale-transformatie-en-industrie-40|Digitale Transformatie & Industrie 4.0/5.0]]
+- [[kaarten/innovatie-en-toekomsttrends|Innovatie & Toekomsttrends]]
+- [[kaarten/softwaredeployment-en-architectuur|Software & Architectuur]]
 
-**Common Solutions**:
-1. [[upgrading|Update to latest version]] first
-2. Use the search feature above for your specific issue
-3. Check our [troubleshooting guides](./features/)
+**⚙️ Kwaliteit & Compliance**
+- [[kaarten/kwaliteitsmanagement-en-software|Kwaliteitsmanagement & Software]]
+- [[kaarten/traceerbaarheid-en-productidentificatie|Traceerbaarheid & Productidentificatie]]
+- [[kaarten/duurzaamheid-en-compliance|Duurzaamheid & Compliance]]
 
-**Still stuck?**
-- 🐛 [Report bugs on GitHub](https://github.com/jackyzha0/quartz/issues)
-- 💬 [Join our Discord community](https://discord.gg/cRFFHYye7t)
+> 📋 **Volledige overzicht**: [[kaarten/index|Alle kaarten bekijken]]
+
+## 🚀 Voor Beginners
+
+**Nieuw in industriële digitalisering?** Start hier voor een solide fundament:
+
+### 1. Historische Context 📚
+Begin met het begrijpen van de industriële evolutie:
+- [[industriele-revoluties|Industriële Revoluties]] - Van stoom tot AI: hoe we hier zijn gekomen
+
+### 2. Moderne Architectuur 🏗️
+Leer over de backbone van digitale fabrieken:
+- [[unified-namespace|Unified Namespace (UNS)]] - De centrale informatielaag van Industrie 4.0
+- [[industrie-4.0|Industrie 4.0]] - Connectiviteit en cyber-fysieke systemen
+
+### 3. Transformatiestrategie 🎯
+Verstá hoe organisaties digitaal transformeren:
+- [[digitale-transformatie|Digitale Transformatie]] - Holistische bedrijfsstrategie voor de digitale toekomst
+
+### 4. Kernconcepten 🔧
+Verdiep je in essentiële technologieën:
+- [[industrial-internet-of-things|Industrial IoT (IIoT)]] - Verbonden machines en sensoren
+- [[data-acquisitie|Data Acquisitie (DAQ)]] - Het verzamelen van industriële data  
+- [[manufacturing-execution-system|MES]] - Productiebesturing systemen
+- [[event-gedreven-architectuur|Event-gedreven Architectuur]] - Moderne systeem-communicatie
+
+### 5. Praktische Implementatie 🛠️
+Zie hoe concepten toegepast worden:
+- [[realtime-monitoring|Realtime Monitoring]] - Live inzicht in productieprocessen
+- [[predictive-maintenance|Predictive Maintenance]] - Voorspellend onderhoud
+- [[traceerbaarheidssysteem|Traceerbaarheidssysteem]] - Product- en materialenvolging
+
+## 🧭 Navigatie Tips
+
+- **Gebruik de zoekfunctie** om snel specifieke termen te vinden
+- **Volg de interne links** `[[zoals deze]]` om gerelateerde concepten te ontdekken  
+- **Begin bij kaarten** voor gestructureerd overzicht per thema
+- **Gebruik backlinks** om te zien welke concepten naar elkaar verwijzen
+
+## 🏗️ Technische Details
+
+**Gebouwd met Quartz 4** voor snelle, statische kennissite generatie:
+
+- **Obsidian-compatible** wikilinks en backlinks
+- **Real-time search** voor directe toegang tot informatie
+- **Responsive design** voor desktop en mobile gebruik
+- **Graph visualization** om kennisnetwerken te verkennen
+
+## 📖 Over dit Project
+
+Metaal Kompas is ontwikkeld voor professionals in de metaalindustrie die:
+- Inzicht willen krijgen in digitale transformatie concepten
+- Terminologie willen begrijpen in Nederlandse context
+- Praktische toepassingen zoeken voor hun organisatie
+- Een referentie nodig hebben voor industriële digitalisering
 
 ---
 
-**Ready to start?** → [[#🚀 Quick Start|Begin with Quick Start]] | **Explore examples** → [[showcase]]
+**Klaar om te beginnen?** → [[#🚀 Voor Beginners|Start met de beginner's guide]] | **Verken alle concepten** → [[kaarten/index|Alle kaarten]]

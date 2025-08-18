@@ -335,7 +335,7 @@ Digital Capability Framework
 
 **Strategic Framework:**
 - [[digitale-transformatie|Digitale transformatie]] - Strategische implementatie
-- [[digitale-transformatie-volwassenheidsanalyse|DTMA]] - Strategic assessment tool
+- [[digitale-transformatie-implementatie|DTMA & Implementatie]] - Strategic assessment and execution
 - [[change-management|Change management]] - Organizational transformation
 - [[digital-leadership|Digital leadership]] - Leadership in digital age
 

@@ -2,97 +2,80 @@
 tags:
   - softwaredeployment-en-architectuur
   - digitale-transformatie-en-industrie-40-50
+  - live
 title: ERP als systeemnode
 ---
-*ERP als systeemnode* beschrijft waarom **ERP-systemen onderdeel moeten zijn van een bredere digitale strategie**, niet de centrale spil waar alles omheen draait. Deze benadering is essentieel voor succesvolle digitale transformatie.
+*ERP als systeemnode* beschrijft waarom bedrijfssystemen onderdeel moeten zijn van een bredere digitale architectuur, niet de centrale spil waar alles omheen draait. Deze benadering is essentieel voor succesvolle [[digitale-transformatie|digitale transformatie]] in de metaalindustrie.
 
-## Het grote misverstand
+## Definitie
 
-Veel organisaties maken de fundamentele fout om ERP centraal te zetten in hun digitale strategie. Ze denken dat als hun ERP-systeem up-to-date is, hun digitale transformatie geslaagd is. Dit is een gevaarlijke misconceptie die leidt tot rigide, moeilijk aanpasbare systemen.
+**ERP als systeemnode** betekent dat [[enterprise-resource-planning|ERP-systemen]] functioneren als één van de vele verbonden componenten binnen een [[unified-namespace|Unified Namespace]] architectuur. Het ERP levert en consumeert data via gestandaardiseerde interfaces, parallel aan andere systemen zoals [[manufacturing-execution-system|MES]], SCADA en [[industrial-internet-of-things|IIoT]]-sensoren.
 
-Walker Reynolds waarschuwt expliciet voor deze ERP-centrische benadering in de metalworking industry:
+> [!important] Kernprincipe
+> ERP is een **bedrijfsfunctie**, geen **eigendomssysteem** dat andere componenten dicteert.
 
+Walker Reynolds waarschuwt expliciet voor ERP-centrische benaderingen:
 > "Being ERP-centric is going to give you lots of challenges eventually."
 
-Het probleem is dat ERP-systemen designed zijn als monolithische oplossingen die eigendom claimen over bedrijfsprocessen. In werkelijkheid moet ERP functioneren als één component binnen een groter digitaal ecosysteem.
+## Toepassing
 
-## ERP binnen het grotere geheel
+**Architecturele positionering in metaalfabrieken:**
+- **Node in netwerk**: ERP staat gelijkwaardig naast SCADA, MES en sensor-systemen
+- **Data publisher/consumer**: Publiceert master data (stuklijsten, asset-IDs) en consumeert productiedata
+- **API-first integratie**: Moderne interfaces voor realtime data-uitwisseling
+- **Event-gedreven communicatie**: Reageert op productie-events in plaats van batch-verwerking
 
-In een moderne industriële architectuur staat de [[unified-namespace|Unified Namespace]] centraal, niet het ERP-systeem. Het UNS fungeert als de centrale informatielaag waar alle systemen aan verbonden zijn. ERP wordt daarmee één van de vele nodes die data publiceert naar en consumeert van deze namespace.
+**Timing in [[digitale-transformatie|transformatie-traject]]:**
 
 ```mermaid
-graph TD
-    UN[Unified Namespace]
+timeline
+    title Digitale Transformatie Timeline
     
-    UN --- ERP[ERP Systeem]
-    UN --- CRM[Customer Relationship Management]  
-    UN --- CAM[Computer-Aided Manufacturing]
-    UN --- MES[Manufacturing Execution System]
-    UN --- SCADA[SCADA Systemen]
-    UN --- Sensors[Shopfloor Sensoren]
-    UN --- BI[Business Intelligence Tools]
-    UN --- AI[AI/ML Oplossingen]
+    Jaar 1-2 : Productiedata verzameling
+             : IoT sensoren installatie
+             : Unified Namespace opbouw
     
-    style UN fill:#f96,stroke:#333,stroke-width:2px
-    style ERP fill:#bbf,stroke:#333,stroke-width:1px
+    Jaar 3   : ERP API-integratie
+             : Master data koppeling
+             : Realtime cost tracking
+    
+    Jaar 4-5 : Closed-loop operaties
+             : Supply chain integratie
+             : Autonome besluitvorming
 ```
 
-Deze architectuur zorgt ervoor dat geen enkel systeem dominant wordt. ERP levert waardevolle business informatie, maar het dicteert niet hoe andere systemen moeten opereren of communiceren.
+**Waarom niet als startpunt:**
+- **Top-down faalt**: Bedrijfsmodellen kunnen niet worden afgedwongen op werkvloer
+- **Creëert data-eilanden**: Vermijdt echte systeemintegratie  
+- **Beperkt innovatie**: ERP-first aanpak belemmert flexibele procesoptimalisatie
 
-## Van eigendom naar functie
+**Tesla WARP voorbeeld:**
+Het Tesla WARP-systeem illustreert perfect deze benadering - het is geen traditioneel ERP maar een digitale infrastructuur waarop ERP-functies draaien.
 
-De belangrijkste paradigmashift is om ERP te behandelen als een **bedrijfsfunctie** in plaats van als een **eigendomssysteem**. Dit betekent dat ERP zijn rol vervult binnen de organisatie zonder te bepalen hoe andere systemen werken.
-
-Tesla's WARP-systeem illustreert perfect hoe dit werkt. WARP is geen traditioneel ERP-monoliet, maar een digitale infrastructuur waarop ERP-functies draaien. 
-
-Walker Reynolds legt uit:
+> [!quote] Walker Reynolds over Tesla WARP
 > "WARP is not their ERP system actually. WARP is their digital infrastructure upon which they have ERP functions."
 
-Deze benadering geeft Tesla de flexibiliteit om hun business logic aan te passen zonder gevangen te zitten in vendor-specifieke beperkingen. Ze hebben controle over hun digitale infrastructuur terwijl ze standaard ERP-functionaliteiten gebruiken waar nodig.
+## Verwante termen
 
-## Wat ERP wel bijdraagt
+- [[unified-namespace|Unified Namespace]] - Architecturale context waarin ERP opereert
+- [[enterprise-resource-planning|ERP]] - Bedrijfssoftware voor administratieve processen  
+- [[manufacturing-execution-system|MES]] - Productiebesturing die met ERP integreert
+- [[application-programming-interface|API]] - Technische interfaces voor ERP-koppeling
 
-ERP-systemen hebben zonder twijfel waarde binnen een digitale architectuur. Ze bevatten kritieke bedrijfsinformatie die nodig is voor holistische besluitvorming. Het ERP-systeem weet de structuur van je organisatie, welke producten je maakt, wat de kosten zijn, en hoe processen georganiseerd zijn.
+## Verwante concepten
 
-Deze informatie is essentieel voor AI en ML systemen die optimale beslissingen moeten maken. Een machine learning algoritme dat productie optimaliseert heeft niet alleen sensordata nodig, maar ook financiële context. Wat kost het om deze machine stil te zetten? Wat is de waarde van het product dat geproduceerd wordt? Deze antwoorden komen uit het ERP-systeem.
+- [[digitale-transformatie|Digitale transformatie]] - Strategisch framework waarin ERP past
+- [[event-gedreven-architectuur|Event-gedreven architectuur]] - Communicatiepatroon voor ERP-integratie
+- [[it-ot-convergentie|IT/OT convergentie]] - Verbinding bedrijfs- en productiesystemen
+- [[single-source-of-truth|Single Source of Truth]] - Data-architectuur principes
 
-Het verschil is dat deze informatie beschikbaar moet komen via de [[unified-namespace|Unified Namespace]], niet via directe koppelingen naar het ERP. Het ERP publiceert zijn data naar de namespace, en andere systemen consumeren wat ze nodig hebben. Op deze manier blijft het ERP een waardevolle informatiebron zonder dominant te worden in de architectuur.
+## Bronnen
 
-## Praktische implementatie
-
-Wanneer je een digitale transformatie plant, begin je niet met ERP. Je start met het verbinden van je operationele systemen, het verzamelen van real-time data, en het bouwen van een [[unified-namespace|Unified Namespace]] als centrale informatielaag.
-
-Het ERP-systeem wordt pas relevant wanneer je moderne API's nodig hebt om bedrijfsdata te integreren. Dit gebeurt meestal rond jaar drie van een digitale transformatie traject. Dan upgrade je het ERP niet omdat het de kern van je strategie is, maar omdat je betere interfaces nodig hebt om data te delen.
-
-Walker Reynolds benadrukt dit timing aspect:
-> "ERP upgrades typically come around year 3 of a 3-5 year digital transformation journey"
-
-Deze timing zorgt ervoor dat je ERP-upgrade onderdeel wordt van een bredere strategie, in plaats van de drijvende kracht erachter.
-
-## De uitdaging van real-time profitability
-
-Een van de krachtigste toepassingen van juiste ERP-integratie is real-time profitability tracking. Stel je voor dat je per machine, per shift kunt zien wat de operationele kosten zijn en welke revenue er gegenereerd wordt. Dit geeft een volledig nieuwe dimensie aan productieoptimalisatie.
-
-Traditionele OEE-metingen vertellen je hoe efficiënt een machine draait, maar zeggen niets over de financiële impact. Een machine kan 95% OEE hebben maar tegelijkertijd verlies draaien door hoge energiekosten of dure materialen. Alleen door ERP-data te combineren met operationele data krijg je dit complete beeld.
-
-De uitdaging is dat deze berekeningen moeten gebeuren in real-time, niet achteraf in maandrapportages. Dit vereist dat alle financiële informatie uit het ERP beschikbaar is in je [[unified-namespace|Unified Namespace]], zodat AI-systemen direct kunnen reageren op veranderende profitability.
-
-## Verschillende niveaus, verschillende behoeften
-
-ERP-systemen opereren op verschillende organisatieniveaus, en elk niveau heeft andere informatiebehoefte. Op enterprise niveau gaat het om strategische planning en budgettering. Op plant niveau draait het om dagelijkse operaties en resource-allocatie.
-
-Het probleem ontstaat wanneer één ERP-systeem probeert alle niveaus te bedienen met dezelfde interface. Dit leidt tot compromissen waarbij niemand echt krijgt wat ze nodig hebben. Een betere benadering is om ERP-data beschikbaar te maken via de namespace, zodat elk niveau de informatie kan consumeren op de manier die voor hen het meest nuttig is.
-
-Operators op de werkvloer hebben andere visualisaties nodig dan executives in de boardroom, maar beiden kunnen putten uit dezelfde onderliggende datasets die het ERP-systeem publiceert.
-
-## Gerelateerde begrippen
-
-- [[unified-namespace|Unified Namespace (UNS)]] - Architecturale context
-- [[enterprise-resource-planning|Enterprise Resource Planning (ERP)]] - ERP fundamentals
-- [[digitale-transformatie|Digitale transformatie]] - Strategic framework
-- [[event-gedreven-architectuur|Event-gedreven architectuur]] - Communication patterns
-- [[manufacturing-execution-system|Manufacturing Execution System (MES)]] - Production coordination
-- [[single-source-of-truth|Single Source of Truth (SSOT)]] - Data architecture principles
+- Walker Reynolds - "Digital Transformation does NOT start with ERP"
+- Tesla Manufacturing System - WARP als voorbeeld van digitale infrastructuur
+- Industry 4.0 Platform - ERP-integratie best practices
+- Aberdeen Group - "ERP and Digital Transformation" research
+- Gartner - "ERP Modernization for Digital Business"
 
 ---
 ← Terug naar [[kaarten/softwaredeployment-en-architectuur|Softwaredeployment & Architectuur kaart]]

@@ -1,64 +1,62 @@
 ---
-tags: []
-title: Digitale Transformatie & AI in de Maakindustrie
-description: Naslagwerk van Luke van Enkhuizen voor de metaal- en maakindustrie. Begrippen, technologieën en trends rond digitalisering en AI, bedoeld als kompas voor ondernemers en professionals.
+tags: 
+title: 🧭 Metaal Kompas
+description: Kenniscompas voor digitale transformatie in de metaalindustrie
 ---
-## Welkom bij **Kompas** – jouw interactieve naslagwerk voor de **metaal- en maakindustrie**!
+*Kenniscompas voor digitale transformatie in de metaalindustrie*
 
-Dit project is ontwikkeld door **Luke van Enkhuizen** en vormt een kennisbron die hij inzet in zijn **consultancy, seminars en video’s**.  
-
-Het doel van Kompas is simpel: **begrippen helder houden** en je helpen de juiste richting te vinden in de wereld van **digitale transformatie** en **kunstmatige intelligentie (AI)** binnen de industrie.
+Welkom bij **Metaal Kompas** – een kennisbase die industriële begrippen helder definieert voor digitale transformatie in de metaalbewerkende industrie.
 
 ---
 
-## Hoe gebruik je dit Kompas?
-- 🔎 **Zoeken** – gebruik de zoekfunctie rechtsboven  
-- 🗂 **Kaarten** – navigeer via thema’s of bekijk het volledige [[kaarten|overzicht]]  
-- 🔗 **Verwijzingen** – elke notitie linkt door naar gerelateerde begrippen  
+## 🚀 Voor Beginners
+
+**Nieuw in industriële digitalisering?** Start hier:
+
+1. [[industriele-revoluties|Industriële Revoluties]] - Historische context van stoom tot AI
+2. [[unified-namespace|Unified Namespace]] - Moderne data-architectuur  
+3. [[digitale-transformatie|Digitale Transformatie]] - Strategische implementatie
+4. [[industrie-4.0|Industrie 4.0]] - Connectiviteit en cyber-fysieke systemen
 
 ---
 
->[!tip] Deze site is nog in ontwikkeling. [Je kunt alle 'live' artikelen hier vinden.](tags/live)
+## 📋 Kenniskaarten
 
-## Kaarten – Thema’s
+**Thematische overzichten per vakgebied:**
 
-### Digitale transformatie & technologie
-- [[digitale-transformatie-en-industrie-40|Digitale transformatie & Industrie 4.0/5.0]]
-- [[softwaremodules-en-integratie|Softwaremodules & integratie]]  
-- [[softwaredeployment-en-architectuur|Software-uitrol & architectuur]]
-- [[data-collectie-en-industrial-data-platforms|Dataverzameling & industriële dataplatforms]]
+### 🏭 Productie & Processen
+- [[kaarten/procesoptimalisatie-en-organisatie|Procesoptimalisatie & Organisatie]]
+- [[kaarten/productstructuur-en-documentatie|Productstructuur & Documentatie]]
+- [[kaarten/programmatie-en-aansturing-productiemiddelen|Programmatie & Aansturing]]
+- [[kaarten/traceerbaarheid-en-productidentificatie|Traceerbaarheid & Productidentificatie]]
 
-### Procesverbetering & organisatie
-- [[procesoptimalisatie-en-organisatie|Procesverbetering & organisatie]]
-- [[productstructuur-en-documentatie|Productstructuur & documentatie]]
-- [[traceerbaarheid-en-productidentificatie|Traceerbaarheid & productidentificatie]]
-- [[programmatie-en-aansturing-productiemiddelen|Programmering & aansturing productiemiddelen]]
+### 💾 Data & Technologie
+- [[kaarten/data-collectie-en-industrial-data-platforms|Data-collectie & Industrial Data Platforms]]
+- [[kaarten/event-streaming-messaging-en-integratie|Event Streaming & Messaging]]
+- [[kaarten/industriële-communicatieprotocollen|Industriële Communicatieprotocollen]]
+- [[kaarten/data-analyse-en-business-intelligence|Data-analyse & Business Intelligence]]
 
-### Data & kwaliteit
-- [[data-analyse-en-business-intelligence|Data-analyse & bedrijfsinformatie]]
-- [[kwaliteitsmanagement-en-software|Kwaliteitsbeheer & software]]
-- [[lasnormen-en-certificering|Lasnormen & certificering]]
+### 🔄 Transformatie & Innovatie
+- [[kaarten/digitale-transformatie-en-industrie-40|Digitale Transformatie & Industrie 4.0/5.0]]
+- [[kaarten/innovatie-en-toekomsttrends|Innovatie & Toekomsttrends]]
+- [[kaarten/softwaredeployment-en-architectuur|Software & Architectuur]]
+- [[kaarten/softwaremodules-en-integratie|Softwaremodules & Integratie]]
 
-### Communicatie & integratie
-- [[industriële-communicatieprotocollen|Industriële communicatieprotocollen]]
-- [[event-streaming-messaging-en-integratie|Gebeurtenisstromen, berichten & integratie]]
+### ⚙️ Kwaliteit & Compliance
+- [[kaarten/kwaliteitsmanagement-en-software|Kwaliteitsmanagement & Software]]
+- [[kaarten/lasnormen-en-certificering|Lasnormen & Certificering]]
+- [[kaarten/duurzaamheid-en-compliance|Duurzaamheid & Compliance]]
 
-### Duurzaamheid & beveiliging
-- [[duurzaamheid-en-compliance|Duurzaamheid & regelgeving]]
-- [[extra-industrie-en-security-topics|Beveiliging & IT/OT]]
-
-### Innovatie
-- [[innovatie-en-toekomsttrends|Innovatie & toekomsttrends]]
-
----
-
-## Over deze kenniskluis
-**Kompas** is een **levend document**: begrippen en thema’s worden continu aangevuld en verbeterd.  
-Het groeit mee met de ontwikkelingen in de maakindustrie, zodat je altijd actueel blijft.
+### 🛡️ Security & Methodologie
+- [[kaarten/extra-industrie-en-security-topics|Security & IT/OT]]
+- [[kaarten/methodologie-en-werkwijzen|Methodologie & Werkwijzen]]
 
 ---
 
-## Meer informatie
+**Volledig overzicht:** [[kaarten/index|Alle kaarten →]]
+
+---
+
 **Auteur:** Luke van Enkhuizen  
 🌐 [vanenkhuizen.com](https://vanenkhuizen.com)  
-📧 info@vanenkhuizen.com  
+📧 info@vanenkhuizen.com

@@ -3,46 +3,86 @@ tags:
   - 'kaarten'
   - 'overzicht'
   - 'navigatie'
-  - '🧹draft'
+  - 'live'
 
-title: Overzicht van alle kaarten
+title: Kenniskaarten Overzicht
 ---
-Deze pagina biedt toegang tot alle kaarten die de begrippen uit Kompas ordenen per vakgebied.
 
-## Digitale transformatie & technologie
+# 🗂️ Kenniskaarten Overzicht
 
-- [[digitale-transformatie-en-industrie-40|Digitale transformatie & Industrie 4.0/5.0]]
-- [[softwaremodules-en-integratie|Softwaremodules & integratie]]  
-- [[softwaredeployment-en-architectuur|Software-uitrol & architectuur]]
-- [[data-collectie-en-industrial-data-platforms|Dataverzameling & industriële dataplatforms]]
+Welkom bij het centrale overzicht van alle **Metaal Kompas kenniskaarten**. Elke kaart organiseert gerelateerde begrippen binnen een specifiek domein van industriële digitalisering.
 
-## Procesverbetering & organisatie
+> **Nieuw hier?** Start met de [[../industriele-revoluties|Industriële Revoluties]] om de historische context te begrijpen, ga dan naar [[../unified-namespace|Unified Namespace]] voor moderne architectuur.
 
-- [[procesoptimalisatie-en-organisatie|Procesverbetering & organisatie]]
-- [[productstructuur-en-documentatie|Productstructuur & documentatie]]
-- [[traceerbaarheid-en-productidentificatie|Traceerbaarheid & productidentificatie]]
-- [[programmatie-en-aansturing-productiemiddelen|Programmering & aansturing productiemiddelen]]
+---
 
-## Data & kwaliteit
+## 🏭 **Productie & Processen**
+*Operationele excellence en productie-efficiëntie*
 
-- [[data-analyse-en-business-intelligence|Data-analyse & bedrijfsinformatie]]
-- [[kwaliteitsmanagement-en-software|Kwaliteitsbeheer & software]]
-- [[lasnormen-en-certificering|Lasnormen & certificering]]
+- [[procesoptimalisatie-en-organisatie|**Procesoptimalisatie & Organisatie**]] - Lean, Six Sigma, continue verbetering
+- [[productstructuur-en-documentatie|**Productstructuur & Documentatie**]] - BOM-beheer, technische documentatie  
+- [[programmatie-en-aansturing-productiemiddelen|**Programmatie & Aansturing**]] - CNC, robotica, PLC-programmering
+- [[traceerbaarheid-en-productidentificatie|**Traceerbaarheid & Productidentificatie**]] - Track & trace, RFID, barcoding
 
-## Communicatie & integratie
+---
 
-- [[industriële-communicatieprotocollen|Industriële communicatieprotocollen]]
-- [[event-streaming-messaging-en-integratie|Gebeurtenisstromen, berichten & integratie]]
+## 💾 **Data & Technologie** 
+*Digitale backbone van moderne productie*
 
-## Duurzaamheid & beveiliging
+- [[data-collectie-en-industrial-data-platforms|**Data-collectie & Industrial Data Platforms**]] ⭐ - Sensoren, DAQ, historians
+- [[event-streaming-messaging-en-integratie|**Event Streaming & Messaging**]] ⭐ - MQTT, Kafka, pub/sub architectuur
+- [[industriële-communicatieprotocollen|**Industriële Communicatieprotocollen**]] - OPC UA, Modbus, HTTP/HTTPS
+- [[data-analyse-en-business-intelligence|**Data-analyse & Business Intelligence**]] - Analytics, dashboards, reporting
 
-- [[duurzaamheid-en-compliance|Duurzaamheid & regelgeving]]
-- [[extra-industrie-en-security-topics|Beveiliging & IT/OT]]
+---
 
-## Innovatie & methodologie
+## 🔄 **Transformatie & Innovatie**
+*Digitale transformatie en toekomsttechnologieën*
 
-- [[innovatie-en-toekomsttrends|Innovatie & toekomsttrends]]
-- [[methodologie-en-werkwijzen|Methodologie & werkwijzen]]
+- [[digitale-transformatie-en-industrie-40|**Digitale Transformatie & Industrie 4.0/5.0**]] ⭐ - Strategie, implementatie, roadmaps
+- [[innovatie-en-toekomsttrends|**Innovatie & Toekomsttrends**]] - AI, blockchain, quantum computing
+- [[softwaredeployment-en-architectuur|**Software & Architectuur**]] - Cloud, microservices, containers
+- [[softwaremodules-en-integratie|**Softwaremodules & Integratie**]] - ERP, MES, API's
+
+---
+
+## ⚙️ **Kwaliteit & Compliance**
+*Kwaliteitsborging en regelgeving*
+
+- [[kwaliteitsmanagement-en-software|**Kwaliteitsmanagement & Software**]] - QMS, SPC, ISO normen
+- [[lasnormen-en-certificering|**Lasnormen & Certificering**]] - Laskwalificaties, procedures
+- [[duurzaamheid-en-compliance|**Duurzaamheid & Compliance**]] - ESG, circulaire economie, regelgeving
+- [[extra-industrie-en-security-topics|**Security & IT/OT**]] - Cybersecurity, netwerken, beveiliging
+
+---
+
+## 🛠️ **Methodologie & Werkwijzen**
+*Bewezen methodieken en best practices*
+
+- [[methodologie-en-werkwijzen|**Methodologie & Werkwijzen**]] - Agile, DevOps, change management
+
+---
+
+## 🧭 Navigatie Tips
+
+### Voor Beginners
+1. **Start** → [[../industriele-revoluties|Industriële Revoluties]]
+2. **Architectuur** → [[../unified-namespace|Unified Namespace]]  
+3. **Strategie** → [[../digitale-transformatie|Digitale Transformatie]]
+
+### Voor Techneuten  
+1. **Data Infrastructuur** → [[data-collectie-en-industrial-data-platforms|Data-collectie & Platforms]]
+2. **Communicatie** → [[industriële-communicatieprotocollen|Communicatieprotocollen]]
+3. **Event Processing** → [[event-streaming-messaging-en-integratie|Event Streaming]]
+
+### Voor Management
+1. **Transformatie** → [[digitale-transformatie-en-industrie-40|Digitale Transformatie]]
+2. **Processen** → [[procesoptimalisatie-en-organisatie|Procesoptimalisatie]]
+3. **Kwaliteit** → [[kwaliteitsmanagement-en-software|Kwaliteitsmanagement]]
+
+---
+
+⭐ = **Kernkaarten** voor digitale transformatie
 
 ---
 

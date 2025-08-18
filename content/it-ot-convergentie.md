@@ -9,7 +9,12 @@ title: IT/OT‑convergentie
 
 ## Definitie
 
-[PLACEHOLDER - Definitie wordt later toegevoegd]
+**IT/OT-convergentie** is het proces waarbij informatiesystemen (IT) en industriële besturingssystemen (OT) worden samengevoegd tot één geïntegreerde digitale infrastructuur. In de metaalindustrie betekent dit dat kantoor-systemen zoals [[enterprise-resource-planning|ERP]] en productiesystemen zoals [[manufacturing-execution-system|MES]] en [[scada|SCADA]] via gestandaardiseerde interfaces communiceren.
+
+> [!important] Kernprincipe
+> IT/OT-convergentie maakt **realtime data-uitwisseling** mogelijk tussen productievloer en bedrijfsvoering voor snellere besluitvorming.
+
+De convergentie wordt mogelijk gemaakt door [[unified-namespace|Unified Namespace]] architecturen die als gemeenschappelijke databus fungeren tussen verschillende technologiedomeinen.
 
 ## Kenmerken
 

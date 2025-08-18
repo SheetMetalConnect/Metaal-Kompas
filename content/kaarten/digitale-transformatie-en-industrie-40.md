@@ -1,17 +1,25 @@
 ---
 tags:
-  - 'kaart'
-  - 'moc'
-  - 'digitale-transformatie-en-industrie-40-50'
-  - '🧹draft'
-
+  - kaart
+  - moc
+  - digitale-transformatie-en-industrie-40-50
+  - live
 title: Digitale transformatie & Industrie 4.0/5.0
 ---
-Deze kaart biedt een overzicht van alle begrippen binnen **digitale transformatie & industrie 4.0
 
-Vergeet niet dat we ook nu al industrie 5.0 hebben: - [[industrie-5.0|Industrie 5.0]]
+> [!abstract] Overzicht
+> Complete gids voor digitale transformatie in de metaalindustrie - van strategie tot implementatie
 
-## Begrippen
+Deze kaart biedt een overzicht van alle begrippen binnen **digitale transformatie & industrie 4.0/5.0**.
+
+> [!info] Industrie 5.0
+> We bevinden ons nu in het tijdperk van [[industrie-5.0|Industrie 5.0]] - mens-centrische, duurzame en veerkrachtige productie.
+
+## 🎯 Strategische Fundamenten
+
+**Transformatie-aanpak:**
+- [[digitale-transformatie-implementatie|Digitale transformatie implementatie]] - ⭐ **Volledige implementatiegids met DTMA**
+- [[erp-als-systeemnode|ERP als systeemnode]] - ⭐ **Juiste positionering bedrijfssystemen**
 
 **De basis:**
 - [[digitale-transformatie|Digitale transformatie]]
@@ -50,12 +58,16 @@ Vergeet niet dat we ook nu al industrie 5.0 hebben: - [[industrie-5.0|Industrie 
 - [[lights-out-manufacturing|Lights‑out manufacturing]]
 
 **Assessment & Strategy:**
-- [[digitale-transformatie-volwassenheidsanalyse|Digitale Transformatie Volwassenheidsanalyse (DTMA)]] - Maturity assessment
+- [[digitale-transformatie-implementatie|DTMA & Implementatie]] - ⭐ **Volwassenheidsanalyse en praktische uitvoering**
 
-## UNS & Digital Thread
+## 🔗 Digital Thread & Connectiviteit
 
-**Digital Transformation concepten gerelateerd aan UNS:**
+> [!success] UNS-gebaseerde transformatie
+> [[unified-namespace|Unified Namespace]] vormt de ruggengraat van succesvolle digitale transformatie
+
+**Digital Transformation concepten:**
 - [[digital-thread|Digital Thread]] - ⭐ **Lifecycle-connectiviteit via UNS**
+- [[it-ot-convergentie|IT/OT convergentie]] - Verbinding bedrijfs- en productiesystemen
 
 ## Gerelateerde kaarten
 
