@@ -95,7 +95,7 @@ Maintenance_Request → Event_Stream → [Planning, Inventory, Operators]
 
 ## Bronnen
 
-[PLACEHOLDER - Bronnen worden later toegevoegd]
+- Martin Fowler - Event-Driven Architecture articles\n- AWS Well-Architected Framework - Event-driven architectures\n- Microsoft Azure Architecture Center - Event-driven architecture style\n- O'Reilly - Building Event-Driven Microservices\n- Apache Kafka documentation - Event streaming patterns\n- Enterprise Integration Patterns by Gregor Hohpe\n- Event Storming methodology by Alberto Brandolini
 
 ---
 ← Terug naar [[kaarten/event-streaming-messaging-en-integratie|Event streaming, messaging & integratie kaart]]

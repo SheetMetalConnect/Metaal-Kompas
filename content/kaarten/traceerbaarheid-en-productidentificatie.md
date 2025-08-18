@@ -25,7 +25,9 @@ Deze kaart biedt een overzicht van alle begrippen binnen **traceerbaarheid & pro
 
 ## Gerelateerde kaarten
 
-[PLACEHOLDER - Links naar gerelateerde kaarten worden later toegevoegd]
+- [[kaarten/data-collectie-en-industrial-data-platforms|Data‑collectie & Industrial Data Platforms]] - Voor datacapture en opslag van traceabiliteitsgegevens
+- [[kaarten/kwaliteitsmanagement-en-software|Kwaliteitsmanagement & Software]] - Voor kwaliteitsborging en compliance
+- [[kaarten/productstructuur-en-documentatie|Productstructuur & Documentatie]] - Voor BOM-beheer en documentkoppeling
 
 ---
 ← Terug naar [[kaarten/index|Overzicht van alle kaarten]] | [[index|Kompas hoofdpagina]]

@@ -38,7 +38,9 @@ Deze kaart biedt een overzicht van alle begrippen binnen **data‑collectie & in
 
 ## Gerelateerde kaarten
 
-[PLACEHOLDER - Links naar gerelateerde kaarten worden later toegevoegd]
+- [[kaarten/traceerbaarheid-en-productidentificatie|Traceerbaarheid & Productidentificatie]] - Voor identificatie en volging van producten en batches
+- [[kaarten/event-streaming-messaging-en-integratie|Event Streaming, Messaging & Integratie]] - Voor realtime datauitwisseling
+- [[kaarten/data-analyse-en-business-intelligence|Data‑analyse & Business Intelligence]] - Voor analyse van verzamelde industriële data
 
 ---
 ← Terug naar [[kaarten/index|Overzicht van alle kaarten]] | [[index|Kompas hoofdpagina]]

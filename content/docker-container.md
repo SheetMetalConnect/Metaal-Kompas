@@ -13,19 +13,52 @@ title: Docker‑container
 
 ## Kenmerken
 
-[PLACEHOLDER - Kenmerken worden later toegevoegd]
+- **Portabiliteit**: "Write once, run anywhere" - draait op elke Docker-compatibele omgeving
+- **Isolatie**: Applicaties draaien geïsoleerd van de host en andere containers
+- **Lichtgewicht**: Delen het OS kernel, waardoor ze veel minder resources gebruiken dan VM's
+- **Consistentie**: Identiek gedrag in development, test en productie omgevingen
+- **Snelheid**: Opstarten in seconden door het delen van het OS kernel
+- **Versionering**: Image-gebaseerd systeem met tageerbaarheid en rollback mogelijkheden
+- **Reproduceerbaar**: Deterministische builds door gebruik van Dockerfiles
 
 ## Toepassing
 
-[PLACEHOLDER - Toepassingen worden later toegevoegd]
+**Industriële automatisering:**
+- **Edge computing**: Deployment van industriële applicaties op edge-devices
+- [[mqtt-broker|MQTT brokers]]: Containerized messaging voor [[unified-namespace|UNS]] architecturen
+- **Data collectors**: Geïsoleerde data-acquisitie services voor [[historian-database|historian databases]]
+- **HMI applicaties**: Web-based operator interfaces in containers
+
+**Manufacturing execution:**
+- [[manufacturing-execution-system|MES]] microservices: Modulaire productiebesturing
+- **OPC servers**: Containerized [[opc-server|OPC UA]] connectiviteit
+- **Workflow engines**: Geautomatiseerde productieprocessen in containers
+- **Quality systems**: [[statistical-process-control-software|SPC]] en kwaliteitsapplicaties
+
+**Development en deployment:**
+- **DevOps pipelines**: Gestandaardiseerde deployment via [[ci-cd-pijplijn|CI/CD]]
+- **Microservices architectuur**: Service-gebaseerde industriële applicaties
+- **Hybrid cloud**: Consistente deployment tussen [[on-premises-software|on-premises]] en cloud
 
 ## Gerelateerde begrippen
 
-[PLACEHOLDER - Gerelateerde begrippen worden later toegevoegd]
+- [[containertechnologie|Containertechnologie]] - Overkoepelende containerization concepten
+- [[docker-compose|Docker Compose]] - Multi-container applicatie orchestratie
+- [[kubernetes|Kubernetes]] - Container orchestratie platform
+- [[portainer|Portainer]] - Grafische container management interface
+- [[helm-charts|Helm Charts]] - Kubernetes package management
+- [[ci-cd-pijplijn|CI/CD Pipeline]] - Geautomatiseerde container deployment
+- [[cloud-native-applicatie|Cloud-native applicatie]] - Voor cloud-geoptimaliseerde architectuur
+- [[unified-namespace|Unified Namespace]] - Vaak geïmplementeerd met containerized services
 
 ## Bronnen
 
-[PLACEHOLDER - Bronnen worden later toegevoegd]
+- Docker Official Documentation
+- CNCF (Cloud Native Computing Foundation) guidelines
+- Kubernetes container best practices
+- Industrial IoT container deployment patterns
+- Red Hat OpenShift container platform documentation
+- NVIDIA container runtime for industrial AI workloads
 
 ---
 ← Terug naar [[kaarten/softwaredeployment-en-architectuur|Softwaredeployment & Architectuur kaart]]

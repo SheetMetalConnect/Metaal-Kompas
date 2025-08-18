@@ -69,8 +69,6 @@ Walker Reynolds benadrukt een cruciaal misconceptie:
 
 ## Het 7-Stappen Framework
 
-![](https://www.youtube.com/watch?v=5cMqL9oUk_Y)
-
 ### Fase 1: Architectuur Ontwikkeling (3-5 jaar)
 
 #### Stappen 1-5: Connect, Collect, Store, Analyze, Visualize

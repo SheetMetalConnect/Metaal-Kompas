@@ -54,7 +54,7 @@ Deze kaart biedt een overzicht van alle begrippen binnen **procesoptimalisatie &
 
 ## Gerelateerde kaarten
 
-[PLACEHOLDER - Links naar gerelateerde kaarten worden later toegevoegd]
+- [[kaarten/kwaliteitsmanagement-en-software|Kwaliteitsmanagement & Software]] - Voor Six Sigma en kwaliteitstools integratie\n- [[kaarten/data-analyse-en-business-intelligence|Data‑analyse & Business Intelligence]] - Voor OEE monitoring en procesanalyse\n- [[kaarten/digitale-transformatie-en-industrie-40|Digitale transformatie]] - Voor smart manufacturing implementatie\n- [[kaarten/methodologie-en-werkwijzen|Methodologie & Werkwijzen]] - Voor engineering proces optimalisatie
 
 ---
 ← Terug naar [[kaarten/index|Overzicht van alle kaarten]] | [[index|Kompas hoofdpagina]]

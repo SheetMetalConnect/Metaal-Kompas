@@ -23,7 +23,7 @@ Deze kaart biedt een overzicht van alle begrippen binnen **lasnormen & certifice
 
 ## Gerelateerde kaarten
 
-[PLACEHOLDER - Links naar gerelateerde kaarten worden later toegevoegd]
+- [[kaarten/kwaliteitsmanagement-en-software|Kwaliteitsmanagement & Software]] - Voor laskwaliteitssystemen en SPC\n- [[kaarten/traceerbaarheid-en-productidentificatie|Traceerbaarheid & Productidentificatie]] - Voor WPS en lasser tracking\n- [[kaarten/duurzaamheid-en-compliance|Duurzaamheid & Compliance]] - Voor regelgeving en certificering\n- [[kaarten/productstructuur-en-documentatie|Productstructuur & Documentatie]] - Voor lasdocumentatie en BOM integration
 
 ---
 ← Terug naar [[kaarten/index|Overzicht van alle kaarten]] | [[index|Kompas hoofdpagina]]

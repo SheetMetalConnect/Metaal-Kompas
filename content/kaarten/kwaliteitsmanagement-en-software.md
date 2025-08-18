@@ -34,7 +34,10 @@ Deze kaart biedt een overzicht van alle begrippen binnen **kwaliteitsmanagement 
 
 ## Gerelateerde kaarten
 
-[PLACEHOLDER - Links naar gerelateerde kaarten worden later toegevoegd]
+- [[kaarten/traceerbaarheid-en-productidentificatie|Traceerbaarheid & Productidentificatie]] - Voor productkwaliteit en compliance
+- [[kaarten/lasnormen-en-certificering|Lasnormen & Certificering]] - Voor gespecialiseerde laskwaliteit
+- [[kaarten/duurzaamheid-en-compliance|Duurzaamheid & Compliance]] - Voor bredere compliance-aspecten
+- [[kaarten/data-analyse-en-business-intelligence|Data‑analyse & Business Intelligence]] - Voor kwaliteitsdataanalyse
 
 ---
 ← Terug naar [[kaarten/index|Overzicht van alle kaarten]] | [[index|Kompas hoofdpagina]]

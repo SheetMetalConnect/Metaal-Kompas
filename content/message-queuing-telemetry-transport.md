@@ -173,7 +173,7 @@ Edge Level:
 
 ## Bronnen
 
-[PLACEHOLDER - Bronnen worden later toegevoegd]
+- MQTT Version 5.0 Specification (OASIS Standard)\n- MQTT Sparkplug Specification v3.0\n- Eclipse Mosquitto - Open source MQTT broker\n- Eclipse Paho - MQTT client libraries\n- HiveMQ - Enterprise MQTT platform documentation\n- AWS IoT Core - MQTT service documentation\n- Industrial Internet Consortium MQTT best practices
 
 ---
 ← Terug naar [[kaarten/industriële-communicatieprotocollen|Industriële communicatieprotocollen kaart]]
