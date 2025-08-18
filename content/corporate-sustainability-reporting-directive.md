@@ -7,6 +7,8 @@ title: Corporate Sustainability Reporting Directive (CSRD)
 ---
 *Corporate Sustainability Reporting Directive (CSRD)* is een Europese richtlijn die bedrijven verplicht uitgebreid te rapporteren over hun duurzaamheidsprestaties. Het doel is om de transparantie te vergroten en duurzame bedrijfsvoering te stimuleren.
 
+>[!warning] Disclaimer: dit is een praktische gids, geen juridische informatie. Check altijd nationale bronnen en overweeg professioneel advies bij geschillen.
+
 ## Definitie
 
 De **Corporate Sustainability Reporting Directive (CSRD)** is een wetgevingskader van de Europese Unie dat de regels voor niet-financiële rapportage aanscherpt en uitbreidt. Het verplicht een breed scala aan bedrijven om gedetailleerde informatie te publiceren over hun impact op mens en milieu, en over hoe duurzaamheidsfactoren hun eigen bedrijfsvoering beïnvloeden. De CSRD vervangt de eerdere Non-Financial Reporting Directive (NFRD) en heeft als doel de kwaliteit en vergelijkbaarheid van duurzaamheidsinformatie te verbeteren.

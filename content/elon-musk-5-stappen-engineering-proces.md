@@ -1,7 +1,7 @@
 ---
 tags:
   - 'procesoptimalisatie-en-organisatie'
-  - '🧹draft'
+  - 'live'
 
 title: Elon Musk's 5-Stappen Engineering Proces
 ---

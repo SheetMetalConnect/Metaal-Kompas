@@ -3,7 +3,7 @@ tags:
   - 'kaart'
   - 'moc'
   - 'procesoptimalisatie-en-organisatie'
-  - '🧹draft'
+  - 'live'
 
 title: Procesoptimalisatie & Organisatie
 ---

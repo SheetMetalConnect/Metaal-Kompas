@@ -37,7 +37,7 @@ De Europese Green Deal omvat een breed scala aan beleidsgebieden en initiatieven
 - **Hernieuwbare Energie**: Versnelling van de uitrol van hernieuwbare energiebronnen en verbetering van energie-efficiëntie.
 - **Duurzaam Transport**: Stimulering van emissievrij transport, uitbreiding van laadinfrastructuur en bevordering van duurzame brandstoffen.
 
-### 6. Nulvervuiling Actieplan
+### 6. Nul-vervuiling Actieplan
 - **Lucht, Water en Bodem**: Doelstellingen om vervuiling van lucht, water en bodem te verminderen tot niveaus die niet langer schadelijk zijn voor de menselijke gezondheid en ecosystemen.
 
 ## Toepassing

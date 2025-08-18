@@ -2,6 +2,7 @@
 title: Overzicht van de impact van EU-regelgeving (DPP, CBAM, CSRD, EU ETS)
 tags:
   - duurzaamheid-en-compliance
+  - live
 ---
 _Een overzicht van hoe Europese duurzaamheidsregels de maakindustrie raken – met focus op metaalbewerking (lassen, snijden, verspanen, vormen, coatings, assemblage)._  
 

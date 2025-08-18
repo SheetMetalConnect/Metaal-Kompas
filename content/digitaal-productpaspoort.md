@@ -11,8 +11,7 @@ title: Digitaal productpaspoort (DPP)
 
 Het **Digitaal Productpaspoort (DPP)** is een initiatief van de Europese Unie, geïntroduceerd onder de [[ecodesign-richtlijn|Ecodesign for Sustainable Products Regulation (ESPR)]]. Het is een elektronisch document dat productgerelateerde informatie verzamelt, beheert en deelt over de gehele levenscyclus van een product. Het hoofddoel is het vergroten van transparantie en traceerbaarheid, om zo de transitie naar een [[circulaire-economie|circulaire economie]] te ondersteunen en duurzame consumptie en productie te stimuleren.
 
->[!info] Context
->Het DPP bouwt voort op het bredere concept van een [[productpaspoort|productpaspoort]], maar is specifiek gericht op de wettelijke vereisten en implementatiestandaarden die door de EU worden vastgesteld.
+>[!info] Context: Het DPP bouwt voort op het bredere concept van een [[productpaspoort|productpaspoort]], maar is specifiek gericht op de wettelijke vereisten en implementatiestandaarden die door de EU worden vastgesteld.
 
 ## Kenmerken
 
@@ -70,13 +69,6 @@ Het Digitaal Productpaspoort heeft een brede impact en diverse toepassingen, met
 - [[traceerbaarheidssysteem|Traceerbaarheidssysteem]]
 - [[uitgebreide-producentenverantwoordelijkheid|Uitgebreide producentenverantwoordelijkheid (EPR)]]
 - [[reach-verordening|REACH-verordening]]
-
-## Bronnen
-
-- **Europese Commissie**: Officiële documenten en voorstellen met betrekking tot de Ecodesign for Sustainable Products Regulation (ESPR) en het Digitaal Productpaspoort. [Link naar officiële EU-pagina's over ESPR en DPP]
-- **Impact per bedrijfsgrootte EU**: Zie ook de specifieke impactanalyse voor staalverwerkende bedrijven in [[impact-per-bedrijfsgrootte-eu]].
-- **Ellen MacArthur Foundation**: Publicaties en initiatieven ter bevordering van de circulaire economie, waarin productpaspoorten een cruciale rol spelen. [Link naar Ellen MacArthur Foundation]
-- **World Economic Forum**: Rapporten over de rol van digitale technologieën in duurzaamheid en de circulaire economie. [Link naar World Economic Forum]
 
 ---
 ← Terug naar [[kaarten/duurzaamheid-en-compliance|Duurzaamheid & Compliance kaart]]

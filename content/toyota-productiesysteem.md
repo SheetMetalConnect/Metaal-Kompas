@@ -1,7 +1,7 @@
 ---
 tags:
   - 'procesoptimalisatie-en-organisatie'
-  - '🧹draft'
+  - 'live'
 
 title: Toyota Productiesysteem (TPS)
 ---
