@@ -1,8 +1,7 @@
 ---
 tags:
-  - 'innovatie-en-toekomsttrends'
-  - '🧹draft'
-
+  - innovatie-en-toekomsttrends
+  - live
 title: Industrie 3.0 - De Computerrevolutie
 ---
 *Industrie 3.0* markeert de overgang van analoge en elektromechanische automatisering naar **digitale computerbesturing**. Deze derde industriële revolutie begon eind jaren ’60 en zette zich voort in de jaren ’70 en ’80, aangedreven door de introductie van de **PLC**, de doorbraak van **CNC-machines** en de verspreiding van **computers in productieprocessen**.  
@@ -22,7 +21,7 @@ Deze innovaties maakten de fabriek slimmer, flexibeler en veel meer programmeerb
 ## Kenmerken van Industrie 3.0
 
 ### Digitale automatisering
-Waar Industrie 2.0 draaide om massaproductie met elektriciteit en lopende banden, maakte 3.0 productie **configureerbaar via software**. Omschakelen naar een ander product vergde geen nieuwe machines, maar een ander programma.  
+Waar [[industrie-2.0]] draaide om massaproductie met elektriciteit en lopende banden, maakte 3.0 productie **configureerbaar via software**. Omschakelen naar een ander product vergde geen nieuwe machines, maar een ander programma.  
 
 ### Automatisering in silo’s
 De verschillende systemen – PLC’s, CNC-machines, SCADA, vroege robots – werkten vaak los van elkaar. Data werd lokaal opgeslagen en bleef opgesloten in propriëtaire formaten. Integratie tussen productie, planning of administratie was zeldzaam.  

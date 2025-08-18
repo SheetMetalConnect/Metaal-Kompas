@@ -3,7 +3,7 @@ tags:
   - 'kaart'
   - 'moc'
   - 'duurzaamheid-en-compliance'
-  - '🧹draft'
+  - 'live'
 
 title: Duurzaamheid & Compliance
 ---

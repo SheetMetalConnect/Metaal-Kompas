@@ -11,6 +11,8 @@ title: Computervisie (computer vision)
 
 **Computervisie (computer vision)** stelt computers in staat om digitale beelden en video's te interpreteren en te begrijpen. Het gebruikt AI-algoritmes om objecten te detecteren, kenmerken te extraheren en visuele data te analyseren voor toepassingen zoals kwaliteitscontrole en defectdetectie.
 
+Het kan ook wijzen naar patroonherkenning zoals Machine Learning. Bijvoorbeeld in herkenning van afwijkingen van productie. 
+
 ## Kenmerken
 
 [PLACEHOLDER - Kenmerken worden later toegevoegd]

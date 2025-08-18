@@ -12,6 +12,7 @@ title: Containertechnologie
 **Containertechnologie** verpakt applicaties met alle benodigde dependencies in draagbare, lichtgewicht containers die consistent draaien op verschillende omgevingen. Het enables snelle deployment, schaalbaarheid en resource-efficiëntie voor moderne applicaties.
 
 ## Kenmerken
+- Systemen zoals Portainer, Docker, Kubernetes etc. 
 
 [PLACEHOLDER - Kenmerken worden later toegevoegd]
 

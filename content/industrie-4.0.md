@@ -1,13 +1,14 @@
 ---
 tags:
-  - 'digitale-transformatie-en-industrie-40-50'
-  - '🧹draft'
-
+  - digitale-transformatie-en-industrie-40-50
+  - live
 title: Industrie 4.0 - De Digitaliseringsrevolutie
 ---
 *Industrie 4.0* markeert de digitaliseringsrevolutie in de maakindustrie. Waar [[industrie-3.0]] draaide om automatisering binnen afzonderlijke silo’s, gaat Industrie 4.0 over **connectiviteit van de hele onderneming**. 
 
 Alle afdelingen, systemen en processen worden verbonden, zodat data vrij kan stromen door de organisatie en besluitvorming in realtime kan plaatsvinden.
+
+De activiteit waarbij een organisatie van een 3.0 naar een 4.0 bedrijf ontwikkeld, noem je [[digitale-transformatie]] en werkt in [[7-stappen-digitale-transformatie|7 stappen]].
 
 ## Definitie en kern
 

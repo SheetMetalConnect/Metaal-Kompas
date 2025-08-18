@@ -1,7 +1,7 @@
 ---
 tags:
-  - 'digitale-transformatie-en-industrie-40-50'
-  - '🧹draft'
+  - digitale-transformatie-en-industrie-40-50
+  - live
 title: Model Context Protocol (MCP)
 ---
 
