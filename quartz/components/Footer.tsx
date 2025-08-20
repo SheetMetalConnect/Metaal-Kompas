@@ -9,9 +9,10 @@ interface Options {
 }
 
 export default ((opts?: Options) => {
-  const Footer: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
+  const Footer: QuartzComponent = ({ displayClass, cfg, fileData }: QuartzComponentProps) => {
     const year = new Date().getFullYear()
     const links = opts?.links ?? []
+    const editUrl = `https://github.com/SheetMetalConnect/Metaal-Kompas/tree/v4/content/${fileData.slug}.md`
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p>
@@ -26,6 +27,9 @@ export default ((opts?: Options) => {
               <a href={link}>{text}</a>
             </li>
           ))}
+          <li>
+            <a href={editUrl}>Verbeter deze pagina</a>
+          </li>
         </ul>
       </footer>
     )
