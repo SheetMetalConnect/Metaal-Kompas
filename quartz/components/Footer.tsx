@@ -1,6 +1,7 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import style from "./styles/footer.scss"
-import { version } from "../../package.json"
+// Use hardcoded Quartz version to avoid confusion with project version
+const quartzVersion = "4.5.1"
 import { i18n } from "../i18n"
 
 interface Options {
@@ -15,7 +16,9 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
-          <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
+          <a href="https://quartz.jzhao.xyz/">Quartz v{quartzVersion}</a> © {year}
+          <br />
+          <small style="opacity: 0.7; font-size: 0.8em;">Educationeel • Geen rechten ontleend • Fouten gegarandeerd 😊</small>
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
