@@ -6,83 +6,179 @@ tags:
 
 title: ERP integratiestrategie
 ---
-*ERP integratiestrategie* vereist een methodische benadering waarbij het verkrijgen van volledige controle over het database schema de absolute prioriteit heeft. Zonder deze foundation falen alle verdere integratieactiviteiten.
+Een **ERP-integratiestrategie** beschrijft de uitgangspunten, aanpak en ontwerpkeuzes om een ERP-systeem te verbinden met andere kernsystemen in de organisatie, zoals MES, [[unified-namespace|UNS]], datawarehouses of BI-tools. Het doel is niet alleen _data uitwisselen_, maar een **beheersbare en robuuste informatie-architectuur** creëren waarin het ERP zijn rol vervult als kernbron van stamdata en transacties.
 
-## Het fundament: schema-controle
+Een doordachte **integratiestrategie** bepaalt of een ERP als een geïsoleerde *black box* blijft functioneren, of dat het kan bijdragen aan real-time besluitvorming, transparantie in de keten en schaalbare digitale transformatie. Daarbij is het niet voldoende om enkel interfaces te bouwen – de strategie vraagt om een systematische benadering die data-eigenaarschap, modelbegrip en controle over de structuur centraal stelt.
 
-Bij ERP-integratie maken veel organisaties de fout om direct te beginnen met het bouwen van interfaces en koppelingen. Dit is als bouwen op drijfzand. Je primaire doel moet zijn om het complete ERP-datamodel te verkrijgen in een database schema dat je volledig kunt beheersen en bevragen.
+---
 
-Deze stap is niet optioneel en kan niet overgeslagen worden. Alle andere integratieactiviteiten zijn fundamenteel afhankelijk van dit goed begrepen en gecontroleerde schema. Zonder deze controle bouw je systemen die broos zijn, moeilijk te onderhouden, en onmogelijk te optimaliseren.
+## Kernuitgangspunten
 
-Walker Reynolds benadrukt dit punt herhaaldelijk:
-> "When integrating ERP, your first goal should be to get the model into a DB schema that you can query. If you don't have the model in a DB schema, re-read step 3."
+- **Schema-controle eerst**: begin niet met maatwerkconnectors of API-calls; verkrijg eerst volledige controle en begrip van het ERP-datamodel.
+    
+- **Eigen structuur**: vertaal het ERP-model naar een [[canonical-schema|canonical schema]] dat je beheerst en kunt bevragen.
+    
+- **Stabiliteit boven snelheid**: snelle koppelingen leiden tot technische schuld, schema-controle zorgt voor duurzame integraties.
+    
+- **Bevraging en transparantie**: elk integratiepad moet leiden tot inzichtelijke, navolgbare datastromen.
+    
+- **Iteratief en relationeel**: een integratie is nooit ‘af’, maar groeit en verbindt steeds meer contextuele begrippen.
+    
+- **Contextueel koppelen**: ERP-data moet niet losstaan, maar verweven zijn met productieprocessen, kwaliteitsinformatie en financiële stromen.
+    
 
-## Het verkennende proces
+> [!warning] Anti-pattern  
+> Interfaces bouwen zonder schema-controle leidt tot broze, moeilijk onderhoudbare koppelingen die vaak opnieuw gemaakt moeten worden.
 
-Voordat je überhaupt kunt beginnen met schema-ontwikkeling, moet je precies begrijpen waarmee je te maken hebt. Elke ERP-implementatie is uniek, en de variaties zijn eindeloos. Je moet systematisch onderzoeken welk ERP-systeem gebruikt wordt, welke versie en configuratie, en vooral: hoe kun je er daadwerkelijk mee communiceren.
+---
 
-Het is verleidelijk om aan te nemen dat moderne ERP-systemen altijd moderne API's hebben, maar de realiteit is vaak anders. Sommige systemen hebben alleen SOAP-interfaces uit de jaren 2000, andere bieden enkel SQL-toegang, en weer andere zitten verstopt achter lagen middleware die door verschillende teams beheerd worden.
+## Belangrijkste kenmerken
 
-Deze communicatiekanalen bepalen niet alleen hoe je data kunt ophalen, maar ook welke beperkingen je tegenkomt qua snelheid, volume en real-time toegang. Een SOAP-interface heeft andere mogelijkheden dan directe SQL-toegang, en beide vereisen verschillende benaderingen voor schema-acquisitie.
+- **Data-eigenaarschap**: de organisatie bepaalt zelf hoe ERP-data wordt ontsloten en getransformeerd.
+    
+- **Flexibiliteit**: aanpassingen in het ERP mogen niet direct leiden tot brekende koppelingen.
+    
+- **Consistentie**: bedrijfsregels uit ERP worden expliciet gemaakt in constraints, validaties en mappings.
+    
+- **Schaalbaarheid**: de strategie ondersteunt zowel transactionele integraties als analytische toepassingen.
+    
+- **Crosslinking**: ERP-gegevens worden gekoppeld aan andere domeinen (productie, onderhoud, kwaliteit) in bijvoorbeeld een [[unified-namespace|UNS]].
+    
+- **Documenteerbaarheid**: elke integratiekeuze en mapping moet herleidbaar zijn.
+    
 
-## Model-acquisitie: de kunst van het begrijpen
+---
 
-Het verkrijgen van een bruikbaar ERP-datamodel is meer kunst dan wetenschap. Je kunt niet simpelweg een standaard template gebruiken omdat elke organisatie hun ERP anders heeft ingericht. Zelfs dezelfde ERP-software kan radicaal verschillende datastructuren hebben afhankelijk van hoe het geïmplementeerd en gecustomiseerd is.
+## Aanpak
 
-De eerste stap is het opvragen van alle beschikbare documentatie over de datastructuur. Dit kan variëren van uitgebreide ERD-diagrammen tot schaarse API-documentatie. Vaak is de documentatie verouderd of incompleet, wat betekent dat je detectivewerk moet doen om de werkelijke structuur te achterhalen.
+### 1. Verkennen
 
-Datahiërarchieën en relaties begrijpen is cruciaal omdat deze de business logic van de organisatie weerspiegelen. Een verkeerd begrip van hoe kostencentra gerelateerd zijn aan assets, of hoe BOMs gekoppeld zijn aan work orders, kan leiden tot fundamenteel verkeerde integraties.
+Begrijp eerst de context van het ERP-systeem:
 
-## Schema-ontwikkeling als vertaalproces
+- Welke versie en configuratie draait?
+    
+- Welke communicatiemogelijkheden zijn beschikbaar (SQL, SOAP, REST, middleware)?
+    
+- Hoe beheert het ERP bedrijfsregels en datavalidaties?
+    
+- Welke teams zijn betrokken bij beheer en ondersteuning?
+    
 
-Het converteren van een ERP-model naar jouw eigen database schema is een delicaat vertaalproces. Je moet alle datarelaties intact houden terwijl je tegelijkertijd optimaliseert voor jouw specifieke gebruikssituaties. Dit betekent dat je soms denormalisatie moet toepassen voor performance, of juist extra normalisatie voor flexibiliteit.
+### 2. Model-acquisitie
 
-Bedrijfsregels die impliciet aanwezig zijn in het ERP-systeem moeten expliciet worden gemaakt in jouw schema. Een ERP-systeem "weet" bijvoorbeeld dat bepaalde productcodes alleen gebruikt kunnen worden met specifieke workcenters, maar deze regel moet je expliciet vastleggen in constraints en validaties.
+Het verkrijgen van het datamodel:
 
-Performance-overwegingen zijn vanaf het begin belangrijk. ERP-systemen zijn vaak geoptimaliseerd voor transactionele workloads, maar jij hebt mogelijk analytische queries nodig die heel andere indexstrategieën vereisen. Het is de kunst om een schema te maken dat beide use cases goed ondersteunt.
+- Verzamel alle beschikbare documentatie (ERD’s, API-documentatie, datastructuren).
+    
+- Reconstrueer relaties en hiërarchieën (orders, BOM’s, kostencentra, assets).
+    
+- Valideer documentatie met echte queries of API-responses.
+    
+- Identificeer impliciete bedrijfsregels en leg deze vast.
+    
 
-## Waarom schema-controle niet te onderhandelen is
+> [!example] Voorbeeld  
+> Bij een productiebedrijf bleek de API-documentatie verouderd. Alleen via SQL-profielen kwamen verborgen tabellen en kritische relaties (tussen BOM’s en werkorders) aan het licht.
 
-Veel projecten falen omdat teams denken dat ze deze stap kunnen overslaan of afkorten. Ze bouwen interfaces direct bovenop het ERP-systeem en hopen dat het goed komt. Dit is een fundamentele misvatting die bijna altijd tot problemen leidt.
+### 3. Eigen schema bouwen
 
-Zonder volledige controle over het schema kun je niet garanderen dat je data consistent en betrouwbaar is. Je kunt niet optimaliseren voor performance omdat je niet weet hoe queries zullen gedragen. Je kunt geen robuuste error handling bouwen omdat je niet alle edge cases begrijpt.
+Vertaal het ERP-model naar een beheersbaar schema dat expliciet bedrijfsregels vastlegt:
 
-Erger nog, je bouwt technische schuld op die steeds duurder wordt om op te lossen. Elke applicatie die je bouwt bovenop een slecht begrepen schema moet later aangepast worden wanneer je eindelijk de werkelijke datastructuur begrijpt.
+- Leg referentiële relaties vast (foreign keys, constraints).
+    
+- Maak impliciete regels expliciet (bijv. productcode ↔ workcenter).
+    
+- Optimaliseer voor zowel transactionele als analytische queries.
+    
+- Gebruik [[canonical-schema|canonical schema]] als stabiel tussenmodel richting UNS en andere systemen.
+    
 
-## Interface-architecturen begrijpen
+### 4. Integratie-patronen
 
-De manier waarop je toegang krijgt tot ERP-data bepaalt grotendeels je strategie voor schema-acquisitie. SOAP-interfaces bieden vaak de meeste structurele informatie via WSDL-bestanden, die je een gedetailleerd beeld geven van beschikbare services en datatypes.
+Kies de juiste strategie afhankelijk van de situatie:
 
-REST-interfaces vereisen meer detective werk. Je moet vaak een parser bouwen om de API-responses te analyseren en de onderliggende datastructuur te achterhalen. Dit kan tijdrovend zijn, maar geeft je wel diep inzicht in hoe het systeem werkt.
+- **Batch ELT**: volledige of incrementele dumps naar staging.
+    
+- **CDC (Change Data Capture)**: log-gebaseerd of timestamp-delta.
+    
+- **API-pulls**: idempotente calls met paginatie.
+    
+- **Middleware taps**: data consumeren uit bestaande integratieplatformen, altijd valideren tegen bron.
+    
 
-Directe SQL-toegang is vaak de meest transparante optie. Door ERD-exports te maken en test-queries uit te voeren krijg je direct zicht op de werkelijke database structuur. Dit vereist wel dat je SQL-toegang kunt krijgen, wat niet altijd mogelijk is om security redenen.
+### 5. Publicatie naar UNS of andere systemen
 
-Middleware-situaties zijn het meest complex omdat je niet alleen het ERP-model moet begrijpen, maar ook hoe de middleware dit transformeert. Dit vereist nauwe samenwerking met middleware-teams en kan leiden tot extra lagen van complexiteit.
+Publiceer data uit je eigen schema naar [[unified-namespace|UNS]], MES of BI:
 
-## Van schema naar werkende integratie
+- Houd topics klein en semantisch.
+    
+- Gebruik stabiele keys en versies.
+    
+- Ontkoppel bron-ERP van eindconsumenten.
+    
+- Zorg dat UNS-data altijd herleidbaar is naar het canonical schema.
+    
 
-Zodra je het schema onder controle hebt, begint het eigenlijke implementatiewerk. De validatiefase is kritiek omdat hier blijkt of je begrip van het datamodel klopt. Test je schema met echte productiedata, niet alleen met testdata. Echte data heeft altijd edge cases en inconsistenties die testdata mist.
+### 6. Validatie & performance
 
-Performance-testing onder realistische load is essentieel. ERP-systemen kunnen duizenden transacties per dag verwerken, en jouw schema moet dit aankunnen zonder de oorspronkelijke systemen te verstoren. Dit betekent vaak dat je indexeringsstrategieën moet ontwikkelen die je nooit in de documentatie zult vinden.
+- Test je schema met _echte productiedata_ (niet alleen testdata).
+    
+- Voer performance-tests uit onder realistische loads.
+    
+- Controleer edge cases en inconsistenties (altijd aanwezig in productiedata).
+    
+- Implementeer monitoring en alerts op datastromen en schema’s.
+    
 
-Documentatie is geen bijzaak maar een investering in de toekomst. Elke entiteit, elke relatie, elke business rule moet helder gedocumenteerd worden. Over zes maanden weet niemand meer waarom bepaalde beslissingen genomen zijn, en zonder documentatie wordt onderhoud een nachtmerrie.
+---
 
-## De implementatieplanning realiteit
+## Belangrijkste uitgangspunten
 
-Resource-allocatie voor ERP-integratie wordt bijna altijd onderschat. Het is niet alleen development werk, maar ook intensieve samenwerking met business stakeholders om edge cases te begrijpen. Plan tijd in voor meerdere iteraties omdat je begrip van het systeem zal evolueren.
+- **Begin bij de kern (database)** en niet bij de interface-laag.
+    
+- **Leg impliciete bedrijfsregels expliciet vast** in je eigen schema.
+    
+- **Integreer iteratief**: start klein, breid systematisch uit.
+    
+- **Koppel contextueel**: verbind ERP-gegevens met productie, assets, BOM’s en orders.
+    
+- **Documenteer elke stap** om onderhoud en overdraagbaarheid te waarborgen.
+    
+- **Zie integratie als continu proces**: schema’s, mappings en koppelingen veranderen mee met de organisatie.
+    
 
-Risicobeoordeling is cruciaal omdat ERP-integraties kritieke bedrijfsprocessen raken. Heb altijd een fallback-plan voor wanneer dingen misgaan. Dit kan betekenen dat je tijdelijk terug moet naar handmatige processen of oude interfaces.
+> [!tip] Iteratief werken  
+> Begin bijvoorbeeld met één domein, zoals order- en productie-integratie. Breid daarna uit met voorraad, finance en kwaliteitsdata.
 
-Timeline-ontwikkeling moet realistisch zijn. ERP-integraties nemen altijd langer dan verwacht omdat elke organisatie unieke complexiteiten heeft die pas tijdens de implementatie zichtbaar worden.
+---
+
+## Extra context en voorbeelden
+
+- Een integratiestrategie zonder canonical schema leidt vaak tot versnipperde oplossingen: elk nieuw systeem krijgt zijn eigen connector en mapping. Dit resulteert in een spaghetti-architectuur.
+    
+- Door eerst schema-controle te realiseren, ontstaat een stabiele basis waarop meerdere integratiepatronen (UNS, API, ETL) parallel kunnen bestaan zonder elkaar in de weg te zitten.
+    
+- In de praktijk vereist dit nauwe samenwerking tussen IT-teams, procesteams en leveranciers: integratie raakt altijd zowel techniek als business.
+    
+
+---
 
 ## Gerelateerde begrippen
 
-- [[unified-namespace|Unified Namespace (UNS)]] - Architecturale context
-- [[enterprise-resource-planning|Enterprise Resource Planning (ERP)]] - Breder ERP-overzicht  
-- [[digitale-transformatie|Digitale transformatie]] - Strategische context
-- [[api-architectuur|API architectuur]] - Interface design patterns
-- [[database-schema-design|Database schema design]] - Schema ontwikkeling
-- [[middleware-integratie|Middleware integratie]] - Integration approaches
+- [[unified-namespace|Unified Namespace (UNS)]]
+    
+- [[enterprise-resource-planning|Enterprise Resource Planning (ERP)]]
+    
+- [[digitale-transformatie|Digitale transformatie]]
+    
+- [[api-architectuur|API-architectuur]]
+    
+- [[database-schema-design|Database schema design]]
+    
+- [[middleware-integratie|Middleware integratie]]
+    
+- [[canonical-schema|Canonical schema]]
+    
 
 ---
 ← Terug naar [[kaarten/softwaredeployment-en-architectuur|Softwaredeployment & Architectuur kaart]]

@@ -5,13 +5,13 @@ tags:
 
 title: Manufacturing Execution System (MES)
 ---
-*Manufacturing Execution System (MES)* is een software-oplossing die de uitvoering van productieprocessen beheert en coördineert, fungeer als brug tussen bedrijfsplanning (ERP) en shopfloor-automatisering (SCADA/PLC).
+*Manufacturing Execution System (MES)* is geen traditioneel product maar een essentiële functie in de moderne fabriek die de uitvoering van productieprocessen beheert en coördineert. Het fungeert als brug tussen bedrijfsplanning ([[enterprise-resource-planning|ERP]]) en shopfloor-automatisering (SCADA/PLC), met specifieke waarde voor metaalbewerkingsbedrijven die flexibele productie en real-time inzicht nodig hebben.
 
 ## Definitie
 
 Een **Manufacturing Execution System (MES)** is een dynamisch informatiesysteem dat de uitvoering van productieactiviteiten in real-time monitort, controleert en documenteert. Het MES fungeert als de verbindingslaag tussen enterprise-level planning systemen (ERP) en shopfloor control systemen (SCADA/PLC).
 
-> **Belangrijk:** Elke MES-implementatie is uniek. "MES bij klant A is nooit gelijk aan MES bij klant B, terwijl SCADA bij klant A over het algemeen identiek is aan SCADA bij klant B."
+> **Kernprincipe:** MES is geen standaardproduct, maar een verzameling functionaliteiten. "MES bij klant A is nooit gelijk aan MES bij klant B, terwijl SCADA bij klant A over het algemeen identiek is aan SCADA bij klant B." Voor metaalbewerkingsbedrijven betekent dit dat je kunt kiezen welke functies je nodig hebt voor jouw specifieke productieprocessen.
 
 ## Positie in de Manufacturing Stack
 
@@ -39,7 +39,11 @@ Enterprise Level
 | **Complexiteit** | Hoge customisatie | Relatief uniform |
 | **Evolutie** | Groeit mee met business | Stabiele functionaliteit |
 
-## Kern MES Capabilities
+## Kern MES Capabilities: De "Core Four"
+
+### De Vier Fundamentele Functies
+
+Voor metaalbewerkingsbedrijven vormen vier kernfuncties de basis van elk effectief MES:
 
 ### Altijd Aanwezige Functies
 
@@ -50,25 +54,58 @@ Enterprise Level
 - **Priority management**: Dynamische prioritering
 
 #### 2. Overall Equipment Effectiveness (OEE)
-- **Availability**: Percentage beschikbare tijd
+- **Availability**: Percentage beschikbare tijd van machines
 - **Performance**: Snelheid t.o.v. nominale snelheid
 - **Quality**: Percentage goede producten
 - **Real-time calculation**: Continue OEE monitoring
+- **Cruciaal voor metaalbewerking**: Directe feedback over machinegebruik voor optimale planning
 
-#### 3. Downtime Tracking
+#### 3. Stilstandregistratie en Optimalisatie
 - **Downtime categorization**: Geplande vs. ongeplande stilstand
 - **Root cause analysis**: Oorzaak identificatie
 - **MTTR tracking**: Mean Time To Repair monitoring
 - **Availability impact**: Effect op productiecapaciteit
+- **Data-analyse**: Identificeer patronen die leiden tot stilstand
+- **Preventieve acties**: Ontwikkel strategieën om toekomstige stilstand te minimaliseren
 
 ### Vaak Optionele Functies
 
-#### 4. Scheduling (Vaak Weggelaten)
-- **Detailed daily planning**: Pull-based scheduling
-- **Capacity planning**: Resource optimalisatie
-- **Sequence optimization**: Productievolgtorde
+#### 4. Planning en Scheduling
+- **Detailed daily planning**: Gedetailleerde dagplanning op operationeel niveau
+- **Capacity planning**: Resource optimalisatie voor machines en personeel
+- **Sequence optimization**: Productievolgtorde optimalisatie
+- **Dynamic rescheduling**: Snelle aanpassing aan verstoringen zoals spoedorders
+- **ERP-integratie**: Naadloze afstemming met bedrijfsplanning
 
-> **Waarschuwing:** Scheduling is vaak de eerste capability die uit MES wordt gehaald, omdat dit ook door ERP kan worden afgehandeld.
+> **Opmerking:** Hoewel sommige bedrijven planning in hun ERP-systeem doen, biedt MES-planning meer gedetailleerde controle op operationeel en machineniveau voor complexe metaalbewerking.
+
+## MES Implementatieroutes voor Metaalbewerking
+
+Metaalbewerkingsbedrijven kunnen verschillende routes kiezen voor MES-implementatie:
+
+### Route 1: ERP-systeem Uitbreiding
+- **Voordelen**: Bekende omgeving, directe integratie
+- **Geschikt voor**: Bedrijven met rechtlijnige productieprocessen
+- **Leveranciers**: Ridder iQ, MKG, Bemet (shopfloor control modules)
+- **Beperkingen**: Minder real-time flexibiliteit, beperkte machine-connectiviteit
+
+### Route 2: Specialistische Apps
+- **Voorbeelden**: Propos (planning), Azumuta (werkinstructies)
+- **Voordelen**: Gespecialiseerde functionaliteit per proces
+- **Uitdaging**: Integratie tussen verschillende systemen
+- **Geschikt voor**: Bedrijven die stapsgewijs willen digitaliseren
+
+### Route 3: Machine-gedreven Aanpak
+- **Voorbeelden**: TRUMPF Oseon, Bystronic BySoft
+- **Voordelen**: Perfecte machine-integratie
+- **Beperkingen**: Vaak beperkt tot één machinefabrikant
+- **Realiteit**: Gemiddeld metaalbedrijf heeft machines van verschillende merken
+
+### Route 4: Open Technologie Benadering
+- **Basis**: [[unified-namespace|Unified Namespace (UNS)]] met [[event-gedreven-architectuur|event-driven architectuur]]
+- **Communicatie**: [[message-queuing-telemetry-transport|MQTT-protocollen]] voor real-time data-uitwisseling
+- **Voordelen**: Maximale flexibiliteit, vendor-onafhankelijk
+- **Uitdaging**: Vereist meer technische expertise
 
 ## Uitgebreide MES Functionaliteiten
 
@@ -79,11 +116,14 @@ Enterprise Level
 - **ISO 9001 compliance**: Kwaliteitsnorm naleving
 - **Quality deviation tracking**: Afwijkingen registratie
 
-### Productie-ondersteuning
+### Productie-ondersteuning voor Metaalbewerking
 - **Recipe management**: Receptbeheer (Definition, Spec, Deviation)
-- **Work instructions**: Digitale werkinstructies
+- **[[werkinstructie|Work instructions]]**: Digitale werkinstructies bij de machine
 - **Staff competencies**: Medewerker vaardigheden en training
 - **Preventive maintenance**: Preventief onderhoudsplanning
+- **Lasparameter registratie**: Integratie met systemen zoals Kemppi WeldEye
+- **Issue tracking**: Registreer en volg problemen op de werkvloer
+- **Informatiebeheer**: Centraliseer productie-informatie die nu in Excel-bestanden staat
 
 ### Inventory & Materials
 - **BOM to inventory**: Stuklijst naar voorraad koppeling
@@ -103,20 +143,23 @@ Enterprise Level
 3. **Grow with business**: Laat MES meegroeien met bedrijf
 4. **Customize extensively**: Pas aan aan specifieke behoeften
 
-### Business Evolution
-- **Phase 1**: Work Order Management + OEE
-- **Phase 2**: Quality Management + Traceability
-- **Phase 3**: Advanced Planning + Analytics
-- **Phase 4**: Integration met IoT en AI
+### Business Evolution voor Metaalbewerking
+- **Phase 1**: Work Order Management + OEE (basisinzicht in productie)
+- **Phase 2**: Digitale werkinstructies + kwaliteitscontrole
+- **Phase 3**: Machine-connectiviteit + real-time monitoring 
+- **Phase 4**: Predictive analytics + geïntegreerde planning
+- **Phase 5**: AI-ondersteunde procesoptimalisatie
 
 ## MES voor Specifieke Industrieën
 
-### Fabricators / High-Mix, Low-Volume
+### Metaalbewerking / High-Mix, Low-Volume
 **Bijzonder belangrijk voor:**
-- **Complexe operaties**: Vele verschillende producten
-- **Flexible production**: Snelle omschakeling tussen orders
-- **Detailed management**: Gedetailleerde productiecontrole
-- **Customer-specific requirements**: Klantspecifieke eisen
+- **Complexe operaties**: Vele verschillende producten met variërende bewerkingen
+- **Flexible production**: Snelle omschakeling tussen orders op verschillende machines
+- **Detailed management**: Gedetailleerde productiecontrole van laswerk tot plaatbewerking
+- **Customer-specific requirements**: Klantspecifieke eisen en certificeringen
+- **Real-time feedback**: Directe communicatie tussen werkvloer en kantoor
+- **Multimachine integratie**: Verschillende merken machines in één productielijn
 
 ### Proces Industrie
 - **Recipe-driven**: Receptgebaseerde productie
@@ -216,17 +259,21 @@ MES/Site1/Line1/
 
 ## Voordelen van MES
 
-### Operationele Voordelen
-- **Real-time visibility**: Directe inzicht in productie
-- **Improved OEE**: Systematische efficiency verbetering
-- **Quality control**: Proactieve kwaliteitsbewaking
-- **Reduced waste**: Minimalisatie van verspilling
+### Operationele Voordelen voor Metaalbewerking
+- **Real-time visibility**: Directe inzicht in alle bewerkingsstappen
+- **Improved OEE**: Systematische efficiency verbetering van lasers, kantbanken en andere machines
+- **Quality control**: Proactieve kwaliteitsbewaking met directe feedback
+- **Reduced waste**: Minimalisatie van materiaalverspilling en herwerk
+- **Better communication**: Einde aan zoeken naar informatie tussen kantoor en werkvloer
+- **Operator support**: Operators krijgen alle benodigde informatie op het juiste moment
 
-### Business Voordelen
-- **Faster response**: Snellere reactie op problemen
-- **Better planning**: Accurate data voor planning
-- **Compliance**: Naleving van regelgeving
-- **Cost reduction**: Lagere operationele kosten
+### Business Voordelen voor Metaalbewerking
+- **Faster response**: Snellere reactie op productieverstoringen en spoedorders
+- **Better planning**: Accurate data voor realistische levertijden
+- **Compliance**: Naleving van EN 1090, ISO 3834 en andere metaalnormen
+- **Cost reduction**: Lagere operationele kosten door efficiëntere materiaalbenutting
+- **Improved delivery**: Voorspelbare levertijden en minder vertragingen
+- **Customer satisfaction**: Betere communicatie over orderstatus
 
 ### Strategic Voordelen
 - **Data-driven decisions**: Beslissingen op basis van data
