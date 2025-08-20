@@ -5,6 +5,9 @@ tags:
 
 title: Digitaal productpaspoort (DPP)
 ---
+
+> [!warning] Disclaimer: Dit document is een praktisch overzicht, geen juridisch advies. Regels en drempels kunnen nog wijzigen. Raadpleeg altijd de officiële teksten van de Europese Commissie en nationale autoriteiten.
+
 *Digitaal productpaspoort (DPP)* is een gestandaardiseerd digitaal document dat uitgebreide informatie over een product bevat, essentieel voor het bevorderen van circulariteit en duurzaamheid binnen de Europese Unie.
 
 ## Definitie
