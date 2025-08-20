@@ -5,179 +5,249 @@ tags:
 
 title: Enterprise Resource Planning (ERP)
 ---
-*Enterprise Resource Planning (ERP)* is het hub-systeem van een bedrijf dat alle kernprocessen integreert en fungeert als de centrale informatiebron voor planning en administratie. Voor metaalbewerkingsbedrijven vormt ERP de basis voor bedrijfsprocessen, maar heeft het beperkingen bij real-time productiebesturing.
+_Enterprise resource planning (ERP)_ is een begrip binnen de bedrijfssoftware en enterprise systemen die alle kernbedrijfsprocessen integreert en fungeert als de centrale informatiebron voor planning en administratie. Voor metaalbewerkingsbedrijven vormt ERP de basis voor bedrijfsprocessen, maar heeft het beperkingen bij real-time productiebesturing.
 
 ## Definitie
 
-**Enterprise Resource Planning (ERP)** is een suite van geïntegreerde softwareoplossingen gebouwd rondom een enkel datamodel, ontworpen om alle kernbedrijfsprocessen te beheren en te coördineren. Het ERP-systeem organiseert een bedrijf door alle assets (menselijk, financieel, fysiek), kosten, producten en productieprocessen in één samenhangend systeem te verenigen.
+Enterprise resource planning (ERP) is een suite van geïntegreerde softwareoplossingen gebouwd rondom een **enkel datamodel**, ontworpen om alle kernbedrijfsprocessen te beheren en te coördineren. Het ERP-systeem organiseert een bedrijf door alle assets (menselijk, financieel, fysiek), kosten, producten en productieprocessen in één samenhangend systeem te verenigen.
 
-> **Kernprincipe:** "ERP is de hub van de business voor Executive Leadership en hun teams. Het organiseert een bedrijf - welke assets heb ik, waar zijn mijn kosten, wat verkoop ik, hoe bouw ik wat ik verkoop, wat heb ik in voorraad?" Voor metaalbewerking betekent dit: orders beheren, materiaal plannen, maar niet real-time productiebesturing.
+> [!info] Modulaire opbouw Een ERP-programma bestaat meestal uit kleine deelprogramma's (modules) die allemaal een specifieke taak ondersteunen, zoals computerprogramma's voor financiële administratie of voorraadbeheer.
 
-## ERP Typen en Toepassingsgebieden
+### Kernprincipe van ERP
 
-### 1. Small Business ERP
-- **Kenmerken**: Generiek, snelle implementatie, beperkte maatwerkmogelijkheden
-- **Voorbeelden**: Zoho, QuickBooks, Exact Online
-- **Toepassing**: Kleine bedrijven met standaard processen
+Het kernprincipe van ERP is dat het een **bedrijfsmanagementoplossing** is gericht op het management met een hoog niveau overzicht. ERP is de hub van de business voor Executive Leadership en hun teams. Het organiseert een bedrijf door antwoord te geven op vragen zoals:
 
-### 2. Vertical ERP
-- **Kenmerken**: Industrie- of processpecifiek, beperkte tot uitgebreide maatwerkmogelijkheden
-- **Voorbeelden**: Ridder iQ (metaal), MKG (metaal)
-- **Toepassing**: Gespecialiseerde industrieën met specifieke vereisten
+- Welke [[asset-inventaris|assets]] heeft het bedrijf?
+- Waar zitten de kosten?
+- Wat verkopen we?
+- Hoe bouwen we wat we verkopen?
+- Wat hebben we in voorraad?
 
-### 3. Generalist ERP
-- **Kenmerken**: Industrie-agnostisch, zeer aanpasbaar, uitgebreide functionaliteit
-- **Voorbeelden**: SAP, Epicor, Oracle, Infor LN, Microsoft Dynamics
-- **Toepassing**: Grote bedrijven met complexe, gevarieerde processen
+Voor metaalbewerking betekent dit: orders beheren, materiaal plannen, maar niet real-time productiebesturing.
 
-### 4. Open Source ERP
-- **Kenmerken**: Small Business karakter met uitgebreide maatwerkmogelijkheden
-- **Voorbeelden**: Odoo, ERPNext, Carbon
-- **Toepassing**: Bedrijven die flexibiliteit en kostenbeheersing zoeken
+> [!tip] Eenmalige data-invoer Een belangrijk gevolg van een ERP-systeem is dat gegevens van bijvoorbeeld klanten en producten slechts **eenmaal ingevoerd** hoeven te worden, omdat een enkele database wordt gehanteerd.
 
-## Kern ERP Functionaliteiten
+## Geschiedenis en ontwikkeling
 
-### 1. Accounting & Financiën
-- **General Ledger**: Centrale boekhouding en financiële rapportage
-- **Accounts Payable/Receivable**: Crediteuren- en debiteurenbeheer
-- **Kostenbeheersing**: Tracking van operationele en productiekosten
+### Vroege ontwikkeling (1960s-1970s)
 
-### 2. Master Data Management (MDM)
-- **Chart of Accounts**: Rekeningschema en financiële structuur
-- **Asset Management**: Beheer van bedrijfsmiddelen en inventaris
-- **Vendor Management**: Leveranciers- en inkoopgegevens
+De oorsprong van het ERP-systeem kan gesitueerd worden in de **jaren 1960**, toen bij veel ondernemingen de behoefte ontstond aan systemen om voorraad bij te houden. Vanaf de **jaren 1970** leidde dit tot de ontwikkeling van **Material Requirements Planning (MRP)** systemen.
 
-### 3. Supply Chain Management
-- **Inventory Management**: Voorraadbeheersing en -planning
-- **Vendor Relations**: Leveranciersrelaties en contractbeheer
-- **Replenishment**: Automatische aanvulling en inkoop
+### MRP II evolutie (1980s)
 
-### 4. Manufacturing Operations
-- **Bill of Materials (BOM)**: Stuklijstbeheer en productstructuren
-- **Work Orders**: Productieorder planning (niet real-time uitvoering)
-- **Recipes**: Receptbeheer voor procesindustrie
-- **Manufacturing Processes**: Productieprocessen en -operaties
-- **Production Planning**: Globale capaciteits- en productieplanning
-- **Beperking**: ERP is niet geschikt voor real-time shopfloor control
+Begin van de **jaren 1980** evolueerde MRP tot **MRP II (Manufacturing Resource Planning)** waarbij primaire functies werden geïntegreerd met andere bedrijfsfuncties.
 
-### 5. Rapportage & Analytics
-- **Operational Reporting**: Dagelijkse operationele rapportages
-- **Financial Reporting**: Financiële verslaglegging en compliance
-- **Performance Dashboards**: KPI monitoring en business intelligence
+### ERP I - Enterprise systemen (1990s)
 
-## ERP Architectuur Componenten
+De eerste generatie **ERP I** werd geïntroduceerd door **The Gartner Group** in het begin van de jaren 1990.
 
-### 1. Master Data Model
-- **ISA-95 Gebaseerd**: Hiërarchische bedrijfsstructuur (Enterprise → Site → Area → Line → Unit)
-- **Material Definitions**: Grondstof- en eindproductdefinities
-- **Product Codes (SKU)**: Unieke productidentificatie
-- **Asset Hierarchy**: Bedrijfsmiddelenstructuur
+**Kenmerken:**
 
-### 2. Workflows en Processen
-- **Transactional Workflows**: Geautomatiseerde bedrijfsprocessen
-- **Approval Processes**: Goedkeuringsprocedures en autorisaties
-- **Business Rules**: Bedrijfslogica en validatieregels
+- **Grote enterprise focus** - MKB kon nauwelijks bij deze systemen
+- **Hoge kosten** - Miljoenen aan licenties en implementatie
+- **Voorbeelden**: SAP R/3, Oracle, PeopleSoft
 
-### 3. Transacties en Data
-- **Real-time Transactions**: Live bedrijfstransacties
-- **Historical Data**: Historische bedrijfsgegevens
-- **Audit Trails**: Traceerbare wijzigingen en compliance
+### ERP II - Industriële ERP (2000s)
 
-### 4. API en Integratie
-- **BAPI (Business Application Programming Interface)**: SAP's bedrijfs-API's
-- **REST/SOAP APIs**: Moderne web-gebaseerde interfaces
-- **[[unified-namespace|UNS]] Integration**: Moderne event-gedreven integratie
+In de **jaren 2000** ontstonden de eerste echte ERP-systemen specifiek voor de industrie en het MKB.
 
-## ERP voor Metaalbewerkingsbedrijven
+**Kenmerken:**
 
-### Waarom ERP Alleen Niet Genoeg Is
+- **Centralisatie in databases** - Vooral SQL Server als centrale datahub
+- **Fat clients** - Windows clients met lokale verwerking
+- **Industrie-specifiek** - Speciaal ontwikkeld voor productiesectoren
+- **MKB toegankelijk** - Betaalbare licenties en implementaties
+- **Voorbeelden**: Bemet/PDC, MKG, Ridder R8
 
-#### De Groeiende Kloof
+> [!note] Technische architectuur ERP II De meeste ERP II software tussen 2000-2010 werd vooral gebouwd op **.NET en Windows** platformen met **SQL Server of PostgreSQL** databases. De kern was **centralisatie in databases** met fat clients die lokaal verwerkten.
+
+### ERP III - Web-based ERP (2015+)
+
+Sinds **2015** kwam web-based ERP op als nieuwe generatie.
+
+**Kenmerken:**
+
+- **Volledig web-gebaseerd** - Browser-gebaseerde toegang
+- **Cloud hosting** - SaaS-modellen worden mainstream
+- **Voorbeelden**: Microsoft Business Central, Odoo, NetSuite
+
+### ERP IV - Cloud native + AI (2020+)
+
+De nieuwste generatie **ERP IV** met AI-integratie.
+
+**Kenmerken:**
+
+- **Cloud native architectuur** - Gebouwd voor de cloud vanaf de grond
+- **AI-integratie** - Machine learning en automatische insights
+- **Volledig flexibel** - Zelf aanpasbaar zonder programmeerkennis
+
+## ERP typen en toepassingsgebieden
+
+### Kleine bedrijven ERP
+
+**Kenmerken:**
+
+- Generiek ontwerp voor brede toepasbaarheid
+- Snelle implementatie met standaard configuraties
+- Beperkte maatwerkmogelijkheden
+
+**Voorbeelden:** Zoho, QuickBooks, Exact Online
+
+### Branche-specifieke ERP (Vertical ERP)
+
+**Kenmerken:**
+
+- Industrie- of processpecifiek ontworpen
+- Gespecialiseerde functionaliteiten voor specifieke sectoren
+
+**Voorbeelden:** Ridder iQ (metaal), MKG (metaal)
+
+### Enterprise ERP (Generalistische ERP)
+
+**Kenmerken:**
+
+- Industrie-agnostisch platform
+- Zeer aanpasbaar en configureerbaar
+- Uitgebreide functionaliteit voor complexe organisaties
+
+**Voorbeelden:** SAP, Epicor, Oracle, Infor LN, Microsoft Dynamics
+
+### Open source ERP
+
+**Kenmerken:**
+
+- Toegang tot broncode voor aanpassingen
+- Broncode gratis beschikbaar, maar hosting en support kunnen betaald zijn
+
+**Voorbeelden:** Odoo (Community vs Enterprise editie), ERPNext, Carbon
+
+> [!warning] Kostenverwachting Hoewel de broncode gratis is, zijn er vaak betaalde hosted versies en premium ondersteuning beschikbaar.
+
+### Best of breed vs all-in-one benadering
+
+Traditioneel promoten ERP-leveranciers een **all-in-one benadering** waarbij ERP het centrale systeem is waar alle andere applicaties omheen gebouwd worden. Deze benadering belooft eenvoud maar leidt vaak tot vendor lock-in en beperkte flexibiliteit.
+
+Een alternatieve benadering is **best of breed**, waarbij verschillende gespecialiseerde systemen voor specifieke functies worden gekozen en geïntegreerd via moderne architecturen zoals [[unified-namespace|Unified Namespace]].
+
+## Kern ERP functionaliteiten
+
+### Boekhouding & financiën
+
+- **Grootboek (General Ledger)** - Centrale boekhouding en financiële rapportage
+- **Crediteuren/Debiteuren** - Leveranciers- en klantenbeheer
+- **Kostenbeheersing** - Tracking van operationele en productiekosten
+
+### Stamgegevensbeheer (Master Data Management)
+
+- **Rekeningschema** - Rekeningschema en financiële structuur
+- **Activabeheer** - Beheer van bedrijfsmiddelen en inventaris
+- **Leveranciersbeheer** - Leveranciers- en inkoopgegevens
+
+### Toeleveringsketen management
+
+- **Voorraadbeheer** - Voorraadbeheersing en -planning
+- **Leveranciersrelaties** - Leveranciersrelaties en contractbeheer
+- **Aanvulling** - Automatische aanvulling en inkoop
+
+### Productieprocessen
+
+- **Stuklijst (Bill of Materials)** - Stuklijstbeheer en productstructuren
+- **Werkorders** - Productieorder planning en uitvoering via MRP-modules
+- **Bewerkingen** - Definitie van productiestappen en routings
+- **Productiebonnen** - Materiaaluitgifte en arbeidsregistratie
+- **Productieplanning** - Capaciteits- en productieplanning via MRP/MRP II
+
+> [!note] ERP productie mogelijkheden vs beperkingen ERP-systemen **kunnen** wel productieprocessen ondersteunen via MRP-modules, inclusief stuklijsten, productieorders, bewerkingen en bonnen. Dit wordt veel gebruikt in de metaalindustrie. **Echter**, ERP is vaak **niet flexibel genoeg** voor complexe productieomgevingen en kan leiden tot **hoge kosten** door aanpassingen. Alternatieven zijn eigen [[manufacturing-execution-system|MES]] of [[unified-namespace|UNS]] voor meer flexibiliteit.
+
+### Rapportage & analytics
+
+- **Operationele rapportage** - Dagelijkse operationele rapportages
+- **Financiële rapportage** - Financiële verslaglegging en compliance
+- **Prestatie dashboards** - KPI monitoring en bedrijfsinformatie
+
+## ERP beperkingen voor productieomgevingen
+
+### Waarom ERP alleen niet genoeg is
+
+#### De groeiende kloof tussen planning en realiteit
+
 Naarmate metaalbedrijven groeien, ontstaat er een kloof tussen ERP-planning en werkvloer-realiteit:
-- **Orders in ERP**: Netjes georganiseerd volgens planning
-- **Realiteit werkvloer**: Spoedorders, machinestilstanden, onvoorziene vertragingen
-- **Gevolg**: ERP-gegevens komen steeds verder af te staan van werkelijke situatie
 
-#### ERP Beperkingen voor Metaalbewerking
-- **Geen real-time feedback**: Wat gebeurt er nu op de werkvloer?
-- **Beperkte machine-integratie**: Geen directe verbinding met CNC-machines, lasapparatuur
-- **Geen flexibele planning**: Moeilijk inspelen op dagelijkse veranderingen
-- **Beperkte kwaliteitscontrole**: Geen real-time kwaliteitsdata van productieprocessen
+- **Orders in ERP** - Netjes georganiseerd volgens planning
+- **Realiteit werkvloer** - Spoedorders, machinestilstanden, onvoorziene vertragingen
+- **Gevolg** - ERP-gegevens komen steeds verder af te staan van werkelijke situatie
 
-### ERP Shopfloor Control Modules
+#### ERP beperkingen voor metaalbewerking
+
+- **Geen real-time feedback** - Wat gebeurt er nu op de werkvloer?
+- **Beperkte machine-integratie** - Geen directe verbinding met CNC-machines, lasapparatuur
+- **Geen flexibele planning** - Moeilijk inspelen op dagelijkse veranderingen
+- **Beperkte kwaliteitscontrole** - Geen real-time kwaliteitsdata van productieprocessen
+- **Complexe KPI-berekeningen** - [[overall-equipment-effectiveness|Overall Equipment Effectiveness (OEE)]] calculeren via ERP is enorm complex en kostbaar, terwijl dit met goede productie MES-data eenvoudig is
+
+### ERP shopfloor control modules
+
 Veel ERP-leveranciers bieden shopfloor control modules:
+
 #### Voordelen
-- **Vertrouwde omgeving**: Bouwt voort op bestaand systeem
-- **Directe integratie**: Naadloze koppeling met ERP-data
-- **Kosteneffectief**: Geen nieuw systeem nodig
+
+- **Vertrouwde omgeving** - Bouwt voort op bestaand systeem
+- **Directe integratie** - Naadloze koppeling met ERP-data
+- **Kosteneffectief** - Geen nieuw systeem nodig
 
 #### Beperkingen
-- **Beperkte real-time mogelijkheden**: ERP is gebouwd voor transacties, niet voor real-time events
-- **Weinig machine-connectiviteit**: Moeilijk te koppelen aan diverse machines
-- **Beperkte flexibiliteit**: Geen snelle aanpassing aan veranderende omstandigheden
 
-## ERP in Digitale Transformatie Context
+- **Beperkte real-time mogelijkheden** - ERP is gebouwd voor transacties, niet voor real-time events
+- **Weinig machine-connectiviteit** - Moeilijk te koppelen aan diverse machines
+- **Beperkte flexibiliteit** - Geen snelle aanpassing aan veranderende omstandigheden
 
-### De Strategische Rol van ERP
-> **Waarom is ERP cruciaal voor digitalisering?** "ERP bevat de structuur van het bedrijf en de details van wat we doen. Het bevat de cijfers - kosten en omzet - die nodig zijn om winst te berekenen, wat belangrijke context is voor optimale beslissingen (ML en AI hebben deze nodig)."
+## ERP in digitale transformatie context
 
-### ERP + MES: De Perfecte Combinatie
+### De strategische rol van ERP
+
+> [!note] ERP als business context ERP is cruciaal voor digitalisering omdat het de **structuur van het bedrijf** en de details van bedrijfsactiviteiten bevat. Het bevat de financiële cijfers - kosten en omzet - die nodig zijn om winst te berekenen, wat belangrijke context biedt voor optimale beslissingen. ML en AI hebben deze informatie nodig.
+
+### ERP + MES: de perfecte combinatie
+
 Voor metaalbewerkingsbedrijven is de ideale situatie:
-- **ERP**: Beheert orders, planning, financiën, inkoop
-- **[[manufacturing-execution-system|MES]]**: Regelt real-time productiebesturing
-- **Samenwerking**: ERP geeft orders door aan MES, MES geeft feedback terug aan ERP
 
-### Twee Belangrijkste Informatietypen in ERP:
+- **ERP** - Beheert orders, planning, financiën, inkoop
+- **[[manufacturing-execution-system|MES]]** - Regelt real-time productiebesturing
+- **Samenwerking** - ERP geeft orders door aan MES, MES geeft feedback terug aan ERP
 
-#### 1. Structuur van het Bedrijf
-- **Organisatorische hiërarchie**: Enterprise → Business Unit → Site → Area → Line
-- **Asset definitie**: Machines, lijnen, werkstations
-- **Product portfolio**: Wat produceren we en hoe
+#### Moderne integratie via datahub
 
-#### 2. Operationele Details
-- **Het Wat**: Welke producten maken we
-- **Het Waarom**: Orders, klantvereisten, marktbehoeften  
-- **Het Hoe**: Processen, recepten, productiesequenties
+Traditioneel werden ERP-MES koppelingen **point-to-point** gerealiseerd, wat leidde tot complexe en onderhoudsgevoelige verbindingen. Steeds vaker zie je dat deze koppelingen niet meer rechtstreeks zijn, maar via een **datahub** of **[[unified-namespace|Unified Namespace]]** lopen.
 
-### ERP Implementatie Challenges
+**Voordelen van hub-gebaseerde integratie:**
 
-#### Technische Uitdagingen
-- **IT-toegangsbeperkingen**: "IT won't let you access it"
-- **Middleware Dependencies**: Aparte teams voor SAP, middleware, digitale transformatie
-- **[[sarbanes-oxley-compliance|Sarbanes-Oxley Compliance]]**: Financiële regelgeving en audit vereisten
+- **Ontkoppeling** - Systemen hoeven elkaar niet direct te kennen
+- **Schaalbaarheid** - Nieuwe systemen kunnen eenvoudig toegevoegd worden
+- **Flexibiliteit** - Dataformaten en protocols kunnen per systeem verschillen
+- **Betrouwbaarheid** - Minder complexe point-to-point verbindingen
 
-#### Organisatorische Complexiteit
-- **Multiple Stakeholder Groups**: SAP developers, middleware developers, digital transformation architects
-- **Compliance Requirements**: Financiële integriteit en traceerbaarheid
-- **Legacy Integration**: Koppeling met bestaande systemen
+### Twee belangrijkste informatietypen in ERP
 
-## ERP Locatie in de Organisatie
+#### Bedrijfsstructuur en resources
 
-ERP systemen kunnen geïmplementeerd worden op verschillende niveaus:
+- **Wat maken we** - Productcatalogus, stuklijsten, specificaties
+- **Voor wie maken we het** - Klanten, orders, contracten
+- **Met welke werkplekken** - Productiefaciliteiten, machines, werkstations
+- **Met welke mensen** - Personeelsgegevens, vaardigheden, kostenplaatsen
+- **Welke specificaties** - Kwaliteitseisen, procedures, recepten
 
-### 1. Plant Level
-- Lokale fabriek-specifieke implementatie
-- Directe operationele controle
-- Beperkte enterprise-integratie
+#### Financiële en operationele details
 
-### 2. Business Unit Level  
-- Divisie of business unit scope
-- Gedeelde processen binnen unit
-- Beperkte cross-unit integratie
+- **Financiële informatie** - Kosten, prijzen, marges, budgetten (**ERP draait om GELD**)
+- **Het wat** - Welke producten maken we en tegen welke kosten
+- **Het waarom** - Orders, klantvereisten, winstgevendheid
+- **Het hoe** - Processen, doorlooptijden, kostprijsberekeningen
+- **Winstgevendheid** - Per product, klant, order en kostenplaats
 
-### 3. Enterprise Level
-- Organisatie-brede implementatie
-- Volledig geïntegreerde processen
-- Consistente data en rapportage
+## ERP integratie met Unified Namespace
 
-### 4. Cloud-based
-- Software-as-a-Service implementatie
-- Externe hosting en beheer
-- Schaalbaarheid en flexibiliteit
+### Traditionele ERP integratie
 
-## ERP Integratie met [[unified-namespace|UNS]]
-
-### Traditionele ERP Integratie
 ```
 Operational Systems
        │ (Point-to-point)
@@ -188,7 +258,8 @@ Operational Systems
    Reporting Layer
 ```
 
-### Moderne UNS gebasserde integratie voor Metaalbewerking
+### Moderne UNS-gebaseerde integratie voor metaalbewerking
+
 ```
         Unified Namespace (MQTT)
               │
@@ -203,48 +274,30 @@ MES: Real-time productie, OEE, Kwaliteit
 SCADA: Machine control, Sensoren
 ```
 
+> [!tip] Event-gedreven integratie Deze integratie via [[unified-namespace|Unified Namespace]] maakt real-time event-gedreven communicatie mogelijk tussen ERP en productiesystemen, terwijl elk systeem zijn kernfunctionaliteiten behoudt.
+
+### ERP als systeemnode
+
+De traditionele benadering van ERP-leveranciers stelt ERP voor als het **centrale systeem** waar alle andere applicaties omheen gebouwd worden. Deze "ERP-als-centrum" filosofie staat echter steeds meer onder druk door de opkomst van **best of breed** oplossingen.
+
+**ERP als systeemnode** beschrijft een moderne benadering waarbij bedrijfssystemen onderdeel zijn van een bredere digitale architectuur, niet de centrale spil waar alles omheen draait. In plaats van één monolithisch systeem wordt ERP één van de vele gespecialiseerde nodes in een gedistribueerde architectuur.
+
+Deze verschuiving is essentieel voor succesvolle digitale transformatie in de metaalindustrie, waar flexibiliteit en specialisatie vaak belangrijker zijn dan de eenvoud van één leverancier.
+
+Voor meer details zie [[erp-als-systeemnode]] en [[erp-integratiestrategie]].
+
 ## Gerelateerde begrippen
 
-**System Integration & Architecture:**
 - [[unified-namespace|Unified Namespace (UNS)]] - Moderne ERP integratie architectuur
+- [[manufacturing-execution-system|Manufacturing Execution System (MES)]] - ERP-MES integratie voor productie
 - [[isa-95-model|ISA-95 model]] - ERP niveau 4-5 in industriële hiërarchie
-- [[single-source-of-truth|Single Source of Truth (SSOT)]] - ERP als business data authority
-- [[application-programming-interface|API]] - ERP systeemconnectiviteit
-- [[event-gedreven-architectuur|Event-gedreven architectuur]] - Real-time ERP updates
-
-**Manufacturing Integration:**
-- [[manufacturing-execution-system|Manufacturing Execution System (MES)]] - ERP-MES integratie
-- [[manufacturing-operations-management|MOM]] - Uitgebreide productie-integratie
-- [[advanced-planning-and-scheduling|APS]] - Geavanceerde planning systemen
-- [[material-requirements-planning|MRP]] - Materiaalplanning binnen ERP
-
-**Master Data Management:**
-- [[master-data-management|Master Data Management]] - Centrale databeheersing
-- [[stuklijst-bill-of-materials|Bill of Materials (BOM)]] - Productstructuren
-- [[asset-inventaris|Asset Inventaris]] - Bedrijfsmiddelenbeheer
-- [[product-data-management|PDM]] - Productgegevens beheer
-
-**Business Operations:**
-- [[supply-chain-management|Supply Chain Management]] - Toeleveringsketen integratie
-- [[customer-relationship-management|CRM]] - Klantrelatiebeheer
-- [[warehouse-management-system|WMS]] - Magazijnbeheer systemen
-- [[transport-management-system|TMS]] - Transportplanning
-
-**Data & Analytics:**
-- [[business-intelligence|Business Intelligence]] - ERP rapportage en analytics
-- [[data-democratisering|Data democratisering]] - Self-service ERP analytics
-- [[kpi-dashboard|KPI Dashboard]] - Prestatie monitoring
-- [[extract-transform-load|ETL]] - Data integratie processen
-
-**Digital Transformation:**
-- [[digitale-transformatie|Digitale Transformatie]] - ERP's rol in digitalisering
-- [[it-ot-convergentie|IT-OT Convergentie]] - Bedrijfs- en operationele systeem integratie
-- [[cloud-computing|Cloud Computing]] - Cloud-based ERP implementaties
-- [[kunstmatige-intelligentie|AI]] - AI-gedreven ERP optimalisatie
+- [[it-ot-convergentie|IT/OT-convergentie]] - Bedrijfs- en operationele systeem integratie
+- [[digitale-transformatie|Digitale transformatie]] - ERP's rol in digitalisering
 
 ## Bronnen
 
-[PLACEHOLDER - Bronnen worden later toegevoegd]
+- [Enterprise resource planning - Wikipedia](https://nl.wikipedia.org/wiki/Enterprise_resource_planning)
 
 ---
-← Terug naar [[digitale-transformatie-en-industrie-40|Digitale transformatie & Industrie 4.0/5.0 kaart]]
+
+← Terug naar [[kaarten/digitale-transformatie-en-industrie-40|Digitale transformatie & Industrie 4.0/5.0 kaart]]
