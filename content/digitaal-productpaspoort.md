@@ -72,6 +72,7 @@ Het Digitaal Productpaspoort heeft een brede impact en diverse toepassingen, met
 - [[traceerbaarheidssysteem|Traceerbaarheidssysteem]]
 - [[uitgebreide-producentenverantwoordelijkheid|Uitgebreide producentenverantwoordelijkheid (EPR)]]
 - [[reach-verordening|REACH-verordening]]
+- [[eu-regulaties-en-de-industrie|Impact van EU Regulaties]]
 
 ---
 ← Terug naar [[kaarten/duurzaamheid-en-compliance|Duurzaamheid & Compliance kaart]]

@@ -34,6 +34,7 @@ Het EU ETS dekt ongeveer 40% van de totale broeikasgasemissies van de EU en is v
 - [[carbon-border-adjustment-mechanism|Carbon Border Adjustment Mechanism (CBAM)]]
 - [[co2-voetafdruk|CO₂-voetafdruk]]
 - [[europese-green-deal|Europese Green Deal]]
+- [[eu-regulaties-en-de-industrie|Impact van EU Regulaties]]
 
 ---
 ← Terug naar [[kaarten/duurzaamheid-en-compliance|Duurzaamheid & Compliance kaart]]

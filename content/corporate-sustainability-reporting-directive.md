@@ -72,6 +72,7 @@ De CSRD heeft aanzienlijke gevolgen voor bedrijven, met name in de maakindustrie
 - [[datagovernance|Datagovernance]]
 - [[supply-chain-management|Supply Chain Management (SCM)]]
 - [[milieuprestatie-berekening|Milieuprestatie-berekening]]
+- [[eu-regulaties-en-de-industrie|Impact van EU Regulaties]]
 
 ## Bronnen
 

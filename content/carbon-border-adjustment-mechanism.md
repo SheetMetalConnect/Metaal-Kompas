@@ -40,6 +40,7 @@ In eerste instantie is CBAM van toepassing op een beperkt aantal koolstofintensi
 - [[emissions-trading-system|EU Emissions Trading System (EU ETS)]]
 - [[co2-voetafdruk|CO₂-voetafdruk]]
 - [[europese-green-deal|Europese Green Deal]]
+- [[eu-regulaties-en-de-industrie|Impact van EU Regulaties]]
 
 ---
 ← Terug naar [[kaarten/duurzaamheid-en-compliance|Duurzaamheid & Compliance kaart]]
