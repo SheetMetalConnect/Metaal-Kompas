@@ -4,7 +4,7 @@
 
 **Kompas** is een open-source kennisbase die industriële begrippen helder definieert en richting geeft binnen de context van digitale transformatie in de metaalbewerkende industrie. Het combineert traditionele productiekennis met moderne digitale technologieën in de Nederlandse taal.
 
-🌐 **Website:** https://sheetmetalconnect.github.io/Kompas/  
+🌐 **Website:** https://sheetmetalconnect.github.io/Metaal-Kompas/
 📧 **Contact:** info@vanenkhuizen.com
 
 ## 🎯 Over dit Project
