@@ -5,8 +5,6 @@ tags:
 
 title: Message Queuing Telemetry Transport (MQTT)
 ---
-# Message Queuing Telemetry Transport (MQTT)
-
 _Message Queuing Telemetry Transport (MQTT)_ is een lightweight messaging protocol (lichtgewicht berichtenprotocol) dat speciaal is ontworpen voor machine-to-machine communicatie in omgevingen met beperkte bandbreedte en onbetrouwbare netwerkverbindingen.
 
 > [!important] Protocol vs Broker MQTT is het **protocol**, niet de broker. Een broker is slechts één component binnen de grotere MQTT-architectuur, net zoals UNS geen broker is maar een fabric (weefsel) of architectuur voor het organiseren van industriële data.
@@ -26,6 +24,8 @@ MQTT is sindsdien geëvolueerd tot een breed geaccepteerd protocol voor IoT, ind
 - **2016–2017** — Sparkplug A, daarna Sparkplug B geïntroduceerd voor industriële OT
 - **2019** — MQTT 5.0 uitgebracht (enterprise-gerichte verbeteringen)
 - **2020s** — Unified Namespace (UNS) patronen ontstaan, gebruikmakend van MQTT als transport fabric
+
+[]
 
 ## Waarom MQTT bestaat
 
