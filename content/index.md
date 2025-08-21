@@ -1,10 +1,10 @@
 ---
 tags: 
-title: Metaal Kompas
+title: 🧭 Metaal Kompas
 description: Kenniscompas voor digitale transformatie in de metaalindustrie
 ---
 
-# Metaal Kompas
+# 🧭 Metaal Kompas
 *Kenniscompas voor digitale transformatie in de metaalindustrie*
 
 Welkom bij **Metaal Kompas** – een open kennisbank die industriële begrippen helder definieert voor digitale transformatie in de metaalbewerkende industrie.
@@ -25,39 +25,56 @@ Deze **[[digitale-tuin|digitale tuin]]** bevat mijn studie- en reviewnotities al
 2. [[unified-namespace|Unified Namespace]] – Moderne data-architectuur  
 3. [[digitale-transformatie|Digitale Transformatie]] – Strategische implementatie
 4. [[industrie-4.0|Industrie 4.0]] – Connectiviteit en cyber-fysieke systemen
+5. [[industrie-3-vs-4-integrators|Industrie 3.0 vs 4.0 Integrators]] – Welke integratieaanpak past bij jouw bedrijf?
 
 ---
 
-## Kenniskaarten
+## 🌟 Actuele Features
 
-**Thematische overzichten per vakgebied:**
+**Nieuwe en trending onderwerpen:**
+
+• [[impact-per-bedrijfsgrootte-eu|EU Regelgeving Impact]] – DPP, CBAM, CSRD, EU ETS per bedrijfsgrootte  
+• [[digitaal-productpaspoort|Digitaal Productpaspoort (DPP)]] – Nieuwe EU-verplichting voor circulariteit  
+• [[kaarten/duurzaamheid-en-compliance|Duurzaamheid & Compliance]] – Hot topic: compliance navigatie
+
+---
+
+## Kenniskaarten Overzicht
 
 ### Productie & Processen
-- [[kaarten/procesoptimalisatie-en-organisatie|Procesoptimalisatie & Organisatie]]
-- [[kaarten/productstructuur-en-documentatie|Productstructuur & Documentatie]]
-- [[kaarten/programmatie-en-aansturing-productiemiddelen|Programmatie & Aansturing]]
-- [[kaarten/traceerbaarheid-en-productidentificatie|Traceerbaarheid & Productidentificatie]]
+◦ [[kaarten/procesoptimalisatie-en-organisatie|Procesoptimalisatie & Organisatie]]  
+◦ [[kaarten/productstructuur-en-documentatie|Productstructuur & Documentatie]]  
+◦ [[kaarten/programmatie-en-aansturing-productiemiddelen|Programmatie & Aansturing]]  
+◦ [[kaarten/traceerbaarheid-en-productidentificatie|Traceerbaarheid & Productidentificatie]]
+
+---
 
 ### Data & Technologie
-- [[kaarten/data-collectie-en-industrial-data-platforms|Data-collectie & Industrial Data Platforms]]
-- [[kaarten/event-streaming-messaging-en-integratie|Event Streaming & Messaging]]
-- [[kaarten/industriële-communicatieprotocollen|Industriële Communicatieprotocollen]]
-- [[kaarten/data-analyse-en-business-intelligence|Data-analyse & Business Intelligence]]
+◦ [[kaarten/data-collectie-en-industrial-data-platforms|Data-collectie & Industrial Data Platforms]]  
+◦ [[kaarten/event-streaming-messaging-en-integratie|Event Streaming & Messaging]]  
+◦ [[kaarten/industriële-communicatieprotocollen|Industriële Communicatieprotocollen]]  
+◦ [[kaarten/data-analyse-en-business-intelligence|Data-analyse & Business Intelligence]]
+
+---
 
 ### Transformatie & Innovatie
-- [[kaarten/digitale-transformatie-en-industrie-40|Digitale Transformatie & Industrie 4.0/5.0]]
-- [[kaarten/innovatie-en-toekomsttrends|Innovatie & Toekomsttrends]]
-- [[kaarten/softwaredeployment-en-architectuur|Software & Architectuur]]
-- [[kaarten/softwaremodules-en-integratie|Softwaremodules & Integratie]]
+◦ [[kaarten/digitale-transformatie-en-industrie-40|Digitale Transformatie & Industrie 4.0/5.0]]  
+◦ [[kaarten/innovatie-en-toekomsttrends|Innovatie & Toekomsttrends]]  
+◦ [[kaarten/softwaredeployment-en-architectuur|Software & Architectuur]]  
+◦ [[kaarten/softwaremodules-en-integratie|Softwaremodules & Integratie]]
+
+---
 
 ### Kwaliteit & Compliance
-- [[kaarten/kwaliteitsmanagement-en-software|Kwaliteitsmanagement & Software]]
-- [[kaarten/lasnormen-en-certificering|Lasnormen & Certificering]]
-- [[kaarten/duurzaamheid-en-compliance|Duurzaamheid & Compliance]]
+◦ [[kaarten/kwaliteitsmanagement-en-software|Kwaliteitsmanagement & Software]]  
+◦ [[kaarten/lasnormen-en-certificering|Lasnormen & Certificering]]  
+◦ [[kaarten/duurzaamheid-en-compliance|Duurzaamheid & Compliance]]
+
+---
 
 ### Security & Methodologie
-- [[kaarten/extra-industrie-en-security-topics|Security & IT/OT]]
-- [[kaarten/methodologie-en-werkwijzen|Methodologie & Werkwijzen]]
+◦ [[kaarten/extra-industrie-en-security-topics|Security & IT/OT]]  
+◦ [[kaarten/methodologie-en-werkwijzen|Methodologie & Werkwijzen]]
 
 ---
 
