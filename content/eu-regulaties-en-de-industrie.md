@@ -1,6 +1,7 @@
 ---
-title: Overzicht van de impact van EU-regelgeving (DPP, CBAM, CSRD, EU ETS)
+title: EU Regulaties (DPP, CBAM, CSRD, ETS) en de Industrie
 tags:
+  - eu-regulaties
   - duurzaamheid-en-compliance
   - live
 ---
@@ -173,4 +174,4 @@ Het ETS is de **hoofdpijler van het Europese klimaatbeleid**: wie veel uitstoot 
 
 ---
 
-← Terug naar [[duurzaamheid-en-compliance]]
+← Terug naar [[kaarten/index|Overzicht van alle kaarten]] | [[index|Kompas hoofdpagina]]

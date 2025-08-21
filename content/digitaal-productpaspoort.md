@@ -5,6 +5,9 @@ tags:
 
 title: Digitaal productpaspoort (DPP)
 ---
+
+> [!warning] Disclaimer: Dit document is een praktisch overzicht, geen juridisch advies. Regels en drempels kunnen nog wijzigen. Raadpleeg altijd de officiële teksten van de Europese Commissie en nationale autoriteiten.
+
 *Digitaal productpaspoort (DPP)* is een gestandaardiseerd digitaal document dat uitgebreide informatie over een product bevat, essentieel voor het bevorderen van circulariteit en duurzaamheid binnen de Europese Unie.
 
 ## Definitie
@@ -69,6 +72,7 @@ Het Digitaal Productpaspoort heeft een brede impact en diverse toepassingen, met
 - [[traceerbaarheidssysteem|Traceerbaarheidssysteem]]
 - [[uitgebreide-producentenverantwoordelijkheid|Uitgebreide producentenverantwoordelijkheid (EPR)]]
 - [[reach-verordening|REACH-verordening]]
+- [[eu-regulaties-en-de-industrie|Impact van EU Regulaties]]
 
 ---
 ← Terug naar [[kaarten/duurzaamheid-en-compliance|Duurzaamheid & Compliance kaart]]
