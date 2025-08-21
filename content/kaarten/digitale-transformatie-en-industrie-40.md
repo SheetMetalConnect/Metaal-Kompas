@@ -61,6 +61,7 @@ Deze kaart biedt een overzicht van alle begrippen binnen **digitale transformati
 
 **Assessment & Strategy:**
 - [[digitale-transformatie-implementatie|DTMA & Implementatie]] - ⭐ **Volwassenheidsanalyse en praktische uitvoering**
+- [[industrie-3-vs-4-integrators|Industrie 3.0 vs 4.0 Integrators]] - ⭐ **Verschil tussen traditionele en moderne integratieaanpak**
 
 ## 🔗 Digital Thread & Connectiviteit
 
