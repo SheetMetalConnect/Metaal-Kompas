@@ -51,7 +51,17 @@ Deze kaart biedt een overzicht van alle begrippen binnen **softwaremodules & int
 
 ## Gerelateerde kaarten
 
-[PLACEHOLDER - Links naar gerelateerde kaarten worden later toegevoegd]
+**Direct gerelateerd:**
+- [[data-collectie-en-industrial-data-platforms|Data-collectie & Industrial Data Platforms]] - Voor dataverzameling en -opslag
+- [[event-streaming-messaging-en-integratie|Event Streaming & Messaging]] - Voor systeemintegratie en dataflow
+- [[industriële-communicatieprotocollen|Industriële Communicatieprotocollen]] - Voor machine-to-machine communicatie
+- [[softwaredeployment-en-architectuur|Software Deployment & Architectuur]] - Voor deployment en infrastructuur
+
+**Procesondersteunend:**
+- [[productstructuur-en-documentatie|Productstructuur & Documentatie]] - Voor productdata en documentbeheer
+- [[data-analyse-en-business-intelligence|Data-analyse & Business Intelligence]] - Voor rapportage en inzichten
+- [[kwaliteitsmanagement-en-software|Kwaliteitsmanagement & Software]] - Voor kwaliteitssystemen integratie
+- [[digitale-transformatie-en-industrie-40|Digitale Transformatie & Industrie 4.0]] - Voor strategische inbedding
 
 ---
 ← Terug naar [[kaarten/index|Overzicht van alle kaarten]] | [[index|Kompas hoofdpagina]]

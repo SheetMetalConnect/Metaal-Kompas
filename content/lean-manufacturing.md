@@ -1,15 +1,16 @@
 ---
 tags:
   - 'procesoptimalisatie-en-organisatie'
+  - 'verandermanagement'
   - 'live'
 
-title: Lean manufacturing
+title: Lean Manufacturing
 ---
-*Lean manufacturing* is een begrip binnen de industriële digitalisering en procesoptimalisatie & organisatie.
+**Lean Manufacturing** is een anti-bureaucratische productiemethodologie die fundamenteel werkt als [[verandermanagement|verandermanagement]] strategie in de metaalindustrie. Door de systematische eliminatie van verspilling en de implementatie van doelgerichte processen, doorbreekt Lean Manufacturing [[pournelles-iron-law-of-bureaucracy|bureaucratische structuren]] die [[digitale-transformatie|digitale transformatie]] belemmeren.
 
 ## Definitie
 
-Lean manufacturing is een productiemethodologie die primair gericht is op het verminderen van doorlooptijden binnen het productiesysteem, evenals responstijden van leveranciers en klanten. Het is nauw verwant aan het concept **just-in-time manufacturing** (JIT) en vormt een afgeleide van het [[toyota-productiesysteem|Toyota Production System (TPS)]].
+**Lean Manufacturing** is een productiemethodologie die primair gericht is op het verminderen van doorlooptijden binnen het productiesysteem, evenals responstijden van leveranciers en klanten. Als afgeleide van het [[toyota-productiesysteem|Toyota Production System (TPS)]] functioneert Lean als krachtig instrument voor organisatorische verandering door bureaucratie te vervangen door waardegedreven processen. Het nauw verwante concept **just-in-time manufacturing** (JIT) vormt de technische basis.
 
 ## Kenmerken
 
@@ -24,8 +25,8 @@ Lean manufacturing is een productiemethodologie die primair gericht is op het ve
 - **Waardestroom** - Alle specifieke acties om een product door probleemoplossing, informatiebeheer en fysieke transformatie te leiden
 - **Pull Systeem** - Productie gebaseerd op klantenvraag in plaats van voorspelde vraag
 - **Continue Flow** - Producten door productieproces bewegen met minimale buffers tussen stappen
-- **[[kaizen|Kaizen]]** - Continue verbetering waarbij alle werknemers betrokken zijn
-- **[[5s-methode|5S]]** - Sorteren, Systematiseren, Schoonmaken, Standaardiseren, Sustain
+- **[[kaizen|Kaizen]]** - Continue verbetering waarbij alle werknemers betrokken zijn en [[pournelles-iron-law-of-bureaucracy|bureaucratische weerstand]] wordt doorbroken
+- **5S** - Sorteren, Systematiseren, Schoonmaken, Standaardiseren, Sustain
 
 ### Waste Eliminatie (Muda)
 Focus op eliminatie van de 8 vormen van verspilling:
@@ -40,12 +41,12 @@ Focus op eliminatie van de 8 vormen van verspilling:
 - **Stabiele vraagpatronen**
 - **Gestandaardiseerde producten**
 
-### Implementatie Aanpak
-1. **[[value-stream-mapping|Value Stream Mapping (VSM)]]** - Meest gebruikelijke eerste stap
-2. **[[5s-methode|5S Implementatie]]** - Werkplekorganisatie
-3. **[[kanban|Kanban Systemen]]** - Visuele productiebesturing
-4. **[[kaizen|Kaizen Events]]** - Snelle verbeterprojecten
-5. **[[poka-yoke|Poka-yoke]]** - Foutpreventie mechanismen
+### Implementatie Aanpak als Verandermanagement Strategie
+1. **[[value-stream-mapping|Value Stream Mapping (VSM)]]** - Identificeert bureaucratische verspilling en niet-waardetoevoegende processen
+2. **5S Implementatie** - Werkplekorganisatie die doelgerichte medewerkers empowert
+3. **[[kanban|Kanban Systemen]]** - Visuele productiebesturing die bureaucratische goedkeuringen vervangt
+4. **[[kaizen|Kaizen Events]]** - Snelle verbeterprojecten die [[verandermanagement|organisatorische traagheid]] doorbreken
+5. **[[poka-yoke|Poka-yoke]]** - Foutpreventie mechanismen die procedurele complexiteit vervangen
 
 ### Relatie tot andere Methodologieën
 
@@ -60,21 +61,27 @@ Focus op eliminatie van de 8 vormen van verspilling:
 - QRM onderscheidt functionele vs strategische variabiliteit
 - **Complementair in job shop omgevingen**
 
-## Gerelateerde begrippen
+## Verwante begrippen
+
+**Verandermanagement en Anti-Bureaucratie:**
+- [[verandermanagement|Verandermanagement]] - Lean als strategie voor organisatorische transformatie
+- [[pournelles-iron-law-of-bureaucracy|Pournelles IJzeren Wet]] - Bureaucratische weerstand die Lean doorbreekt
+- [[continuous-improvement|Continue Verbetering]] - Filosofie die bureaucratische traagheid tegenwerkt
+- [[digitale-transformatie|Digitale Transformatie]] - Moderne toepassing van Lean principes
 
 **TPS & Methodologieën:**
-- [[toyota-productiesysteem|Toyota Production System (TPS)]] - Oorspronkelijke basis voor Lean
+- [[toyota-productiesysteem|Toyota Production System (TPS)]] - Oorspronkelijke basis voor Lean met focus op mensenrespect
 - [[quick-response-manufacturing|Quick Response Manufacturing (QRM)]] - Alternatief voor hoge variabiliteit
 - [[just-in-time-productie|Just-in-Time (JIT)]] - Nauw verwante productiefilosofie
 
 **Lean Tools & Technieken:**
-- [[value-stream-mapping|Value Stream Mapping (VSM)]] - Procesanalyse tool
-- [[5s-methode|5S]] - Werkplekorganisatie methode
-- [[kaizen|Kaizen]] - Continue verbetering
-- [[kanban|Kanban]] - Visueel productiebesturingssysteem
+- [[value-stream-mapping|Value Stream Mapping (VSM)]] - Identificeert bureaucratische verspilling
+- [[kaizen|Kaizen]] - Continue verbetering die hiërarchieën doorbreekt
+- [[kanban|Kanban]] - Visueel systeem dat bureaucratische goedkeuringen vervangt
+- [[gemba-walk|Gemba Walk]] - Management betrokkenheid bij werkelijke waardecreatie
 
 **Kwaliteit & Optimalisatie:**
-- [[six-sigma|Six Sigma]] - Kwaliteitsverbetering methodologie
+- [[six-sigma|Six Sigma]] - Datagedreven kwaliteitsverbetering
 - [[total-productive-maintenance|TPM]] - Totaal productief onderhoud
 - [[single-minute-exchange-of-die|SMED]] - Snelle omstelling
 - [[overall-equipment-effectiveness|OEE]] - Equipment effectiviteitsmeting
