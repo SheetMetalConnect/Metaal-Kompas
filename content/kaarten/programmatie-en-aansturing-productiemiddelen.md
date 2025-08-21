@@ -32,7 +32,18 @@ Deze kaart biedt een overzicht van alle begrippen binnen **programmatie & aanstu
 
 ## Gerelateerde kaarten
 
-[PLACEHOLDER - Links naar gerelateerde kaarten worden later toegevoegd]
+**Digitale integratie:**
+- [[kaarten/softwaremodules-en-integratie|Softwaremodules & Integratie]] - Voor CAM en MES integratie
+- [[kaarten/data-collectie-en-industrial-data-platforms|Data-collectie & Industrial Data Platforms]] - Voor machine data verzameling
+- [[kaarten/industriële-communicatieprotocollen|Industriële Communicatieprotocollen]] - Voor machine-to-machine communicatie
+
+**Kwaliteit en proces:**
+- [[kaarten/kwaliteitsmanagement-en-software|Kwaliteitsmanagement & Software]] - Voor programmakwaliteit en SPC
+- [[kaarten/lasnormen-en-certificering|Lasnormen & Certificering]] - Voor WPS integratie in robottoepassingen
+- [[kaarten/procesoptimalisatie-en-organisatie|Procesoptimalisatie & Organisatie]] - Voor lean manufacturing en OEE
+
+**Transformatie:**
+- [[kaarten/digitale-transformatie-en-industrie-40|Digitale Transformatie & Industrie 4.0/5.0]] - Voor smart manufacturing implementatie
 
 ---
 ← Terug naar [[kaarten/index|Overzicht van alle kaarten]] | [[index|Kompas hoofdpagina]]

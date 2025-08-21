@@ -22,6 +22,11 @@ Deze kaart biedt een overzicht van alle begrippen binnen **traceerbaarheid & pro
 - [[track-en-trace|Track‑&‑trace]]
 - [[product-genealogie|Product‑genealogie (productiegeschiedenis)]]
 
+## Data Management voor Traceerbaarheid
+- [[historian-database|Historian-database]] - Voor tijdreeks productiedata
+- [[master-data-management|Master Data Management (MDM)]] - Voor centrale produktdefinities
+- [[data-herkomst|Data-herkomst (data lineage)]] - Voor volledige traceerbaarheid
+
 
 ## Gerelateerde kaarten
 

@@ -31,6 +31,8 @@ Deze kaart biedt een overzicht van alle begrippen binnen **procesoptimalisatie &
 - [[predictive-maintenance|Predictive maintenance (voorspellend onderhoud)]]
 - [[condition-monitoring|Condition monitoring]]
 - [[bottleneck-analyse|Bottleneck‑analyse]]
+- [[data-acquisitie|Data-acquisitie (DAQ)]] - Voor real-time performance monitoring
+- [[realtime-monitoring|Realtime monitoring]] - Voor continue procesbeheersing
 
 ## Productie Planning & Control
 - [[kanban|Kanban]]
@@ -54,7 +56,10 @@ Deze kaart biedt een overzicht van alle begrippen binnen **procesoptimalisatie &
 
 ## Gerelateerde kaarten
 
-- [[kaarten/kwaliteitsmanagement-en-software|Kwaliteitsmanagement & Software]] - Voor Six Sigma en kwaliteitstools integratie\n- [[kaarten/data-analyse-en-business-intelligence|Data‑analyse & Business Intelligence]] - Voor OEE monitoring en procesanalyse\n- [[kaarten/digitale-transformatie-en-industrie-40|Digitale transformatie]] - Voor smart manufacturing implementatie\n- [[kaarten/methodologie-en-werkwijzen|Methodologie & Werkwijzen]] - Voor engineering proces optimalisatie
+- [[kaarten/kwaliteitsmanagement-en-software|Kwaliteitsmanagement & Software]] - Voor Six Sigma en kwaliteitstools integratie
+- [[kaarten/data-analyse-en-business-intelligence|Data‑analyse & Business Intelligence]] - Voor OEE monitoring en procesanalyse
+- [[kaarten/digitale-transformatie-en-industrie-40|Digitale transformatie]] - Voor smart manufacturing implementatie
+- [[kaarten/methodologie-en-werkwijzen|Methodologie & Werkwijzen]] - Voor engineering proces optimalisatie
 
 ---
 ← Terug naar [[kaarten/index|Overzicht van alle kaarten]] | [[index|Kompas hoofdpagina]]

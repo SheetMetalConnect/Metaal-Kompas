@@ -48,6 +48,11 @@ Deze kaart biedt een overzicht van alle begrippen binnen **softwaremodules & int
 - [[retool|Retool]] - Internal tools development
 - [[tulip-software|Tulip Software]] - Manufacturing apps platform
 
+## Unified Namespace Integration
+- [[unified-namespace|Unified Namespace (UNS)]] - Integratie-architectuur voor alle systemen
+- [[mqtt-broker|MQTT-broker]] - Voor real-time system messaging
+- [[event-gedreven-architectuur|Event-gedreven architectuur]] - Voor losse systeemkoppeling
+
 
 ## Gerelateerde kaarten
 

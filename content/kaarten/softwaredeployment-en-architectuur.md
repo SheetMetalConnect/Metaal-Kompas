@@ -48,7 +48,7 @@ Deze kaart biedt een overzicht van alle begrippen binnen **softwaredeployment & 
 - [[kaarten/data-analyse-en-business-intelligence|Data & Business Intelligence]] - UNS data analytics
 
 **Toegepaste scenario's:**
-- [[digitale-transformatie-en-industrie-40|Digitale transformatie]] - UNS als enabler voor Industrie 4.0
+- [[kaarten/digitale-transformatie-en-industrie-40|Digitale transformatie]] - UNS als enabler voor Industrie 4.0
 - [[kaarten/softwaremodules-en-integratie|Softwaremodules & Integratie]] - UNS integratie met bestaande systemen
 
 ---

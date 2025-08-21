@@ -30,7 +30,18 @@ Deze kaart biedt een overzicht van alle begrippen binnen **duurzaamheid & compli
 
 ## Gerelateerde kaarten
 
-[PLACEHOLDER - Links naar gerelateerde kaarten worden later toegevoegd]
+**Traceabiliteit en documentatie:**
+- [[kaarten/traceerbaarheid-en-productidentificatie|Traceerbaarheid & Productidentificatie]] - Voor productpaspoorten en materialenvolging
+- [[kaarten/productstructuur-en-documentatie|Productstructuur & Documentatie]] - Voor LCA data en technische dossiers
+- [[kaarten/kwaliteitsmanagement-en-software|Kwaliteitsmanagement & Software]] - Voor compliance management
+
+**Data en analyse:**
+- [[kaarten/data-analyse-en-business-intelligence|Data & Business Intelligence]] - Voor ESG rapportage en milieuprestatie berekening
+- [[kaarten/data-collectie-en-industrial-data-platforms|Data-collectie & Industrial Data Platforms]] - Voor CO₂ monitoring en energie data
+
+**Strategische transformatie:**
+- [[kaarten/digitale-transformatie-en-industrie-40|Digitale Transformatie & Industrie 4.0/5.0]] - Voor duurzame digitalisering
+- [[kaarten/procesoptimalisatie-en-organisatie|Procesoptimalisatie & Organisatie]] - Voor afvalvrij produceren en lean manufacturing
 
 ---
 ← Terug naar [[kaarten/index|Overzicht van alle kaarten]] | [[index|Kompas hoofdpagina]]

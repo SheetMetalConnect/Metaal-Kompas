@@ -36,7 +36,18 @@ Deze kaart biedt een overzicht van alle begrippen binnen **productstructuur & do
 
 ## Gerelateerde kaarten
 
-[PLACEHOLDER - Links naar gerelateerde kaarten worden later toegevoegd]
+**Operationele integratie:**
+- [[kaarten/softwaremodules-en-integratie|Softwaremodules & Integratie]] - Voor PLM, PDM en ERP integratie
+- [[kaarten/traceerbaarheid-en-productidentificatie|Traceerbaarheid & Productidentificatie]] - Voor BOM-gekoppelde traceering
+- [[kaarten/kwaliteitsmanagement-en-software|Kwaliteitsmanagement & Software]] - Voor documentbeheer en procesbeschrijvingen
+
+**Data en analyse:**
+- [[kaarten/data-collectie-en-industrial-data-platforms|Data-collectie & Industrial Data Platforms]] - Voor productiedata koppeling aan BOM
+- [[kaarten/data-analyse-en-business-intelligence|Data & Business Intelligence]] - Voor productierapportage en analyse
+
+**Procesoptimalisatie:**
+- [[kaarten/procesoptimalisatie-en-organisatie|Procesoptimalisatie & Organisatie]] - Voor gestructureerde werkinstructies
+- [[kaarten/lasnormen-en-certificering|Lasnormen & Certificering]] - Voor technische documentatie integratie
 
 ---
 ← Terug naar [[kaarten/index|Overzicht van alle kaarten]] | [[index|Kompas hoofdpagina]]

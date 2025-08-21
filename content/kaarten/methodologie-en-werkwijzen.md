@@ -54,6 +54,8 @@ Deze kaart bevat methodologieën, frameworks en werkwijzen die professionals hel
 - [[communities-of-practice|Communities of Practice]] - Leernetwerken
 - [[after-action-review|After Action Review]] - Post-project leren
 - [[learning-organization|Learning organization]] - Organisatorische leercapaciteit
+- [[unified-namespace|Unified Namespace]] - Voor gedeelde kennisarchitectuur
+- [[data-democratisering|Data democratisering]] - Voor toegankelijke bedrijfsinformatie
 
 ## 🚀 Innovatie & Ontwikkeling
 
@@ -96,6 +98,21 @@ Deze kaart bevat methodologieën, frameworks en werkwijzen die professionals hel
 - [[cost-benefit-analysis|Cost-benefit analysis]] - Kosten-baten analyse
 - [[multi-criteria-analysis|Multi-criteria analysis]] - Meerdere criteria evaluatie
 - [[risk-assessment|Risk assessment]] - Risico evaluatie methodieken
+
+---
+
+## Gerelateerde kaarten
+
+**Procesexcellentie:**
+- [[kaarten/procesoptimalisatie-en-organisatie|Procesoptimalisatie & Organisatie]] - Voor lean en six sigma implementatie
+- [[kaarten/kwaliteitsmanagement-en-software|Kwaliteitsmanagement & Software]] - Voor systematische kwaliteitsverbetering
+
+**Digitale transformatie:**
+- [[kaarten/digitale-transformatie-en-industrie-40|Digitale Transformatie & Industrie 4.0/5.0]] - Voor change management bij digitalisering
+- [[kaarten/data-analyse-en-business-intelligence|Data & Business Intelligence]] - Voor data-gedreven besluitvorming
+
+**Kennisdeling en ontwikkeling:**
+- [[kaarten/extra-industrie-en-security-topics|Extra industrie & Security Topics]] - Voor persoonlijke productiviteit en kennismanagement
 
 ---
 

@@ -45,7 +45,7 @@ Deze kaart biedt een overzicht van alle begrippen binnen **event streaming, mess
 - [[kaarten/data-collectie-en-industrial-data-platforms|Data-collectie]] - UNS data sources
 
 **Toegepaste scenario's:**
-- [[digitale-transformatie-en-industrie-40|Digitale transformatie]] - Event-driven digital transformation
+- [[kaarten/digitale-transformatie-en-industrie-40|Digitale transformatie]] - Event-driven digital transformation
 
 ---
 ← Terug naar [[kaarten/index|Overzicht van alle kaarten]] | [[index|Kompas hoofdpagina]]

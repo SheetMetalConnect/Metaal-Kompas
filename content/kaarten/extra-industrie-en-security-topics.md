@@ -40,7 +40,18 @@ Deze kaart biedt een overzicht van alle begrippen binnen **extra industrie & sec
 
 ## Gerelateerde kaarten
 
-[PLACEHOLDER - Links naar gerelateerde kaarten worden later toegevoegd]
+**IT/OT Convergentie:**
+- [[kaarten/industriële-communicatieprotocollen|Industriële Communicatieprotocollen]] - Voor secure protocols en netwerken
+- [[kaarten/softwaredeployment-en-architectuur|Software & Architectuur]] - Voor secure deployment en infrastructuur
+- [[kaarten/digitale-transformatie-en-industrie-40|Digitale Transformatie & Industrie 4.0/5.0]] - Voor veilige digitalisering
+
+**Productiviteit en ontwikkeling:**
+- [[kaarten/methodologie-en-werkwijzen|Methodologie & Werkwijzen]] - Voor kennismanagement en persoonlijke ontwikkeling methodieken
+- [[kaarten/procesoptimalisatie-en-organisatie|Procesoptimalisatie & Organisatie]] - Voor deep work en continuous improvement
+
+**Data beveiliging:**
+- [[kaarten/data-collectie-en-industrial-data-platforms|Data-collectie & Industrial Data Platforms]] - Voor secure data handling
+- [[kaarten/event-streaming-messaging-en-integratie|Event Streaming & Messaging]] - Voor secure messaging architectures
 
 ---
 ← Terug naar [[kaarten/index|Overzicht van alle kaarten]] | [[index|Kompas hoofdpagina]]

@@ -40,6 +40,8 @@ Deze kaart biedt een overzicht van alle begrippen binnen **digitale transformati
 - [[data-analyse|Data‑analyse]]
 - [[virtual-factory-digital-twin-digitale-tweeling|Digitale tweeling (digital twin)]]
 - [[application-programming-interface|Application Programming Interface (API)]]
+- [[mqtt|MQTT]] - IoT messaging protocol voor connectivity
+- [[opc-ua|OPC UA]] - Industrial connectivity standard
 
 **AI & Advanced Technologies:**
 - [[kunstmatige-intelligentie|Kunstmatige intelligentie (AI)]]

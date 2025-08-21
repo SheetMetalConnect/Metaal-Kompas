@@ -40,7 +40,18 @@ Deze kaart biedt een overzicht van alle begrippen binnen **innovatie & toekomstt
 
 ## Gerelateerde kaarten
 
-[PLACEHOLDER - Links naar gerelateerde kaarten worden later toegevoegd]
+**Fundamentele transformatie:**
+- [[kaarten/digitale-transformatie-en-industrie-40|Digitale Transformatie & Industrie 4.0/5.0]] - Voor implementatie van toekomsttechnologieën
+- [[kaarten/methodologie-en-werkwijzen|Methodologie & Werkwijzen]] - Voor innovatiemethodologieën en systematische ontwikkeling
+
+**Technologische implementatie:**
+- [[kaarten/softwaredeployment-en-architectuur|Software & Architectuur]] - Voor cloud en edge technologieën
+- [[kaarten/data-analyse-en-business-intelligence|Data & Business Intelligence]] - Voor AI en machine learning toepassingen
+- [[kaarten/event-streaming-messaging-en-integratie|Event Streaming & Messaging]] - Voor IoT en real-time processing
+
+**Operationele toepassing:**
+- [[kaarten/procesoptimalisatie-en-organisatie|Procesoptimalisatie & Organisatie]] - Voor lean en agile manufacturing
+- [[kaarten/kwaliteitsmanagement-en-software|Kwaliteitsmanagement & Software]] - Voor smart quality systems
 
 ---
 ← Terug naar [[kaarten/index|Overzicht van alle kaarten]] | [[index|Kompas hoofdpagina]]

@@ -38,6 +38,9 @@ Deze kaart biedt een overzicht van alle begrippen binnen **kwaliteitsmanagement 
 - [[procescapabiliteitsindex|Procescapabiliteitsindex (Cp/Cpk)]]
 - [[production-part-approval-process|Production Part Approval Process (PPAP)]]
 - [[statistical-process-control-software|Statistical Process Control‑software (SPC‑software)]]
+- [[lean-manufacturing|Lean Manufacturing]] - Voor verspilling eliminatie
+- [[kaizen|Kaizen]] - Continue kwaliteitsverbetering
+- [[overall-equipment-effectiveness|OEE]] - Voor equipment kwaliteitsmonitoring
 
 
 ## Gerelateerde kaarten

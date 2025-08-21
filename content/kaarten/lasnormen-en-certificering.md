@@ -21,9 +21,17 @@ Deze kaart biedt een overzicht van alle begrippen binnen **lasnormen & certifice
 - [[non-destructive-testing|Non‑Destructive Testing (NDT)]]
 - [[visuele-lasinspectie|Visuele lasinspectie (VT)]]
 
+## Digitale Laskwaliteit
+- [[lasrobot-programmering|Lasrobot-programmering]] - Voor geautomatiseerde lassing
+- [[adaptieve-lassoftware|Adaptieve lassoftware]] - Voor real-time lasoptimalisatie
+- [[traceerbaarheidssysteem|Traceerbaarheidssysteem]] - Voor WPS en lasser tracking
+
 ## Gerelateerde kaarten
 
-- [[kaarten/kwaliteitsmanagement-en-software|Kwaliteitsmanagement & Software]] - Voor laskwaliteitssystemen en SPC\n- [[kaarten/traceerbaarheid-en-productidentificatie|Traceerbaarheid & Productidentificatie]] - Voor WPS en lasser tracking\n- [[kaarten/duurzaamheid-en-compliance|Duurzaamheid & Compliance]] - Voor regelgeving en certificering\n- [[kaarten/productstructuur-en-documentatie|Productstructuur & Documentatie]] - Voor lasdocumentatie en BOM integration
+- [[kaarten/kwaliteitsmanagement-en-software|Kwaliteitsmanagement & Software]] - Voor laskwaliteitssystemen en SPC
+- [[kaarten/traceerbaarheid-en-productidentificatie|Traceerbaarheid & Productidentificatie]] - Voor WPS en lasser tracking
+- [[kaarten/duurzaamheid-en-compliance|Duurzaamheid & Compliance]] - Voor regelgeving en certificering
+- [[kaarten/productstructuur-en-documentatie|Productstructuur & Documentatie]] - Voor lasdocumentatie en BOM integration
 
 ---
 ← Terug naar [[kaarten/index|Overzicht van alle kaarten]] | [[index|Kompas hoofdpagina]]
