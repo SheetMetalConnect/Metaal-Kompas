@@ -4,22 +4,27 @@ title: 🧭 Metaal Kompas
 description: Kenniscompas voor digitale transformatie in de metaalindustrie
 ---
 
-# 🧭 Metaal Kompas
 *Kenniscompas voor digitale transformatie in de metaalindustrie*
 
-Welkom bij **Metaal Kompas** – een open kennisbank die industriële begrippen helder definieert voor digitale transformatie in de metaalbewerkende industrie.
+> [!info] Welkom bij Metaal Kompas
+> Een open kennisbank die industriële begrippen helder definieert voor digitale transformatie in de metaalbewerkende industrie. Deze [[digitale-tuin|digitale tuin]] bevat mijn studie- en reviewnotities als **learning in public** initiatief.
 
-## Over deze kennisbank
-
-Deze **[[digitale-tuin|digitale tuin]]** bevat mijn studie- en reviewnotities als **learning in public** initiatief. Het is een volledig gratis en open kennisbron, maar wordt aangeboden zonder garanties – we maken er samen iets moois van!
-
-> **Auteur:** [Luke van Enkhuizen](https://vanenkhuizen.com) – Oprichter van [Sheet Metal Connect](https://sheetmetalconnect.nl), consultancy voor de plaatwerkindustrie. Onafhankelijke **[[industrie-3-vs-4-integrators|Industrie 4.0 integrator]]**, trainer en adviseur gespecialiseerd in [[industrial-internet-of-things|Industrial Internet of Things (IIoT)]], [[unified-namespace|Unified Namespace (UNS)]] en [[digitale-transformatie|digitale transformatie]]. Absolute vakexpertise in plaatwerk en gerelateerde branches. Volledig onpartijdig en niet gebonden aan specifieke leveranciers.
+> [!note] Over de auteur
+> **[Luke van Enkhuizen](https://vanenkhuizen.com)** – Oprichter van [Sheet Metal Connect](https://sheetmetalconnect.nl), consultancy voor de plaatwerkindustrie. Onafhankelijke **[[industrie-3-vs-4-integrators|Industrie 4.0 integrator]]**, trainer en adviseur gespecialiseerd in [[industrial-internet-of-things|Industrial Internet of Things (IIoT)]], [[unified-namespace|Unified Namespace (UNS)]] en [[digitale-transformatie|digitale transformatie]]. Volledig onpartijdig en niet gebonden aan specifieke leveranciers.
 
 ---
 
-## Voor Beginners
+## 🔥 Hot Topic: AI & Digital Transformation
 
-**Nieuw in industriële digitalisering?** Start hier:
+> [!warning] Trending Now
+> **[[model-context-protocol-mcp|Model Context Protocol (MCP)]]** – Het nieuwe protocol van Anthropic dat AI-agents verbindt met externe data en tools. De "USB-C van AI" voor industriële toepassingen.
+
+---
+
+## 🎯 Voor Beginners
+
+> [!question] Nieuw in industriële digitalisering?
+> Start met deze fundamentele concepten:
 
 1. [[industriele-revoluties|Industriële Revoluties]] – Historische context van stoom tot AI
 2. [[unified-namespace|Unified Namespace]] – Moderne data-architectuur  
@@ -31,11 +36,10 @@ Deze **[[digitale-tuin|digitale tuin]]** bevat mijn studie- en reviewnotities al
 
 ## 🌟 Actuele Features
 
-**Nieuwe en trending onderwerpen:**
-
-• [[impact-per-bedrijfsgrootte-eu|EU Regelgeving Impact]] – DPP, CBAM, CSRD, EU ETS per bedrijfsgrootte  
-• [[digitaal-productpaspoort|Digitaal Productpaspoort (DPP)]] – Nieuwe EU-verplichting voor circulariteit  
-• [[kaarten/duurzaamheid-en-compliance|Duurzaamheid & Compliance]] – Hot topic: compliance navigatie
+> [!success] Nieuwe en trending onderwerpen
+> • [[impact-per-bedrijfsgrootte-eu|EU Regelgeving Impact]] – DPP, CBAM, CSRD, EU ETS per bedrijfsgrootte  
+> • [[digitaal-productpaspoort|Digitaal Productpaspoort (DPP)]] – Nieuwe EU-verplichting voor circulariteit  
+> • [[kaarten/duurzaamheid-en-compliance|Duurzaamheid & Compliance]] – Hot topic: compliance navigatie
 
 ---
 
@@ -79,5 +83,3 @@ Deze **[[digitale-tuin|digitale tuin]]** bevat mijn studie- en reviewnotities al
 ---
 
 **Volledig overzicht:** [[kaarten/index|Alle kaarten]]
-
-**Contact:** [vanenkhuizen.com](https://vanenkhuizen.com) | info@vanenkhuizen.com

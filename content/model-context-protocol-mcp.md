@@ -5,52 +5,127 @@ tags:
 title: Model Context Protocol (MCP)
 ---
 
-Het **Model Context Protocol (MCP)** is een open, gestandaardiseerd protocol, ontwikkeld door Anthropic (november 2024), dat de communicatie tussen AI-agents (zoals LLM’s) en externe data- en toolsystemen vereenvoudigt. Het biedt een uniforme, schaalbare interface waardoor AI-systemen veilig en efficiënt toegang krijgen tot contextuele data en functionaliteiten  [oai_citation:0‡Anthropic](https://docs.anthropic.com/en/docs/mcp?utm_source=chatgpt.com).
+**Model Context Protocol (MCP)** is een revolutionaire open standaard ontwikkeld door Anthropic in november 2024 die een fundamentele paradigmashift mogelijk maakt in hoe [[large-language-models|Large Language Models (LLM)]] en [[kunstmatige-intelligentie|AI-systemen]] op grote schaal toegepast kunnen worden in echte applicaties.
 
-##  Definitie en Architectuur
+## Definitie
 
-MCP werkt volgens een **client–servermodel**, gebaseerd op het protocol **JSON-RPC 2.0**, en ondersteunt zowel lokale (via standaardinvoer/uitvoer) als webgebaseerde communicatievormen ([HTTP/SSE])  [oai_citation:1‡Wikipedia](https://en.wikipedia.org/wiki/Model_Context_Protocol?utm_source=chatgpt.com) [oai_citation:2‡Model Context Protocol](https://modelcontextprotocol.io/specification/2025-06-18?utm_source=chatgpt.com).
+Het **Model Context Protocol (MCP)** is veel meer dan alleen een communicatieprotocol - het is een fundamenteel nieuwe aanpak die de kracht van [[large-language-models|Large Language Models (LLM)]] en [[kunstmatige-intelligentie|kunstmatige intelligentie]] daadwerkelijk toepasbaar maakt op industriële schaal. 
 
-- **MCP-server**: maakt data, functies of tools beschikbaar aan AI-clients.
-- **MCP-client**: de AI-applicatie (bijv. een LLM of agent) die context opvraagt en gebruikt.
-  
-Er zijn SDK's beschikbaar in talen als Python, TypeScript, Java en C#, en referentie-implementaties voor systemen zoals Google Drive, Slack, GitHub, Postgres, enz.  [oai_citation:3‡Wikipedia](https://en.wikipedia.org/wiki/Model_Context_Protocol?utm_source=chatgpt.com) [oai_citation:4‡Anthropic](https://docs.anthropic.com/en/docs/mcp?utm_source=chatgpt.com).
+MCP doorbreekt de traditionele beperkingen van AI-systemen door ze niet langer te behandelen als geïsoleerde tools, maar als intelligente agents die naadloos kunnen integreren met bestaande systemen, real-time data kunnen verwerken, en autonome beslissingen kunnen nemen. Het protocol transformeert [[large-language-models|LLM's]] van conversationele interfaces naar krachtige orchestratie-engines voor complexe industriële processen.
 
-##  De USB-C analogie
+### De paradigmashift
+Waar traditionele integraties statisch en rigide zijn, maakt MCP **dynamische, contextbewuste AI-integratie** mogelijk:
+- **Van connector naar orchestrator**: AI wordt de centrale intelligentie die systemen bestuurt
+- **Van batch naar real-time**: Continue, adaptieve verwerking in plaats van vooraf gedefinieerde workflows  
+- **Van tool naar agent**: AI-systemen die zelfstandig kunnen redeneren en handelen
+- **Van silo naar ecosysteem**: Holistische benadering waarbij AI alle aspecten van de organisatie kan integreren
 
-MCP wordt vaak vergeleken met **USB-C**, als universele poort voor hardware:  
-- Net zoals USB-C stroom, data èn video levert via één aansluiting, biedt MCP één gestandaardiseerde interface voor AI om met tools en data te communiceren.
-- Nieuwe agents of systemen kunnen eenvoudig worden aangesloten zonder maatwerk: toekomstbestendig, interoperabel, vendor-ongevoelig  [oai_citation:5‡Anthropic](https://docs.anthropic.com/en/docs/mcp?utm_source=chatgpt.com) [oai_citation:6‡stytch.com](https://stytch.com/blog/model-context-protocol-introduction/?utm_source=chatgpt.com).
+## Kenmerken
 
-##  Real-time streaming en agent-samenwerking
+### Technische architectuur
+MCP werkt volgens een **client-servermodel** gebaseerd op JSON-RPC 2.0 en ondersteunt:
+- **MCP-server**: Maakt data, functies of tools beschikbaar aan AI-clients
+- **MCP-client**: De [[kunstmatige-intelligentie|AI-applicatie]] die context opvraagt en gebruikt
+- **Communicatie**: Lokaal (standaardinvoer/uitvoer) en webgebaseerd (HTTP/SSE)
 
-### Streaming data
-MCP ondersteunt real-time datastreaming: proces- of sensorgegevens kunnen via bijvoorbeeld **MQTT** of **OPC UA Pub/Sub** continu worden geleverd aan AI-agents of dashboards — echt Industrie 4.0-waardig.
+### USB-C voor AI
+Het unieke karakter van MCP ligt in de universele aansluiting:
+- **Gestandaardiseerde interface**: Eén protocol voor alle AI-systeem communicatie
+- **Plug-and-play**: Nieuwe agents of systemen kunnen direct worden aangesloten
+- **Vendor-onafhankelijk**: Geen leveranciersvergrendeling of maatwerk-integraties
+- **Toekomstbestendig**: Schaalbaar framework voor komende AI-ontwikkelingen
 
-### Agent-to-agent samenwerking
-MCP maakt het mogelijk dat AI-agents onderling communiceren over gedeelde context:
-- Bijvoorbeeld planning-agenten, onderhouds-agents en supply-chain-agents die repliek voeren in één uniforme, veilige structuur, zonder bespoke integraties.
+### Real-time en streaming capabilities
+MCP onderscheidt zich door ondersteuning voor:
+- **Streaming data**: Real-time verwerking van sensor- en procesgegevens
+- **Event-driven architectuur**: Continue datastromen via [[mqtt-protocol|MQTT]] of [[opc-ua-pub-sub|OPC UA Pub/Sub]]
+- **Live dashboards**: Direct genereren van real-time visualisaties
+- **Interactieve data**: Upload, manipulatie en analyse van data tijdens gesprekken
 
-##  Rol binnen INDUSTRIE 4.0 – 5.0
+MCP maakt geavanceerde AI-agent samenwerking mogelijk:
+- **Multi-agent systemen**: Planning-agents, onderhouds-agents en supply-chain-agents communiceren via één gestandaardiseerd protocol
+- **Gedeelde context**: Agents delen real-time informatie zonder complex maatwerk
+- **Orchestratie**: Centrale coördinatie van verschillende gespecialiseerde AI-agents
 
-- **Industrie 4.0**: MCP kan functioneren als datahub of schakel tussen ERP, MES, UNS en AI-tools.  
-- **Industrie 5.0**: het faciliteert samenwerking tussen *mens én AI*, met snelle, contextbewuste beslissingen in realtime workflows.
+## Toepassing
 
-##  Beveiliging & adoptie
+### Praktische toepassingen
+MCP maakt verschillende nieuwe mogelijkheden mogelijk:
 
-Hoewel MCP brede adoptie kent bij Anthropic, OpenAI, Google DeepMind en Microsoft, kenmerkt het zich als “open maar met risico's”:  
-- Er zijn bekende uitdagingen rond prompt-injectie, tool poisoning en toegangscontrole.  
-- Frameworks en best practices zijn in ontwikkeling om deze veilig te adopteren  [oai_citation:7‡Wikipedia](https://en.wikipedia.org/wiki/Model_Context_Protocol?utm_source=chatgpt.com).
+**Interactieve data-analyse:**
+- **Chatten met data**: Conversationele analyse van productiegegevens, kwaliteitsmetingen en prestatie-indicatoren
+- **Dynamische uploads**: Real-time uploaden en analyseren van bestanden tijdens gesprekken
+- **Live dashboards**: Automatisch genereren van visualisaties gebaseerd op gespreksvragen
 
-##  Samenvattend overzicht
+**Systeem-integratie:**
+- **Data-ophaling**: Agents kunnen automatisch data ophalen uit [[enterprise-resource-planning|ERP]], [[manufacturing-execution-system|MES]], en [[scada-systemen|SCADA]]
+- **Cross-platform communicatie**: Naadloze verbinding tussen verschillende industrial software pakketten
+- **Real-time monitoring**: Continue bewaking van productieprocessen met AI-ondersteuning
 
-| Kenmerk             | Beschrijving                                                                 |
-|---------------------|------------------------------------------------------------------------------|
-| **Breed compatibel**| Eén standaard (MCP) in plaats van vele API’s en integraties                 |
-| **Realtime data**   | Ondersteuning voor streaming data en event-driven architectuur               |
-| **Agent samenwerking** | LLM-agents kunnen data en workflows delen via MCP                           |
-| **Veilige toegang** | Beheersbare toegang met beveiligingsmaatregelen en open standaard             |
+### Industrie 4.0/5.0 context
+**Industrie 4.0 toepassingen:**
+- **Smart factory integration**: MCP als datahub tussen [[enterprise-resource-planning|ERP]], [[manufacturing-execution-system|MES]], [[unified-namespace|UNS]] en AI-tools
+- **Predictive maintenance**: AI-agents analyseren real-time machine data voor voorspellend onderhoud
+- **Quality control**: Geautomatiseerde kwaliteitscontrole met AI-agents die sensordata interpreteren
+
+**Industrie 5.0 visie:**
+- **Mens-AI samenwerking**: Seamless collaboration tussen operators en AI-agents
+- **Contextbewuste besluitvorming**: AI-agents met volledige toegang tot productiecontext
+- **Adaptieve workflows**: Workflows die zich real-time aanpassen aan veranderende omstandigheden
+
+### Grootschalige AI-transformatie
+MCP maakt de **grootschalige toepassing van [[large-language-models|LLM's]]** mogelijk door:
+
+**Schaalbare AI-implementatie:**
+- **Enterprise-wide deployment**: Eén protocol voor alle AI-toepassingen binnen een organisatie
+- **Cross-domain integratie**: AI-agents die moeiteloos werken tussen productie, planning, kwaliteit en onderhoud
+- **Exponentiële waardevermenigvuldiging**: Elke nieuwe AI-agent versterkt het hele ecosysteem
+
+**Fundamentele businessmodel verandering:**
+- **Van project naar platform**: Continue AI-evolutie in plaats van eenmalige implementaties  
+- **Van kosten naar waardevermenigvuldiging**: AI wordt de motor voor continue optimalisatie
+- **Van reactief naar predictief**: Proactieve systemen die problemen voorkomen in plaats van oplossen
+
+### Agentic workflows revolutie
+MCP faciliteert de overgang naar volledig **agentic workflows** - een fundamenteel andere manier van werken:
+- **Autonome orchestratie**: [[large-language-models|LLM's]] die complete productieprocessen kunnen leiden en optimaliseren
+- **Zelfevoluerende systemen**: AI die zichzelf verbetert door continue data-analyse en leerprocessen  
+- **Intelligente anticipatie**: Systemen die marktveranderingen en operationele behoeften voorspellen en voorbereiden
+- **Democratisatie van expertise**: Complexe industriële kennis toegankelijk maken voor alle medewerkers via AI-assistentie
+
+## Gerelateerde begrippen
+
+**AI en automatisering:**
+- [[kunstmatige-intelligentie|Kunstmatige intelligentie]]
+- [[machine-learning|Machine Learning]]
+- [[large-language-models|Large Language Models (LLM)]]
+- [[conversational-ai|Conversational AI]]
+
+**Communicatie protocollen:**
+- [[mqtt-protocol|MQTT Protocol]]
+- [[opc-ua-pub-sub|OPC UA Pub/Sub]]
+- [[api-first-architectuur|API-first architectuur]]
+- [[json-rpc|JSON-RPC]]
+
+**Industrie 4.0/5.0 systemen:**
+- [[enterprise-resource-planning|Enterprise Resource Planning (ERP)]]
+- [[manufacturing-execution-system|Manufacturing Execution System (MES)]]
+- [[scada-systemen|SCADA systemen]]
+- [[unified-namespace|Unified Namespace (UNS)]]
+- [[digital-twin|Digital Twin]]
+
+**Digitale transformatie:**
+- [[agile-methodiek|Agile methodiek]]
+- [[event-driven-architecture|Event-driven architectuur]]
+- [[real-time-analytics|Real-time analytics]]
+- [[human-ai-collaboration|Human-AI collaboration]]
+
+## Bronnen
+
+- [Anthropic MCP Documentatie](https://docs.anthropic.com/en/docs/mcp) - Officiële documentatie en laatste standaarden
+- [Model Context Protocol Specificatie](https://modelcontextprotocol.io/) - Technische specificaties en implementaties
+- Anthropic Blog: "Introducing the Model Context Protocol" (november 2024)
+- SDK's beschikbaar voor Python, TypeScript, Java en C#
 
 ---
-
 ← Terug naar [[kaarten/digitale-transformatie-en-industrie-40-50|Digitale transformatie & Industrie 4.0/5.0 kaart]]
