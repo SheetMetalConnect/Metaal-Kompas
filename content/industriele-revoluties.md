@@ -1,7 +1,6 @@
 ---
 tags:
   - innovatie-en-toekomsttrends
-  - live
 title: Industriële Revoluties
 ---
 *Industriële revoluties* zijn fundamentele transformaties in de manier waarop de mensheid produceert, werkt en leeft. Elke revolutie wordt gekenmerkt door baanbrekende technologieën die productieprocessen én maatschappelijke structuren radicaal hervormen.

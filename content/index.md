@@ -3,12 +3,10 @@ tags:
 title: 🧭 Metaal Kompas
 description: Kenniscompas voor digitale transformatie in de metaalindustrie
 ---
-
 *Kenniscompas voor digitale transformatie in de metaalindustrie*
 
 > [!info] Welkom bij Metaal Kompas
 > Een open kennisbank die industriële begrippen helder definieert voor digitale transformatie in de metaalbewerkende industrie. Deze [[digitale-tuin|digitale tuin]] bevat mijn studie- en reviewnotities als **learning in public** initiatief.
-
 > [!note] Over de auteur
 > **[Luke van Enkhuizen](https://vanenkhuizen.com)** – Oprichter van [Sheet Metal Connect](https://sheetmetalconnect.nl), consultancy voor de plaatwerkindustrie. Onafhankelijke **[[industrie-3-vs-4-integrators|Industrie 4.0 integrator]]**, trainer en adviseur gespecialiseerd in [[industrial-internet-of-things|Industrial Internet of Things (IIoT)]], [[unified-namespace|Unified Namespace (UNS)]] en [[digitale-transformatie|digitale transformatie]]. Volledig onpartijdig en niet gebonden aan specifieke leveranciers.
 
