@@ -25,8 +25,7 @@ MQTT is sindsdien geëvolueerd tot een breed geaccepteerd protocol voor IoT, ind
 - **2019** — MQTT 5.0 uitgebracht (enterprise-gerichte verbeteringen)
 - **2020s** — Unified Namespace (UNS) patronen ontstaan, gebruikmakend van MQTT als transport fabric
 
-
-![](https://www.youtube.com/watch?v=pPddIsZW4T8)
+[]
 
 ## Waarom MQTT bestaat
 

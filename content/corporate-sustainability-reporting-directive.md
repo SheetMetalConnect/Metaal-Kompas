@@ -7,7 +7,7 @@ title: Corporate Sustainability Reporting Directive (CSRD)
 ---
 *Corporate Sustainability Reporting Directive (CSRD)* is een Europese richtlijn die bedrijven verplicht uitgebreid te rapporteren over hun duurzaamheidsprestaties. Het doel is om de transparantie te vergroten en duurzame bedrijfsvoering te stimuleren.
 
->[!warning] Disclaimer: Dit document is een praktisch overzicht, geen juridisch advies. Regels en drempels kunnen nog wijzigen. Raadpleeg altijd de officiële teksten van de Europese Commissie en nationale autoriteiten.
+>[!warning] Disclaimer: dit is een praktische gids, geen juridische informatie. Check altijd nationale bronnen en overweeg professioneel advies bij geschillen.
 
 ## Definitie
 
@@ -72,14 +72,13 @@ De CSRD heeft aanzienlijke gevolgen voor bedrijven, met name in de maakindustrie
 - [[datagovernance|Datagovernance]]
 - [[supply-chain-management|Supply Chain Management (SCM)]]
 - [[milieuprestatie-berekening|Milieuprestatie-berekening]]
-- [[eu-regulaties-en-de-industrie|Impact van EU Regulaties]]
 
 ## Bronnen
 
 - **Europese Commissie**: Officiële teksten en Q&A's over de Corporate Sustainability Reporting Directive (CSRD). [Link naar officiële EU-pagina over CSRD]
 - **EFRAG (European Financial Reporting Advisory Group)**: Documentatie over de ontwikkeling van de European Sustainability Reporting Standards (ESRS). [Link naar EFRAG website]
 - **Accountancy Europe**: Publicaties en richtlijnen over de implementatie van de CSRD. [Link naar Accountancy Europe]
-- **Impact per bedrijfsgrootte EU**: Zie ook de specifieke impactanalyse voor staalverwerkende bedrijven in [[eu-regulaties-en-de-industrie|EU Regulaties (DPP, CBAM, CSRD, ETS) en de Industrie]].
+- **Impact per bedrijfsgrootte EU**: Zie ook de specifieke impactanalyse voor staalverwerkende bedrijven in [[impact-per-bedrijfsgrootte-eu]].
 
 ---
 ← Terug naar [[kaarten/duurzaamheid-en-compliance|Duurzaamheid & Compliance kaart]]

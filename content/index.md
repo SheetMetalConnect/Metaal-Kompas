@@ -47,23 +47,13 @@ Welkom bij **Metaal Kompas** – een kennisbase die industriële begrippen helde
 - [[kaarten/lasnormen-en-certificering|Lasnormen & Certificering]]
 - [[kaarten/duurzaamheid-en-compliance|Duurzaamheid & Compliance]]
 
-### 🛡️ Overig
-- [[kaarten/industrial-security|Industrial Security]]
-- [[kaarten/asset-en-lifecycle-management|Asset & Lifecycle Management]]
+### 🛡️ Security & Methodologie
+- [[kaarten/extra-industrie-en-security-topics|Security & IT/OT]]
 - [[kaarten/methodologie-en-werkwijzen|Methodologie & Werkwijzen]]
-- [[kaarten/productiviteit-en-kenniswerk|Productiviteit & Kenniswerk]]
-- [[kaarten/professionele-ontwikkeling|Professionele Ontwikkeling]]
 
 ---
 
 **Volledig overzicht:** [[kaarten/index|Alle kaarten →]]
-
----
-
-> [!info] Nieuw: Impact van EU Regulaties
-> Een praktisch overzicht van de impact van het Digitaal Productpaspoort (DPP), CBAM, CSRD en het EU ETS op de Nederlandse maakindustrie.
-> [[eu-regulaties-en-de-industrie|Lees de analyse →]]
-
 
 ---
 

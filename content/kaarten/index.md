@@ -52,17 +52,14 @@ Welkom bij het centrale overzicht van alle **Metaal Kompas kenniskaarten**. Elke
 - [[kwaliteitsmanagement-en-software|**Kwaliteitsmanagement & Software**]] - QMS, SPC, ISO normen
 - [[lasnormen-en-certificering|**Lasnormen & Certificering**]] - Laskwalificaties, procedures
 - [[duurzaamheid-en-compliance|**Duurzaamheid & Compliance**]] - ESG, circulaire economie, regelgeving
+- [[extra-industrie-en-security-topics|**Security & IT/OT**]] - Cybersecurity, netwerken, beveiliging
 
 ---
 
-## 🛡️ **Overig**
-*Overige onderwerpen*
+## 🛠️ **Methodologie & Werkwijzen**
+*Bewezen methodieken en best practices*
 
-- [[industrial-security|**Industrial Security**]] - Cybersecurity, netwerken, beveiliging
-- [[asset-en-lifecycle-management|**Asset & Lifecycle Management**]] - Beheer van productiemiddelen
 - [[methodologie-en-werkwijzen|**Methodologie & Werkwijzen**]] - Agile, DevOps, change management
-- [[productiviteit-en-kenniswerk|**Productiviteit & Kenniswerk**]] - Efficiënter werken en kennisbeheer
-- [[professionele-ontwikkeling|**Professionele Ontwikkeling**]] - Vaardigheden voor de toekomst
 
 ---
 
