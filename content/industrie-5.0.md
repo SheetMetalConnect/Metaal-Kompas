@@ -13,6 +13,8 @@ Industrie 5.0, ook wel de vijfde industriële revolutie genoemd, richt zich op d
 > "De vijfde industriële revolutie begon in de herfst van 2022 toen ChatGPT werd gelanceerd... het gaat over de convergentie van menselijke en kunstmatige intelligentie."  
 > — Walker Reynolds
 
+![](https://www.youtube.com/watch?v=3PSEvbE5LFc)
+
 ## Relatie met Industrie 4.0
 
 Industrie 4.0 creëerde de **basisarchitectuur**: alle systemen, van ERP en MES tot PLC en SCADA, verbonden in één **Unified Namespace**. Dit doorbrak de traditionele scheiding tussen afdelingen en maakte data beschikbaar voor de hele organisatie.  

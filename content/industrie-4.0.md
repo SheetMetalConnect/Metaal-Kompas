@@ -16,6 +16,8 @@ De term **Industrie 4.0** werd in 2011 geïntroduceerd tijdens de Hannover Messe
 
 De essentie van Industrie 4.0 is het doorbreken van organisatorische silo’s. Productie, logistiek, kwaliteitsmanagement, onderhoud, finance en zelfs klantinteractie worden verbonden in één samenhangend digitaal geheel.  
 
+![](https://www.youtube.com/watch?v=0gd4CcZYo9s)
+
 > [!quote] Walker Reynolds  
 > *“Als je als organisatie nu tot vijf jaar van nu niet gebruikmaakt van IoT en Industrie 4.0, dan zul je niet over de infrastructuur beschikken om efficiëntiewinst te behalen wanneer je naar de volgende stap evolueert.”*
 

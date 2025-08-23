@@ -7,6 +7,8 @@ title: Message Queuing Telemetry Transport (MQTT)
 ---
 _Message Queuing Telemetry Transport (MQTT)_ is een lightweight messaging protocol (lichtgewicht berichtenprotocol) dat speciaal is ontworpen voor machine-to-machine communicatie in omgevingen met beperkte bandbreedte en onbetrouwbare netwerkverbindingen.
 
+![](https://www.youtube.com/watch?v=KAYNg7meAdo&t=134s)
+
 > [!important] Protocol vs Broker MQTT is het **protocol**, niet de broker. Een broker is slechts één component binnen de grotere MQTT-architectuur, net zoals UNS geen broker is maar een fabric (weefsel) of architectuur voor het organiseren van industriële data.
 
 ## Definitie

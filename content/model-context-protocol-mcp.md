@@ -7,6 +7,7 @@ title: Model Context Protocol (MCP)
 
 **Model Context Protocol (MCP)** is een revolutionaire open standaard ontwikkeld door Anthropic in november 2024 die een fundamentele paradigmashift mogelijk maakt in hoe [[large-language-models|Large Language Models (LLM)]] en [[kunstmatige-intelligentie|AI-systemen]] op grote schaal toegepast kunnen worden in echte applicaties.
 
+![](https://www.youtube.com/watch?v=FLpS7OfD5-s)
 ## Definitie
 
 Het **Model Context Protocol (MCP)** is veel meer dan alleen een communicatieprotocol - het is een fundamenteel nieuwe aanpak die de kracht van [[large-language-models|Large Language Models (LLM)]] en [[kunstmatige-intelligentie|kunstmatige intelligentie]] daadwerkelijk toepasbaar maakt op industriële schaal. 
