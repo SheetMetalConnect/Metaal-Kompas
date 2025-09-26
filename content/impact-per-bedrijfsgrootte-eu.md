@@ -106,6 +106,18 @@ Het ETS is de **hoofdpijler van het Europese klimaatbeleid**: wie veel uitstoot 
 > [!tip] Voor de meeste **mkb-metaalbedrijven** komt de echte impact pas na 2026.  
 > Maar **voorbereiden loont**: begin klein met dataverzameling (energie per machine, materiaalstromen, inkoopdata).  Zo voorkom je dat je straks alles halsoverkop moet inregelen.  
 
+> [!example]- **Praktijkvoorbeeld: Plaatstaalverwerkend bedrijf (150 werknemers, €100M omzet)**
+> 
+> **Situatie:** CNC-snijden en lassen van staalplaten tot constructie-elementen. Inkoop via Nederlandse handelaren (MCB, Thyssen), geen directe import.
+> 
+> **DPP-impact:** Verplicht vanaf 2027-2028. Moet CO₂-data verzamelen van staalleveranciers, energieverbruik per bewerking bijhouden, en elk product voorzien van digitale identificatie (QR/NFC). Verwachte investeringen: €50K-150K voor datasystemen.
+> 
+> **CSRD-impact:** Valt onder rapportageplicht (2 van 3 criteria: omzet >€50M, waarschijnlijk balanstotaal >€25M). Eerste rapport in 2026 over FY2025. Moet Scope 1-3 emissies berekenen inclusief ketendata van staalleveranciers.
+> 
+> **Onzekerheid:** December 2025 Omnibus-stemming kan CSRD-grens verhogen naar 1000+ werknemers → mogelijk vrijstelling.
+> 
+> → Zie volledig [[eu-duurzaamheidsregels-analyse-plaatstaalverwerking|praktijkvoorbeeld met juridische basis en tijdlijnen]]
+
 ---
 
 ## Impact naar bedrijfsgrootte
