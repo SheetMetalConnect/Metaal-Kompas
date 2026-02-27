@@ -3,13 +3,13 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Kompas",
+    pageTitle: "Metaal Wegwijzer",
     pageTitleSuffix: " · vanenkhuizen.com",
     enableSPA: true,
     enablePopovers: true,
     analytics: { provider: "plausible" },
     locale: "nl-NL",
-    baseUrl: "kompas.vanenkhuizen.com",
+    baseUrl: "metaalwegwijzer.vanenkhuizen.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {

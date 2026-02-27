@@ -1,15 +1,15 @@
-# 🧭 Kompas
+# 🧭 Metaal Wegwijzer
 
 *Open kennisplatform voor digitale transformatie in de metaalindustrie*
 
-**Kompas** is een open-source kennisbase die industriële begrippen helder definieert en richting geeft binnen de context van digitale transformatie in de metaalbewerkende industrie. Het combineert traditionele productiekennis met moderne digitale technologieën in de Nederlandse taal.
+**Metaal Wegwijzer** is een open-source kennisbase die industriële begrippen helder definieert en richting geeft binnen de context van digitale transformatie in de metaalbewerkende industrie. Het combineert traditionele productiekennis met moderne digitale technologieën in de Nederlandse taal.
 
-🌐 **Website:** https://sheetmetalconnect.github.io/Metaal-Kompas/
+🌐 **Website:** https://metaalwegwijzer.vanenkhuizen.com/
 📧 **Contact:** info@vanenkhuizen.com
 
 ## 🎯 Over dit Project
 
-Kompas biedt:
+Metaal Wegwijzer biedt:
 
 - **Heldere definities** van industriële begrippen in Nederlandse taal
 - **Praktische toepassingen** specifiek voor de metaalindustrie  
@@ -44,8 +44,8 @@ Begin bij de [startpagina](content/index.md) voor een volledig overzicht.
 
 ```bash
 # Clone de repository
-git clone https://github.com/SheetMetalConnect/Kompas.git
-cd Kompas
+git clone https://github.com/SheetMetalConnect/Metaal-Kompas.git
+cd Metaal-Kompas
 
 # Installeer dependencies
 npm install
@@ -56,7 +56,7 @@ npx quartz build --serve
 
 ## 🤝 Bijdragen
 
-Kompas is volledig open-source en verwelkomt bijdragen van iedereen:
+Metaal Wegwijzer is volledig open-source en verwelkomt bijdragen van iedereen:
 
 ### Manieren om Bij te Dragen
 
@@ -88,7 +88,7 @@ Dit project valt onder de [MIT License](LICENSE.txt) - zie het licentiebestand v
 
 ### Open Source Commitment
 
-Kompas is en blijft volledig open-source. Alle content, configuraties en aanpassingen zijn vrij beschikbaar voor:
+Metaal Wegwijzer is en blijft volledig open-source. Alle content, configuraties en aanpassingen zijn vrij beschikbaar voor:
 - Gebruik
 - Modificatie  
 - Redistributie
@@ -121,7 +121,22 @@ Deze kennisbase wordt mogelijk gemaakt door **[Quartz v4](https://quartz.jzhao.x
 - **Node.js:** >= 22
 - **Deployment:** GitHub Pages via GitHub Actions
 - **Content:** Markdown met Obsidian-compatible wikilinks
-- **Theming:** Aangepaste Nederlandse industriële thema's
+- **Theming:** Aangepaste Nord-stijl (dark default)
+
+## 🔧 Onderhoud & Updates
+
+Snelle onderhoudscheck:
+
+```bash
+npm ci
+npm run check
+npx quartz build
+npm outdated
+npm audit
+```
+
+Quartz core in deze repo gebruikt momenteel **v4.5.1** (`quartz/cli/constants.js`).
+Dependency-updates kunnen veilig met patch/minor upgrades worden doorgevoerd; major upgrades eerst apart testen.
 
 ---
 

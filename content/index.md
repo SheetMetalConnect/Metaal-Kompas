@@ -1,9 +1,9 @@
 ---
 tags: 
-title: 🧭 Metaal Kompas
-description: Kenniscompas voor digitale transformatie in de metaalindustrie
+title: 🧭 Metaal Wegwijzer
+description: Kenniswijzer voor digitale transformatie in de metaalindustrie
 ---
-*Kenniscompas voor digitale transformatie in de metaalindustrie*
+*Kenniswijzer voor digitale transformatie in de metaalindustrie*
 
 Een open kennisbank die industriële begrippen helder definieert voor digitale transformatie in de metaalbewerkende industrie. Deze [[digitale-tuin|digitale tuin]] bevat mijn studie- en reviewnotities als **learning in public** initiatief.
 
